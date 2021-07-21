@@ -1,90 +1,122 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
 
+  - id: "0.1"
+    src:
+    caption: Two ant nests made in 2006, stored in the living room of the artist’s parents, Rosario, Argentina. Soil, glue, Kraft paper, and small graveyard crosses.
+    credit: Adrián Villar Rojas
+  - id: "0.2"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Pedazos de las personas que amamos* (Pieces of the People We Love), 2007. Styrofoam, cardboard, balsa wood, epoxy putty, unfired clay, soil, sponge cakes, insects, paper, ketchup, corn flour, potatoes, cacti, artificial plants, tree branches, miniature pine trees, trophies, lamps, fish, fish tank, loudspeakers, graphite pencil leads, motocross helmet, trainers, televisions, and DVD players, all collected in Rosario, 640 × 440 × 130 cm. Installation view, 4th arteBA-Petrobras Visual Arts Prize, Buenos Aires, 2007.
+    credit: Tomás Lerner, courtesy the artist
+  - id: "0.3"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Untitled*, from the series *Pedazos de las personas que amamos* (Pieces of the People We Love), 2007. Sponge cake, marzipan, robot, miniature pine trees, confetti sprinkles, and balsa wood, 30 × 50 × 50 cm. Moderna Museet, Stockholm. Installation view, *Fantasma*, Moderna Museet, Stockholm, 2015.
+    credit: Åsa Lundén, courtesy the artist and Moderna Museet
+  - id: "0.4"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Lo que el fuego me trajo* (What Fire Has Brought Me), 2008. Unfired clay, bricks, cement, demolition rubble, water tanks, water, lime, sand, wood, metal, mirrors, glass, soap, mollusk shells, car windscreen, car hood, badges, stickers, sprouting potatoes, corals, stones, ceramic objects, cold porcelain, trainers, glass jars, burned bread, pasta, Post-it note cube, and jewelry, all collected in Buenos Aires.
+    credit: Ignacio Iasparra, courtesy the artist and Ruth Benzacar Galeria de Arte
+  - id: "0.5"
+    src:
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Mi familia muerta* (My Dead Family), 2009. Unfired local clay and rocks, 300 × 2700 × 400 cm. Installation view, Parque Yatana, 2a Bienal del Fin del Mundo, Ushuaia, Argentina, 2009."
+    credit: Carla Barbero, courtesy the artist
+  - id: "0.6"
+    src:
+    caption: "*Brick Farm*, 2012–ongoing, an experimental collaborative studio located in a traditional brickyard on the outskirts of Rosario, Argentina."
+    credit: Mario Caporali, courtesy the artist
+  - id: "0.7"
+    src:
+    caption: One of the first tasks that Villar Rojas’s team undertook in *Brick Farm* was to reproduce some elements of the *dOCUMENTA (13)* installation. This instinctive exercise allowed them to revisit the intense period of production that had just finished with a slower and more reflexive spirit. The photograph shows horses galloping alongside one such replica.
+    credit: Mario Caporali, courtesy the artist
+  - id: "0.8"
+    src:
+    caption: Hornero nest with interventions by Ariel Torti, who added his own mixture of clay to the exterior. Here the hornero added more layers of matter over Torti’s intervention—a unique bird-human interaction.
+    credit: Mario Caporali, courtesy the artist
+  - id: "0.9"
+    src:
+    caption: Construction of a brick kiln. Each layer of bricks is coated with charcoal, which helps amplify the heat during the firing process. A hornero nest is fired in the oven along with the bricks.
+    credit: Mario Caporali, courtesy the artist
+  - id: "0.10"
+    src:
+    caption: Hybrid pieces mixing clay, cement, organic, and industrial elements being manufactured by the team at workstations at a temporary studio for *Today We Reboot the Planet*, Serpentine Sackler Gallery, London, 2013.
+    credit: Adrián Villar Rojas, courtesy the artist
+  - id: "0.11"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014.
+    credit: Michel Zabé, courtesy the artist and kurimanzutto
+  - id: "0.12"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014.
+    credit: Michel Zabé, courtesy the artist and kurimanzutto
+  - id: "0.13"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014.
+    credit: Michel Zabé, courtesy the artist and kurimanzutto
+  - id: "0.14"
+    src:
+    caption: On the outskirts of Mexico City, the team found an agricultural and horticultural area, the Colonia San Gregorio Atlapulco, which was rented and treated as a sister space to *Brick Farm*. *Los teatros de Saturno* fed off and spilled over this area. The photograph shows a stratified cube; when it collapsed, its fragments went on to become part of *Fantasma*.
+    credit: Michel Zabé, courtesy the artist and kurimanzutto
+  - id: "0.15"
+    src:
+    caption: Ariel Torti experiments with potato grafts. Whatever was not used for *Los teatros de Saturno* was recycled, mixed, and exposed to the elements at Colonia San Gregorio Atlapulco—rotting, growing, and sprouting spontaneously.
+    credit: Michel Zabé, courtesy the artist and kurimanzutto
+  - id: "0.16"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Where the Slaves Live*, 2014. Stratified layers of soil, compost, tree branches, pigmented plaster, resin, trainers, watermelons, pumpkins, sprouting potatoes, courgettes, beetroots, germinated beans, fungi, seeds, corn, herbaceous plants, lichen, ivy leaves, and ferns, collected in Dover, London, and Yangji-ri, 560 × 300 × 240 cm. Fondation Louis Vuitton, Paris. Installation view, Fondation Louis Vuitton, Paris, 2014.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Fondation Louis Vuitton
+  - id: "0.17"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Most Beautiful of All Mothers*, 2015. Organic, inorganic, human-made, and machine-made matter, including cement, resin, polyurethane paint, lacquer, sand, soil, rocks, fishing nets, wood, snails, raw beef, corals, mollusk shells, feathers, and petrified wood, collected in Istanbul, Kalba, Mexico City, and Ushuaia. Installation view, shore by Leon Trotsky’s former house, Büyükada Island, 14th Istanbul Biennial, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, Marian Goodman Gallery, and kurimanzutto
+  - id: "0.18"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Rinascimento*, 2015. Organic, inorganic, human-made, and machine-made matter, including metamorphic, igneous, and sedimentary rocks, petrified wood, butterfly wings, raw beef and pork, swordfish, crows, geese, corals, mollusk shells, grapes, artichokes, watermelons, rubber and plaster molds, trainers, fishing nets, burned ropes, metal pots, and utensils, collected in Turin, Istanbul, Kalba, New York, and Mexico City. Installation view, Fondazione Sandretto Re Rebaudengo, Turin, Italy, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Fondazione Sandretto Re Rebaudengo
+  - id: "0.19"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min.
+    credit: Courtesy the artist and DMZ Real project
+  - id: "0.20"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min.
+    credit: Courtesy the artist and DMZ Real project
+  - id: "0.21"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Two Suns*, 2015. Unfired clay and cement re-creation of Michelangelo’s *David*, blackout curtains, and handmade tiles (cement, sand, turba, and pigments) embedded with organic, inorganic, human-made, and machine-made matter collected in New York, Kalba, Rosario, and Ushuaia. Installation view, Marian Goodman Gallery, New York, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Marian Goodman Gallery
+  - id: "0.22"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Work of the Ocean*, 2013. Drywall, paint, carpet, wallpaper, furniture, decorative objects, and nineteen figurines made of wire, modeling clay, and epoxy putty, dimensions variable, ranging from 17 × 29 × 13 cm to 26 × 66 × 20 cm. Installation view, De 11 Lijnen, Oudenburg, Belgium, 2013.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and De 11 Lijnen
+  - id: "0.23"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), diachronic object (potato with hypertrophied germination) from *Los teatros de Saturno* (The Theaters of Saturn), from the series *Fantasma* (Ghost), 2014. Installation view, *Fantasma*, Moderna Museet, Stockholm, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, kurimanzutto, and Moderna Museet
+  - id: "0.24"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Planetarium*, 2015. Organic, inorganic, human-made, and machine-made matter, including compost, cement, gypsum, pigments, sand, soil, ropes, obsidian, smithsonite, dogtooth calcite, jeans, sweaters, trainers, mollusk shells, tree branches, gastropod fossils, canaries, finches, parakeets, shark fins, corals, crabs, lobsters, fungi, watermelons, oranges, corn, sprouting potatoes, germinated beans, and pumpkins, collected in Kalba and Sharjah. Installation view, 12th Sharjah Biennial, Kalba, United Arab Emirates, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Sharjah Foundation
+  - id: "0.25"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *Planetarium*, 2015. Organic, inorganic, human-made, and machine-made matter, including compost, cement, gypsum, pigments, sand, soil, ropes, obsidian, smithsonite, dogtooth calcite, jeans, sweaters, trainers, mollusk shells, tree branches, gastropod fossils, canaries, finches, parakeets, shark fins, corals, crabs, lobsters, fungi, watermelons, oranges, corn, sprouting potatoes, germinated beans, and pumpkins, collected in Kalba and Sharjah. Installation view, 12th Sharjah Biennial, Kalba, United Arab Emirates, 2015.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Sharjah Foundation
+  - id: "0.26"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Ivy, colored lights, re-creation of parietal pictographs, *pixação* and Roman-period graffiti, floor tiles and blocks of Moroccan marble encrusted with ammonites and *Orthoceras* fossils, fossilized turtle shells, Neolithic stone tools, and septarian concretions. Installation view, Kunsthaus Bregenz (first floor), Austria, 2017.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, Marian Goodman Gallery, and kurimanzutto
+  - id: "0.27"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Biotope assemblage, corn, pumpkins, watermelons, wild grass, artichokes, olive trunks, common reed, rocks, compost, and soil. Installation view, Hill of the Nymphs, Athens. Commissioned by NEON in collaboration with the National Observatory of Athens, 2017.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and NEON
+  - id: "0.28"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Plaster reproduction of Victory of Samothrace (190 BCE) graffitied and fly-postered, military rucksack embroidered with Christian cross, military clothing, silver peace-sign pendant, Chinese flag, stromatolites, orange powder, metal, and glass vitrine, 210 × 314 × 175 cm. Installation view, Hill of the Nymphs, Athens. Commissioned by NEON in collaboration with the National Observatory of Athens, 2017.
+    credit: Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and NEON
+  - id: "0.29"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Nylon-printed and polyurethane CNC-milled reproductions of human and nonhuman animal figures, food and artifacts from the Metropolitan Museum of Art’s permanent collection coated in bespoke automotive paint, porcelain tiles, diamond plate flooring, hollybush hedges, public bar, signage, benches, and adapted and repainted pergola. Installation view, Roof Garden Commission at the Metropolitan Museum of Art, New York, 2017.
+    credit: Michael Kirby Smith, courtesy the artist, Marian Goodman Gallery, and kurimanzutto
+  - id: "0.30"
+    src:
+    caption: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Organic, inorganic, human-made, and machine-made matter, including freezer, saber-tooth tiger’s spine, skulls of both *Homo erectus* “Peking man” and Neanderthal “La Chapelleaux-Saints,” orangutan skeleton, rubber molds (from *The Most Beautiful of All Mothers* \[2015\]), crucifix and tree branches (from *Rinascimento* \[2015\]), fungi, vines, sprouting tubers, robotics, shark fins, and hornero nests, collected in Los Angeles, Istanbul, Kalba, Mexico City, and Turin, 330 × 111 × 203 cm. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017.
+    credit: Michel Zabé studio, courtesy the artist, Marian Goodman Gallery, and kurimanzutto
