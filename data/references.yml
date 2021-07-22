@@ -1,11 +1,575 @@
 entries:
-  - id: "Evans 1938"
-    full: "Evans, Walker. *American Photographs*. New York: Museum of Modern Art, 1938."
-  - id: "Lynd 1929"
-    full: "Lynd, Robert S., and Helen Merrell Lynd. *Middletown: A Study in American Culture* San Diego: Harcourt Brace Jovanovich, 1929; reprint, Harvest/HBJ, 1956."
-  - id: "Agee 1941"
-    full: "Agee, James, and Walker Evans. *Let Us Now Praise Famous Men: Three Tenant Families*. Boston: Houghton Mifflin, 1941."
-  - id: "Kirstein 1938"
-    full: "Kirstein, Lincoln. Photographs of America: Walker Evans *American Photographs*. New York: Museum of Modern Art, 1938"
-  - id: "West 1939"
-    full: "West, Anthony. Middletown and Main street. *Architectual Review* 85. 1939."
+  - id: "Adams and Gruen 2014"
+    full: "Adams, Carol J., and Lori Gruen, eds. 2014. *Ecofeminism: Feminist Intersections with Other Animals and the Earth*. New York: Bloomsbury."
+  - id: "Al-Doory and Domson 1984"
+    full: "Al-Doory, Y., and J. F. Domson. 1984. *Mould Allergy*. Philadelphia: Ed. Lea & Febiger."
+  - id: "Álvarez 2017"
+    full: "Álvarez, Raúl (Rulfo), ed. 2017. *48 Premio Montevideo de Artes Visuales 2017*. Montevideo: Centro de Exposiciones SUBTE, Intendencia de Montevideo."
+  - id: "Angelova et al. 2017"
+    full: "Angelova, Lora V., Bronwyn Ormsby, Joyce H. Townsend, and Richard Wolbers. 2017. *Gels in the Conservation of Art*. London: Archetype."
+  - id: "Ankersmit et al. 2011"
+    full: "Ankersmit, Bart, Agnes W. Brokerhof, Tatja Scholte, Simone Vermaat, and Gaby Wijers. 2011. “Installation Art Subjected to Risk Assessment: Jeffrey Shaw’s Revolution as Case Study.” In *Inside Installations: Theory and Practice in the Care of Complex Artworks*, edited by Tatja Scholte and Glenn Wharton, 91–101. Amsterdam: Amsterdam University Press."
+  - id: "Appelbaum 2007"
+    full: "Appelbaum, Barbara. 2007. *Conservation Treatment Methodology*. Oxford: Butterworth-Heinemann."
+  - id: "Bader 2017"
+    full: "Bader, Eva. 2017. “Die Barraque D’Dull Odde 1961–67 von Joseph Beuys. Dokumentation, Oberflächenreinigung und Sicherung einer ortsspezifischen Installation im Vorfeld der Sanierung des Kaiser Wilhelm Museums in Krefeld.” *ZKK Zeitschrift für Kunsttechnologie und Konservierung* 31 (2): 203–24."
+  - id: "Barker and Bracker 2005"
+    full: "Barker, Rachel, and Alison Bracker. 2005. “Beuys Is Dead: Long Live Beuys! Characterising Volition, Longevity, and Decision-Making in the Work of Joseph Beuys.” *Tate Papers*, no. 4 (Autumn): [<https://www.tate.org.uk/research/publications/tate-papers/04/beuys-is-dead-long-live-beuys-characterising-volition-longevity-and-decision-making-in-the-work-of-joseph-beuys>.]"
+  - id: "Barthes 1981"
+    full: "Barthes, Roland. 1981. *Camera Lucida*. Translated by Richard Howard. New York: Hill and Wang."
+  - id: "Baudelaire 2005"
+    full: "Baudelaire, Charles. 2005. *Las flores del mal*. Madrid: Cátedra."
+  - id: "Beccaria 2002"
+    full: "Beccaria, Marcella, ed. 2002. *Bruna Esposito*. Milan: Charta."
+  - id: "Beekens and Learner 2014"
+    full: "Beekens, Lydia, and Tom Learner, eds. 2014. *Conserving Outdoor Painted Sculpture*. Los Angeles: Getty Conservation Institute."
+  - id: "Benjamin [1935] 2006"
+    full: "Benjamin, Walter. (1935) 2006. *Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit* = *The Work of Art in the Age of Mechanical Reproduction*. Frankfurt am Main: Suhrkamp."
+  - id: "Bennett 2010"
+    full: "Bennett, Jane. 2010. *Vibrant Matter.* Durham, NC: Duke University Press."
+  - id: "Berlinghof 2014"
+    full: "Berlinghof, Harald. 2014. “BLOCK BEUYS Erinnerungen von Günter Schott 1969 bis 2010 Restaurator am Hessischen Landesmuseum Darmstad.” Interview by Inge Lorenz, Jan Peter Thorbecke, and Klaus-D. Pohl. Darmstadt, Germany: Hessisches Landesmuseum Darmstadt."
+  - id: "Bertalanffy 1949"
+    full: "Bertalanffy, Ludwig von. 1949. *Das biologische Weltbild. Band 1. Die Stellung des Lebens in Natur und Wissenschaft*. Bern, Switzerland: Francke. English version published as *Problems of Life: An Evaluation of Modern Biological Thought.* New York: John Wiley & Sons, 1952."
+  - id: "Blanchaert 2014"
+    full: "Blanchaert, Katrien. 2014. “Joseph Beuys – *Wirtschaftswerte* (1980).” In *Kunst in Europa na ’68* = *Art in Europe after ’68 Ghent / 21st June–31st August 1980*, edited by S.M.A.K., 177–94. Ghent: S.M.A.K."
+  - id: "Botfeldt, Gelting, and Hovmand 2009"
+    full: "Botfeldt, K. B., U. Gelting, and I. Hovmand. 2009. “Conservation and Restoration Methods Used for Waterlogged Archaeological Leather: A Retrospective.” In *Proceedings of the 10th ICOM Group on Wet Organic Archaeological Materials Conference,* *Amsterdam, 2007*, edited by K. Strætkvern and D. J. Huisman, 707–21. Amsterdam: Rijksdienst voor Archeologie, Cultuurlandschap en Monumenten."
+  - id: "Bouchard 2010"
+    full: "Bouchard, Gianna. 2010. “ORLAN Anatomized.” In *ORLAN: A Hybrid Body of Artworks*, edited by Simon Donger, Simon Shepard, and ORLAN, 62–72. London and New York: Routledge."
+  - id: "Bowley 2020"
+    full: "Bowley, Graham. 2020. “It’s a Banana. It’s Art. And Now It’s the Guggenheim’s Problem.” *New York Times*, September 18, 2020, <https://www.nytimes.com/2020/09/18/arts/design/banana-art-guggenheim.html>."
+  - id: "Brenner 2014"
+    full: "Brenner, Erich. 2014. “Human Body Preservation: Old and New Techniques.” *Journal of Anatomy* 224, no. 3: 316–44. [[https://dx.doi.org/10.1111%2Fjoa.12160]{.ul}](https://dx.doi.org/10.1111%2Fjoa.12160)."
+  - id: "Burnham 1968"
+    full: "Burnham, Jack. 1968. *Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century*. New York: George Braziller."
+  - id: "Buskirk 2003"
+    full: "Buskirk, Martha. 2003. *The Contingent Object of Contemporary Art.* Cambridge, MA: MIT Press."
+  - id: "Butler 1872"
+    full: "Butler, Samuel. 1872. *Erewhon: or, Over the Range.* London: Trübner and Ballentyne."
+  - id: "Cameron et al. 1988"
+    full: "Cameron, Eric, Claude Gosselin, Rick Rhodes, and Ritsaert ten Cate. 1988. *Noel Harding*. Toronto: Art Gallery of Ontario."
+  - id: "Canosa and Norrehed 2019"
+    full: "Canosa, Elyse, and Sara Norrehed. 2019. *Strategies for Pollutant Monitoring in Museum Environments*. Visby: Swedish National Heritage Board. Available at <https://www.diva-portal.org/smash/get/diva2:1324224/FULLTEXT01.pdf>."
+  - id: "Cardullo 2005"
+    full: "Cardullo, Bert. 2005. *What Is Dramaturgy?*. New York: Peter Lang."
+  - id: "Catts and Zurr 2002"
+    full: "Catts, Oron, and Ionat Zurr. 2002. “Growing Semi-Living Sculptures: The Tissue Culture & Art Project.” *Leonardo* 35 (4): 365–70. <http://www.tca.uwa.edu.au/atGlance/pubMainFrames.html>."
+  - id: "Catts and Zurr 2003"
+    full: "Catts, Oron, and Ionat Zurr. 2003. “Are the Semi-Living Semi-Good or Semi-Evil?.” *technoetic arts—an international journal of speculative research*, no. 1 (2003): 1–12. <http://www.tca.uwa.edu.au/atGlance/pubMainFrames.html>."
+  - id: "Catts and Zurr 2006"
+    full: "Catts, Oron, and Ionat Zurr. 2006. “The Tissue Culture and Art Project: The Semi-Living as Agents of Irony.” In *Performance and Technology: Practices of Virtual Embodiment and Interactivity*, edited by S. Broadhurst and J. Machon, 153–68. London: Palgrave Macmillan."
+  - id: "Chávez 2018"
+    full: "Chávez, Jorge Villacorta. 2018. “A Presentation.” In *Lección de cosas*. Lima: Sala Luis Miró Quesada Garland, https://www.academia.edu/36890339/Nydia_Negromonte.\_Lecci%C3%B3n_de_Cosas_2004\_-\_2018."
+  - id: "Cologne Institute of Conservation Sciences and Technology Arts Sciences 2019"
+    full: "Cologne Institute of Conservation Sciences and Technology Arts Sciences. 2019. *The Decision-Making Model for Contemporary Art Conservation and Presentation*. Rev. ed. Cologne: Cologne Institute of Conservation Sciences and Technology Arts Sciences. Available at <https://www.th-koeln.de/en/decision-making-model-for-contemporary-art-conservation-and-presentation--revisited_63959.php>."
+  - id: "Colombo et al. 2015"
+    full: "Colombo, Annalisa, Francesca Gherardi, Sara Goidanich, John Delaney, René de la Rie, Maria Ubaldi, Lucia Toniolo, and Roberto Simonutti. 2015. “Highly Transparent Poly (2-Ethyl-2-Oxazoline)-TiO2 Nanocomposite Coatings for the Conservation of Matte Painted Artworks.” *RSC Adv.* 5 (October): 84879–88."
+  - id: "Corzo 1999"
+    full: "Corzo, Miguel Angel, ed. 1999. *Mortality Immortality? The Legacy of 20th-Century Art*. Los Angeles: Getty Conservation Institute."
+  - id: "Curtis 2007"
+    full: "Curtis, Penelope. 2007. “Replication: Then and Now.” *Tate Papers*, no. 8 (Autumn): <https://www.tate.org.uk/research/publications/tate-papers/08/replication-then-and-now>."
+  - id: "Design Indaba 2015"
+    full: "Design Indaba. 2015. Interview with Teresa van Dongen, April 15, 2015. Available at [[https://youtu.be/-wukvLHp6Cc]{.ul}](https://youtu.be/-wukvLHp6Cc)."
+  - id: "Di Carlo et al. 2016"
+    full: "Di Carlo, Enza, Rosa Chisesi, Giovanna Barresi, Salvatore Barbaro, Giovanna Lombardo, Valentina Rotolo, Mauro Sebastianelli, Giovanni Travagliato, and Franco Palla. 2016. “Fungi and Bacteria in Indoor Cultural Heritage Environments: Microbial-Related Risks for Artworks and Human Health.” *Environment and Ecology Research* 4 (5): 257–64."
+  - id: "DiNoia 2019"
+    full: "DiNoia, Megan. 2019. “Decomposing Art: How Museum Professionals Treat Living Matter.” *Heritagebites*, April 15, 2019, [[https://heritagebites.org/2019/04/15/decomposing-art-how-museum-professionals-treat-living-matter/]{.ul}](https://heritagebites.org/2019/04/15/decomposing-art-how-museum-professionals-treat-living-matter/)."
+  - id: "Dixon 2016"
+    full: "Dixon, Deborah P. 2016. *Feminist Geopolitics: Material States*. London: Routledge."
+  - id: "Doctors 1999"
+    full: "Doctors, Marcio, ed. 1999. *A forma na floresta: espaço de instalações permanentes: Iole de Freitas, outubro, 1999: Anna Maria Maiolino, novembro, 1999.* Rio de Janeiro: Museu do Açude."
+  - id: "Duff 2018"
+    full: "Duff, Tagny. 2018. “Wastelands: A Dirty Future.” *Centre for Sustainable Practices in the Arts Quarterly* 21 (September 18, 2018): 31–35."
+  - id: "*The Economist* 2009"
+    full: "*The Economist*. 2009. “Planned Obsolescence.” March 23, 2009. https://www.economist.com/news/2009/03/23/planned-obsolescence."
+  - id: "Eder and Palau 1985"
+    full: "Eder, Rita, and Marta Palau. 1985. *La intuición y la técnica*. Mexico City: Comité editorial del gobierno de Michoacán."
+  - id: "Esposito 2001"
+    full: "Esposito, Bruna. 2001. “Sereno-variabile.” *Cahiers intempestifs*, no. 13 (October–December): 32–35."
+  - id: "Essling and Villar Rojas 2015"
+    full: "Essling, Lena, and Sebastián Villar Rojas. 2015. “Fantasma Adrián Villar Rojas.” Exhibition booklet. Edited by Maria Morberg. Stockholm: Moderna Museet."
+  - id: "Foster 2015"
+    full: "Foster, Hal. 2015. *Bad New Days: Art, Criticism, Emergency.* London and New York: Verso."
+  - id: "Foundation for the Conservation of Modern Art and the Institute for Cultural Heritage 1999"
+    full: "Foundation for the Conservation of Modern Art and the Institute for Cultural Heritage. 1999. “The Decision-Making Model.” In *Modern Art: Who Cares?: An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern and Contemporary Art*, edited by Ijsbrand Hummelen, Dionne Sillé, and Marjan Zijlmans 164–72. Amsterdam: Foundation for Conservation of Modern Art."
+  - id: "Fredrickson 2019"
+    full: "Fredrickson, Laurel Jean. 2019. “Life as Art, or Art as Life: Robert Filliou and the Eternal Network.” *Theory, Culture & Society* 36 (3): 27–55."
+  - id: "Frisvad and Samson 2004"
+    full: "Frisvad, Jens C., and Robert A. Samson. 2004. “Polyphasic Taxonomy of Penicillium Subgenus Penicillium: A Guide to Identification of Food and Air-borne Terverticillate Penicillia and Their Mycotoxins.” *Studies in Mycology* 49:1–174."
+  - id: "Fulcanelli 1974"
+    full: "Fulcanelli. 1974. *El misterio de las catedrales*. Buenos Aires: Editorial rotativa*.*"
+  - id: "Ganado and Herrera 1994"
+    full: "Ganado, Edgardo, and Carolina Herrera. 1994. “SEMEFO, Museo de Arte Carrillo Gil. Catálogo de Exposición.” Consejo Nacional para la Cultura y las Artes. Instituto Nacional de Bellas Artes. Mexico City: Museo de Arte Contemporáneo Alvar and Carmen T. de Carrillo Gil."
+  - id: "Gedrim 2007"
+    full: "Gedrim, Ronald J. 2007. “Edward Steichen’s 1936 Exhibition of Delphinium Blooms: An Art of Flower Breeding.” In *Signs of Life. BioArt and Beyond*, edited by Eduardo Kac, 347–69. Cambridge, MA: MIT Press. First published in *History of Photography* 17, no. 4 (1993): 352–63."
+  - id: "Gessert 1993"
+    full: "Gessert, George. 1993. *Scatter*. Eugene, OR: Green Light."
+  - id: "Gessert 2003"
+    full: "Gessert, George. 2003. “Notes sur l’art de la sélection végétale.” In *L’art biotech*, edited by Jens Hauser, 47–55. Nantes, France, and Trézélan, France: Filigranes."
+  - id: "Giachi et al. 2010"
+    full: "Giachi, Gianna, Chiara Capretti, Nicola Macchioni, Benedetto Pizzo, and Ines Dorina Donato. 2010. “A Methodological Approach in the Evaluation of the Efficacy of Treatments for the Dimensional Stabilisation of Waterlogged Archaeological Wood.” *CULHER Journal of Cultural Heritage* 11 (1): 91–101."
+  - id: "Gilman 2015"
+    full: "Gilman, Julie. 2015. “The Role of Science in Contemporary Art Conservation: A Study into the Conservation and Presentation of Food-Based Art.” PhD diss., Ghent University Faculty of Arts and Philosophy."
+  - id: "Gioni 2019"
+    full: "Gioni, Massimiliano, ed. 2019. *Appearance Stripped Bare: Desire and the Object in the Work of Marcel Duchamp and Jeff Koons, Even*. London: Phaidon."
+  - id: "González 2018"
+    full: "González, María Luisa. 2018. “La transubstanciación. El performance en el performance. Un abordaje a La perforMANcena, ‘North America Cholesterol Free Trade Agreement’ (1999) in César Martínez Silva.” In *Aproximaciones interpretativas multidisciplinarias en torno al arte y la cultura*, edited by Raúl Wenceslao Capistrán Gracia, 135–45. Aguascalientes, Mexico: Universidad Autónoma de Aguascalientes."
+  - id: "Graeber 2014"
+    full: "Graeber, David. 2014. “David Graeber (interviewed by Thomas Frank): Spotlight on the Financial Sector: Did Make Apparent Just How Bizarrely Skewed Our Economy Is in Terms of Who Gets Rewarded.” *Salon*, June 1, 2014. [[https://www.salon.com/2014/06/01/help_us_thomas_piketty_the_1s_sick_and_twisted_new_scheme/#]](https://www.salon.com/2014/06/01/help_us_thomas_piketty_the_1s_sick_and_twisted_new_scheme/)."
+  - id: "Grantz 1969"
+    full: "Grantz, Gerald J. 1969. *Home Book of Taxidermy and Tanning*. Harrisburg, PA: Stackpole."
+  - id: "Gregory et al. 2017"
+    full: "Gregory, David, Yvonne Shashoua, Nanna Braunschweig Hansen, and Paul Jensen. 2017. “Anyone for a Nice Cup of Tea? The Use of Bacterial Cellulose for Conservation of Waterlogged Archaeological Wood.” *ICOM-CC 18th Triennial Conference*, *2017, Copenhagen*, edited by J. Bridgland. Paris: International Council of Museums. <https://pure.kb.dk/en/publications/anyone-for-a-nice-cup-of-tea-the-use-of-bacterial-cellulose-for-c>."
+  - id: "Guasch 2011"
+    full: "Guasch, Anna María. 2011. *Arte y archivo. Genealogías, tipologías y discontinuidades*. Madrid: Akal."
+  - id: "Giménez Gatto 1999"
+    full: "Giménez Gatto, Fabián. 1999. “Obscenidad a la mexicana: los juegos transestéticos de Rocío Boliver (I y II),” *H Enciclopedia*, <http://www.henciclopedia.org.uy/autores/FGimenez/Obscenidad1.htm>, http://www.henciclopedia.org.uy/autores/FGimenez/Obscenidad2.htm."
+  - id: "Harren 2015"
+    full: "Harren, Natilee. 2015. “The Crux of Fluxus: Intermedia, Rear-guard.” Walker Art Center, [<http://walkerart.org/collections/publications/art-expanded/crux-of-fluxus>.]"
+  - id: "Harren 2016"
+    full: "Harren, Natilee. 2016. “The Provisional Work of Art: George Brecht’s Footnotes at LACMA, 1969.” *Getty Research Journal*, no. 8, 177–97."
+  - id: "Harren 2020"
+    full: "Harren, Natilee. 2020. *Fluxus Forms: Scores, Multiples, and the Eternal Network*. Chicago: University of Chicago Press."
+  - id: "Hauser 2006"
+    full: "Hauser, Jens. 2006. “Biotechnology as Mediality: Strategies of Organic Media Art.” *Performance Research: A Journal of the Performing Arts* 11 (4): 129–36."
+  - id: "Hauser 2008"
+    full: "Hauser, Jens. 2008. “Observations on an Art of Growing Interest: Toward a Phenomenological Approach to Art Involving Biotechnology.” In *Tactical Biopolitics: Art, Activism, and Technoscience*, edited by Beatriz Da Costa and Kavita Philip, 83–103. Cambridge, MA: MIT Press."
+  - id: "Hauser 2010"
+    full: "Hauser, Jens. 2010. “Sculpted by the Milieu: Frogs as Media.” In *Praeter Naturam. Brandon Ballengée*, edited by Claudio Cravero, 38–41. Turin, Italy, and Biella, Italy: Eventi & Progetti Editor."
+  - id: "Hauser 2014a"
+    full: "Hauser, Jens. 2014a. “Biotechnologie als Medialität – Strategien organischer Medienkunst.” PhD diss., Ruhr Universität Bochum."
+  - id: "Hauser 2014b"
+    full: "Hauser, Jens. 2014b. “Molekulartheater, Mikroperformativität und Plantamorphisierungen.” In *Wahrnehmung, Erfahrung, Experiment. Wissen, Objektivität und Subjektivität in den Künsten und den Wissenschaften*, edited by Susanne Stemmler, 173–89. Zurich: Diaphanes."
+  - id: "Hauser 2016"
+    full: "Hauser, Jens. 2016. “Biomediality and Art.” In *Artists-in-Labs: Recomposing Art and Science*, edited by Jill Scott and Irene Hediger, 201–19. Berlin: Springer."
+  - id: "Hauser 2018"
+    full: "Hauser, Jens. 2018. “Art and Agency in Times of Wetware.” *Stream* 4: [[https://www.pca-stream.com/en/articles/jens-hauser-art-agency-in-times-of-wetware-107]{.ul}](https://www.pca-stream.com/en/articles/jens-hauser-art-agency-in-times-of-wetware-107)."
+  - id: "Hauser and Strecker 2020"
+    full: "Hauser, Jens, and Lucie Strecker, eds. 2020. “On Microperformativity.” *Performance Research: A Journal of the Performing Arts* 25 (3): <https://www.tandfonline.com/doi/full/10.1080/13528165.2020.1807739>."
+  - id: "Henaro et al. 2019"
+    full: "Henaro, Sol, Alejandra Moreno, Christian Aravena, and Brian Smith. 2019. *Arte-acción en México. Registros y residuos*. Mexico City: MUAC-UNAM."
+  - id: "Hernandez, Yasky, and Learner 2017"
+    full: "Hernandez, Claudio, Caroll Yasky, and Tom Learner. 2017. “The Conservation of Modern and Contemporary Art in Latin America: Recent Approaches in Chile and Mexico.” *Conservation Perspectives: The GCI Newsletter* 32, no. 2 (Fall 2017): <https://www.getty.edu/conservation/publications_resources/newsletters/32_2/feature.html>."
+  - id: "Heuman 1999"
+    full: "Heuman, Jackie, ed. 1999. *Material Matters: The Conservation of Modern Sculpture*. London: Tate Gallery Publishing."
+  - id: "Hickey and Pelling 2019"
+    full: "Hickey, R. J., and A. E. Pelling. 2019. “Cellulose Biomaterials for Tissue Engineering.” *Front. Bioeng. Biotechnol*. 7 (45): <https://www.frontiersin.org/articles/10.3389/fbioe.2019.00045/full>."
+  - id: "Higgins 2011"
+    full: "Higgins, Hannah. 2011. “Food: The Raw and the Fluxed.” In *Fluxus and the Essential Questions of Life*, edited by Jacquelynn Baas, 13–21. Hanover, MA: Hood Museum of Art."
+  - id: "Hillis 2016"
+    full: "Hillis, Danny. 2016. “The Enlightenment Is Dead, Long Live the Entanglement.” *Journal of Design and Science*: [[https://doi.org/10.21428/1a042043]](https://doi.org/10.21428/1a042043)."
+  - id: "Hoet and De Baere 1990"
+    full: "Hoet, Jan, and Bart De Baere. 1990. “Ekonomische Waarden.” In *Joseph Beuys – Das Wirtschaftswertprinzip*, edited by Klaus Staeck and Gerhard Steidl, 21–25. Heidelberg, Germany: Edition Staeck."
+  - id: "Hölling 2015"
+    full: "Hölling, Hanna. 2015. *Revisions—Zen for Film*. New York: Bard Graduate Center."
+  - id: "Hölling 2017"
+    full: "Hölling, Hanna. 2017. *Paik’s Virtual Archive: Time, Change, and Materiality in Media Art.* Oakland: University of California Press."
+  - id: "Hollricher, Schmidt, and Breuninger 2014"
+    full: "Hollricher, Olaf, Ute Schmidt, and Sonja Breuninger. 2014. “RISE Microscopy: Correlative Raman and SEM Imaging.” *Microscopy Today* 22 (November): 36–39. <https://doi.org/10.1017/S1551929514001175>."
+  - id: "Hummelen 1999"
+    full: "Hummelen, IJsbrand. 1999. “Decision-Making Model for the Conservation and Restoration of Modern Art.” In *Modern Art: Who Cares?: An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern and Contemporary Art*, edited by IJsbrand Hummelen, Dionne Sillé, and Marjan Zijlmans, 4–18. Amsterdam: Foundation for the Conservation of Modern Art."
+  - id: "Hummelen, Sillé, and Zijlmans 1999"
+    full: "Hummelen, IJsbrand, Dionne Sillé, and Marjan Zijlmans, eds. 1999. *Modern Art: Who Cares?: An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern and Contemporary Art*. Amsterdam: Foundation for Conservation of Modern Art."
+  - id: "Hunter 2019"
+    full: "Hunter, WhiteFeather. 2019. “Culturing Creativity, and a Little Bit of Shit-Stirring.” *Musings* 2019:2–10. <https://www.academia.edu/41620679/Culturing_Creativity_and_a_little_bit_of_shit_stirring>."
+  - id: "ICOM 2006"
+    full: "International Council of Museums (ICOM). 2006*. ICOM Code of Ethics for Museums*. Paris: ICOM."
+  - id: "ICOM 2013"
+    full: "International Council of Museums (ICOM). 2013. *ICOM Code of Ethics for Natural History Museums*. Paris: ICOM."
+  - id: "Ippolito and Rinehart 2014"
+    full: "Ippolito, John, and Richard Rinehart. 2014. *Re-collection: Art, New Media, and Social Memory*. Cambridge, MA: MIT Press."
+  - id: "Ito 2016"
+    full: "Ito, Joichi. 2016. “Design and Science.” *Journal of Design and Science*: [[https://doi.org/10.21428/f4c68887]{.ul}](https://doi.org/10.21428/f4c68887)."
+  - id: "Joselit 2013"
+    full: "Joselit, David. 2013. “The Readymade Metabolized: Fluxus in Life.” *RES: Anthropology and Aesthetics*, nos. 63/64, 190–200."
+  - id: "Kallergi 2008"
+    full: "Kallergi, Amalia. 2008. “Bioart on Display: Challenges and Opportunities of Exhibiting Bioart.” Leiden, the Netherlands: Leiden University. Available at <https://www.researchgate.net/publication/266333742_Bioart_on_Display-_challenges_and_opportunities_of_exhibiting_bioart>."
+  - id: "Kaplan 2017"
+    full: "Kaplan, Isaac. 2017. “When Is It Okay to Use Animals in Art?.” *Artsy*, May 11, 2017, [[https://www.artsy.net/article/artsy-editorial-animals-art]{.ul}](https://www.artsy.net/article/artsy-editorial-animals-art)."
+  - id: "Kautz 2015"
+    full: "Kautz, Willy, ed. 2015. *Lo que no vemos, lo que nos mira*. Mexico City: Museo Amparo."
+  - id: "Keshk 2008"
+    full: "Keshk, Sherif M. A. S. 2008. “Homogenous Reactions of Cellulose from Different Natural Sources.” *Carbohydrate Polymers* 74 (4): 942–45."
+  - id: "Khandekar 2016"
+    full: "Khandekar, Narayan. 2016. “Inherent Vice and the Ship of Theseus.” In *Doris Salcedo: The Materiality of Mourning*, edited by Mary Schneider Enriquez, Doris Salcedo, and Narayan Khandekar, 141–52. New Haven, CT: Yale University Press."
+  - id: "Kite and Thomson 2006"
+    full: "Kite, Marion, and Roy Thomson. 2006. *Conservation of Leather and Related Materials*. Boston : Elsevier Butterworth-Heinemann."
+  - id: "Knoeff and Zwijnenberg 2016"
+    full: "Knoeff, Rina, and Robert Zwijnenberg, eds. 2015. “The Fate of Anatomical Collections.” Special issue, *Social History of Medicine* 29 (4)."
+  - id: "Knowles 1971"
+    full: "Knowles, Alison. 1971. *Journal of the Identical Lunch*. San Francisco: Nova Broadcast."
+  - id: "Kuhn 1962"
+    full: "Kuhn, Thomas. 1962. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press."
+  - id: "Kundera 1974"
+    full: "Kundera, Milan. 1974. *Life Is Elsewhere*. Translated by Peter Kussi. New York: Alfred A. Knopf."
+  - id: "La Brooy et al. 1981"
+    full: "La Brooy, Susan J., Fendick Avgerinos, C. B. Williams, and J. J. Misiewicz. 1981. “Potentially Explosive Colonic Concentrations of Hydrogen after Bowel Preparation with Mannitol.” *The Lancet* 317, no. 8221 (March): 634–36."
+  - id: "Latour 1996"
+    full: "Latour, Bruno. 1996. “On Actor-Network Theory: A Few Clarifications Plus More Than a Few Complications.” *Socziale Welt* 47:369–81. Available at [[http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf]{.ul}](http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf)."
+  - id: "Laurenson 2006"
+    full: "Laurenson, Pip. 2006. “Authenticity, Change and Loss in the Conservation of Time-Based Media Installations.” *Tate Papers*, no. 6 (Autumn): <https://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations>."
+  - id: "Leach 2017"
+    full: "Leach, Neil. 2017. “Matter Matters, a Philosophical Preface.” In *Active Matter*, edited by Skylar Tibbits, 18–23. Cambridge, MA: MIT Press."
+  - id: "Learner and Rivenc 2014"
+    full: "Learner, Tom, and Rachel Rivenc. 2014. *Conserving Outdoor Painted Sculpture: Proceedings from the Interim Meeting of the Modern Materials and Contemporary Art Working Group of ICOM-CC*. Los Angeles: Getty Conservation Institute."
+  - id: "Lee 2011"
+    full: "Lee, Susan. 2011. *“*Grow Your Own Clothes.” TED Talk, March 2011. <https://www.ted.com/talks/suzanne_lee_grow_your_own_clothes>."
+  - id: "Levin 2012"
+    full: "Levin, Jeffrey, ed. 2012. “Conservation of Public Art.” Special issue, *Conservation Perspectives: The GCI Newsletter* 27, no. 2: <https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwilkpyo1vTuAhUOqp4KHTZXBx4QFjAAegQIAxAD&url=https%3A%2F%2Fwww.getty.edu%2Fconservation%2Fpublications_resources%2Fnewsletters%2Fpdf%2Fv27n2.pdf&usg=AOvVaw3F_yDMMtteYOHyvJQMjbuu>."
+  - id: "Lippard 1973"
+    full: "Lippard, Lucy R. 1973. *Six Years: The Dematerialization of the Art Object from 1966 to 1972*. New York: Praeger."
+  - id: "Lipps et al. 2019"
+    full: "Lipps, Andrea, Matilda McQuaid, Caitlin Condell, and Gene Bertrand. 2019. *Nature: Collaborations in Design.* New York: Cooper Hewitt Smithsonian Design Museum."
+  - id: "Llamas-Pacheco 2018"
+    full: "Llamas-Pacheco, Rosario. 2018. “The Ephemeral, the Essential and the Material in the Conservation of Contemporary Art: Decision-Making for the Conservation of a Work of Art Made with Butterfly Wings.” *Studies in Conservation* 63, no. 8 (July): 441–49."
+  - id: "López Guzmán 2010"
+    full: "López Guzmán, Javier. 2010. “Informe de los trabajos de conservación sobre la obra: Lavatio Corporis / Grupo SEMEFO.” Seminario-Taller de Restauración Arte Moderno y Contemporáneo. Temporada de trabajo agosto-diciembre 2010. Unpublished."
+  - id: "McCabe 2001"
+    full: "McCabe, Terry. 2001. *Mis-directing the Play: An Argument against Contemporary Theatre*. Chicago: Ivan R.Dee."
+  - id: "Macedo and Henriques da Silva 2010"
+    full: "Macedo, Rita, and Raquel Henriques da Silva, eds. 2010. *A arte efímera e a conservação: O paradigma dos bens etnográficos e da arte contemporânea* = *Ephemeral Art and Conservation:* *The Paradigm of Contemporary Art and Ethnographic Objects.* Lisbon: Instituto de História da arte, IHA FCT-UNL. Available at <https://run.unl.pt/bitstream/10362/16429/1/Livro_Actas_Completo.pdf>."
+  - id: "MALBA 2012"
+    full: "MALBA. 2012. “Víctor Grippo: Homenaje.” https://malba.org.ar/evento/victor-grippo-homenaje/."
+  - id: "Manrique 1978"
+    full: "Manrique, Jorge Alberto. 1978. *30 escultoras en materiales textiles*. Mexico City: Museo de Arte Moderno, INBA."
+  - id: "Martinez and de Corral 2005"
+    full: "Martinez, Rosa, and Maria de Corral, eds. 2005. *La Biennale di Venezia. 51a International art exhibition. Always a Little Further*. Venice: Marsilio – Fondazione La Biennale di Venezia."
+  - id: "Martínez Silva 2013"
+    full: "Martínez Silva, César. 2013. “Permanencia en el tiempo de esculturas hinchables realizadas con hule látex vulcanizado, mecanismos de aire y sensores electrónicos; La conservación del futuro.” Presentation at the 14th Jornada de Conservación de Arte Contemporáneo, Museo Nacional Centro de Arte Reina Sofía, Madrid."
+
+\- id: Mata and Coronado 2018
+
+full: Mata, Lizeth, and Claudia Coronado. 2018. *Diagnóstico de conservación y propuesta de estabilización de la obra Encobijados, de Teresa Margolles*. Mexico City: Seminario Taller de Restauración de Arte Moderno y Contemporáneo, ENCRyM-INAH.
+
+\- id: Matheron 2019
+
+full: Matheron, Aurelie. 2019. “Performing Waste, Wasting Performance: The Ecology of Fluxus.” *Resilience: A Journal of the Environmental Humanities* 6 (1): 102–17.
+
+\- id: Maximiliano Tello 2015
+
+full: Maximiliano Tello, Andrés. 2015. “El arte y la subversión del archivo.” *Aisthesis*, no. 58, 125–43. http://dx.doi.org/10.4067/S0718-71812015000200007.
+
+**-** id: McNally and Hsu 2012
+
+full: McNally, Rika Smith, and Lillian Hsu. 2012. “Conservation of Contemporary Public Art.” *Conservation Perspectives: The GCI Newsletter* 27 (2): 4–9.
+
+\- id: Medina 2006
+
+full: Medina, Cuauhtémoc. 2006. “Escultura suave, disidencia suave.” In *Marta Palau. Nahualli*, edited by Virginia Ruano, 181–211. Mexico City: CONACULTA, Gobierno del estado de Michoacán, UNAM, Centro Cultural Tijuana, and BBVA Bancomer.
+
+\- id: Medina 2017
+
+full: Medina, Cuauhtémoc. 2017. *Abuso Mutuo, ensayos e intervenciones sobre arte postmexicano 1992–2013*. Mexico City: Editorial RM.
+
+\- id: Meléndez and Mata Delgado 2012
+
+full: Meléndez, Darío, and Ana Lizeth Mata Delgado. 2012. “Tilma Porca.” In *Memorias del 5º Foro Académico*, edited by ENCRyM, 33–40. Mexico City: ENCRyM-INAH. Available at <https://www.repositoriodepublicaciones.encrym.edu.mx/pdf/4-TilmaPorca.pdf>.
+
+\- id: Merleau-Ponty 2007
+
+full: Merleau-Ponty, Maurice. 2007. “An Unpublished Text by Maurice Merleau-Ponty: A Prospectus of His Work,” translated by Arleen B. Dalery. In *The Merleau-Ponty Reader*, edited by Ted Toadvine and Leonard Lawler, 285. Evanston, IL: Northwestern University Press.
+
+\- id: Michalski 2006
+
+full: Michalski, Stefan. 2006. “Conservation Lessons from Other Types of Museums and a Universal Database for Collection Preservation.” In *Modern Art: Who Cares?: An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern and Contemporary Art*, edited by IJsbrand Hummelen, Dionne Sillé, and Marjan Zijlmans, 290–95. Amsterdam: Foundation for Conservation of Modern Art.
+
+\- id: Michalski and Pedersoli 2016
+
+full: Michalski, Stefan, and José Luiz Pedersoli Jr. 2016. *The ABC Method: a Risk Management Approach to the Preservation of Cultural Heritage*. Ottawa: Government of Canada, Canadian Conservation Institute, and ICCROM.
+
+\- id: Modulevsky, Cuerrier, and Pelling 2016
+
+full: Modulevsky, D. J., C. M. Cuerrier, and A. E. Pelling. 2016. “Biocompatibility of Subcutaneously Implanted Plant-Derived Cellulose Biomaterials.” *PloS one* 11 (6): e0157894. <https://doi.org/10.1371/journal.pone.0157894>.
+
+\- id: Moody, Kavaliunas, and Kuo 2019
+
+full: Moody, Ellen, Lina Kavaliunas, and Michelle Kuo. 2019. “Strange Brew.” *MoMA Magazine*, May 9, 2019, [[https://www.moma.org/magazine/articles/51]{.ul}](https://www.moma.org/magazine/articles/51).
+
+\- id: Museum of Modern Art 1936
+
+full: Museum of Modern Art. 1936. “Press Release: Steichen Delphiniums.” June 22, 1936. New York: Museum of Modern Art. Available at <https://assets.moma.org/documents/moma_press-release_325057.pdf>.
+
+\- id: Negromonte 2016
+
+full: Negromonte, Nydia, ed. 2016. *D.U.C.T.O: Nydia Negromonte.* Belo Horizonte, Brazil: Autêntica.
+
+\- id: Novero 2010
+
+full: Novero, Cecilia. 2010. *Antidiets of the Avant-Garde: From Futurist Cooking to Eat Art.* Minneapolis: University of Minnesota Press.
+
+\- id: ORLAN 1998
+
+full: ORLAN. 1998. “Intervention” (1995). In *The Ends of Performance*, edited by Peggy Phelan and Jill Lane, 315–27. New York: New York University Press.
+
+\- id: ORLAN 2010
+
+full: ORLAN. 2010. “The Poetics and Politics of the Face-To-Face.” In *ORLAN: A Hybrid Body of Artworks*, edited by Simon Donger, Simon Shepard, and ORLAN, 103–18. London and New York: Routledge.
+
+\- id: Ortega Espinoza 2014
+
+full: Ortega Espinoza, Daniela. 2014. *Informe de los trabajos de Restauración de la obra Mis Caminos son Terrestres XVII de Marta Palau*. Mexico City: Seminario Taller de Restauración de Arte Moderno y Contemporáneo, ENCRyM-INAH.
+
+\- id: Patlán 2010
+
+full: Patlán, Lorena. 2010. “Career Profile: Albrecht Gumlich, Objects Conservator.” *Iris: Behind the Scenes at the Getty*, November 24, 2010, [[http://blogs.getty.edu/iris/career-profile-albrecht-gumlich-objects-conservator/]{.ul}](http://blogs.getty.edu/iris/career-profile-albrecht-gumlich-objects-conservator/).
+
+\- id: Pietromarchi 2017
+
+full: Pietromarchi, Bartolomeo, ed. 2017. *Bruna Esposito. e così sia…/Amen*. Imola, Italy: Manfredi Editore.
+
+\- id: Pitt and Samson 2000
+
+full: Pitt, J. I., and R. A. Samson. 2000. *Integration of Modern Taxonomic Methods for Penicillium and Aspergillus*. Amsterdam: CRC Press.
+
+\- id: Pullen and Heuman 2007
+
+full: Pullen, Derek, and Jackie Heuman. 2007. “Modern and Contemporary Outdoor Sculpture Conservation: Challenges and Advances.” *Conservation Perspectives: The GCI Newsletter* 22 (2): <https://www.getty.edu/conservation/publications_resources/newsletters/22_2/feature.html>.
+
+\- id: Quigley 2015
+
+full: Quigley, Christine. 2015. *Modern Mummies: The Preservation of the Human Body in the Twentieth Century*. Jefferson, NC: McFarland.
+
+\- id: Quinn 2007
+
+full: Quinn, Marc. 2007. “Genomic Portrait.” In *Signs of Life. Bio Art and Beyond*, edited by Eduardo Kac, 309–11. Cambridge, MA: MIT Press.
+
+\- id: Rebolledo et al. 2019
+
+full: Rebolledo, Karla, et al. 2019. “Incontenible: entre la creación artística y la conservación.” *Estudios sobre conservación, restauración y museología* 5:157–70. Available at <https://www.repositoriodepublicaciones.encrym.edu.mx/pdf/13%20incontenible_corregido2019.pdf>.
+
+\- id: Reed and Phillips 2018
+
+full: Reed, Marcia, and Glenn Phillips, eds. 2018. *Artists and Their Books / Books and Their Artists*. Los Angeles: Getty Research Institute.
+
+\- id: Rinehart and Ippolito 2014
+
+full: Rinehart, Richard, and Jon Ippolito. 2014. *Re-Collection: Art, New Media, and Social Memory.* Cambridge, MA: MIT Press.
+
+\- id: Robinson 2004
+
+full: Robinson, Julia. 2004. “The Sculpture of Indeterminacy: Alison Knowles’s Beans and Variations.” *Art Journal* 63 (4): 96–115.
+
+\- id: Rolnik 2002
+
+full: Rolnik, Suely. 2002. “Flowerings of Reality.” In *Anna Maria Maiolino: vida afora = A Lifeline*, edited by Catherine de Zegher and Paço Imperial, 110–11. São Paulo: Museu de Arte Moderna de São Paulo; New York: Drawing Center.
+
+\- id: Roth 1967–68
+
+full: Roth, Dieter. 1967–68. *Poeterei 3/4: Doppelnummer der Halfjahresschrift für Poesie und Poetrie*. Stuttgart, Germany: Edition H. Mayer.
+
+\- id: Salabert 2004
+
+full: Salabert, Pere. 2004. *La redención de la carne, hastío del alma y elogio de la pudrición.* Murcia, Spain: Editorial Centro de Documentación y Estudios Avanzados del Arte Contemporáneo CendeaC.
+
+\- id: Salter 2010
+
+full: Salter, Chris. 2010. *Entangled: Technology and the Transformation of Performance*. Cambridge, MA: MIT Press.
+
+\- id: Samson et al. 1995
+
+full: Samson, R., F. Ribera, V. Sanchis, and R. Canela. 1995. *Introduction to Food‑Borne Fungi*. Baarn, the Netherlands: Central Bureau for Schimmel Cultures.
+
+\- id: Sánchez 2013
+
+full: Sánchez, Sandra. 2013. “La historia no existe (cuatro artistas bordeando los hechos).” GASTV, n.d., https://gastv.mx/la-historia-no-existe/.
+
+\- id: Santos et al. 2016a
+
+full: Santos, Sara M., José M. Carbajo, Nuria Gómez, Ester Quintana, Miguel Ladero, Arsenio Sánchez, Gary Chinga-Carrasco, and Juan C. Villar. 2016a. “Use of Bacterial Cellulose in Degraded Paper Restoration. Part I: Application on Model Papers.” *Journal of Materials Science* 51 (3): 1541–52. <https://doi.org/10.1007/s10853-015-9476-0>.
+
+\- id: Santos et al. 2016b
+
+full: Santos, Sara M., José M. Carbajo, Nuria Gómez, Ester Quintana, Miguel Ladero, Arsenio Sánchez, Gary Chinga-Carrasco, and Juan C. Villar. 2016b. “Use of Bacterial Cellulose in Degraded Paper Restoration. Part II: Application on Real Samples.” *Journal of Materials Science* 51 (3): 1553–61.
+
+\- id: Sayes 2014
+
+full: Sayes, Edwin. 2014. “Actor-Network Theory and Methodology: Just What Does It Mean to Say That Nonhumans Have Agency?” *Social Studies of Science* 44, no. 1: 134–49.
+
+\- id: Schmidt, Ayasse, and Hollricher 2016
+
+full: Schmidt, Ute, Philippe Ayasse, and Olaf Hollricher. 2016. “RISE Microscopy: Correlative Raman and SEM Imaging.” In *European Microscopy Congress 2016: Proceedings*, 1023–24. Wiley Online Library.
+
+\- id: Schneider Enriquez 2016
+
+full: Schneider Enriquez, Mary. 2016. “Organic and Ephemeral: Salcedo’s Recent Material Challenges.” In *Doris Salcedo: The Materiality of Mourning*, edited by Mary Schneider Enriquez, Doris Salcedo, and Narayan Khandekar, 119–39. New Haven, CT: Yale University Press.
+
+\- id: Scholte and Wharton 2011
+
+full: Scholte, Tatja, and Glenn Wharton, eds. 2011. *Inside Installations: Theory and Practice in the Care of Complex Artworks*. Amsterdam: Amsterdam University Press.
+
+\- id: Schultz n.d.
+
+full: Schultz, Michael. n.d. “Sonja Alhäuser.” https://www.schultzberlin.com/de/sonja-alh%C3%A4user.
+
+\- id: Sehn 2013
+
+full: Sehn, Magali Melleu. 2013. “El problema de la conservación de arte contemporáneo en el contexto de los préstamos a largo plazo,” 87–94. Conservación de arte contemporáneo 14. Madrid: Museo Nacional Centro de Arte Reina Sofa.
+
+\- id: Sehn 2014
+
+full: Sehn, Magali Melleu. 2014. *Entre resíduos e dominós: preservação de instalações de arte no Brasil*. Belo Horizonte, Brazil: C/ARTE.
+
+\- id: Self 2009
+
+full: Self, Will. 2009. “Bring Me the Head of Marc Quinn!.” <http://marcquinn.com/assets/downloads/Bring_me_the_Head_of_Marc_Quinn_Will_Self_FULL.pdf>.
+
+\- id: Serexhe 2013
+
+full: Serexhe, Bernhard, ed. 2013. *Preservation of Digital Art: Theory and Practice: The Digital Art Conservation Project.* Vienna: Ambra V.
+
+\- id: Skloot 2010
+
+full: Skloot, Rebecca. 2010. *The Immortal Life of Henrietta Lacks*. New York: Crown.
+
+\- id: Spindler et al. 1996
+
+full: Spindler, Konrad, Herald Wilfing, Elisabeth Rastbichler-Zissernig, Dieter ZurNedden, and Hans Nothdurfter, eds. 1996. *Human Mummies: A Global Survey of Their Status and the Techniques of Conservation*. New York: Springer Science and Business Media.
+
+\- id: Subrizi 2012
+
+full: Subrizi, Carla. 2012. *Azioni che cambiano il mondo. Donne, arte e politiche dello sguardo*. Piacenza, Italy: Postemedia Books.
+
+\- id: Susovski 1978
+
+full: Susovski, Marijan, ed. 1978. *Nova umjetničkapraksa 1966–1978*. Zagreb: Galerija suvremene umjetnosti \[Gallery of Contemporary Art\].
+
+\- id: Suzuki 2013
+
+full: Suzuki, Sarah. 2013. *Wait, Later This Will be Nothing: Editions by Dieter Roth*. New York: Museum of Modern Art.
+
+\- id: Taddei 2009
+
+full: Taddei, Jean-François. 2009. *Les Perméables = The Permeables.* Paris: MeMo.
+
+\- id: Takita 2008
+
+full: Takita, Jun. 2008. “Light, Only Light.” In *sk-interfaces. Exploding Borders: Creating Membranes in Art, Technology and Society*, edited by Jens Hauser, 141–43. Liverpool, UK: Liverpool University Press.
+
+\- id: Tarnowski and Morris 2001
+
+full: Tarnowski, C. P., and M. D. Morris. 2001. “Raman Spectroscopy and Microscopy.” In *Encyclopedia of Materials: Science and Technology*, edited by K. H. Jürgen Buschow, Robert W. Cahn, Merton C. Flemings, Bernhard Ilschner, Edward J. Kramer, Subhash Mahajan, and Patrick Veyssière, 7976–83. Oxford: Elsevier.
+
+\- id: Temkin 1999
+
+full: Temkin, Ann. 1999. “Strange Fruit.” In *Mortality Immortality, the Legacy of 20th Century Art*, edited by M. A. Corzo, 45–50. Los Angeles: Getty Conservation Institute.
+
+\- id: Thickett and Lee 2004
+
+full: Thickett, D., and L. R. Lee. 2004. “Selection of Materials for the Storage or Display of Museum Objects.” British Museum Occasional Paper 111. London: British Museum.
+
+\- id: Tibbits 2017
+
+full: Tibbits, Skylar, ed. 2017. *Active Matter*. Cambridge, MA: MIT Press.
+
+\- id: Tijardović 1978
+
+full: Tijardović, Jasna. 1978. “Marina Abramović, Slobodan Milivojević, Neša Paripović, Zoran Popović, Raša Todosijević, Gergelj Urkom.” In *Nova umjetničkapraksa 1966–1978*, edited by Marijan Susovski, 55–59. Zagreb: Galerija suvremene umjetnosti \[Gallery of Contemporary Art\].
+
+\- id: Tsing 2015
+
+full: Tsing, Anna Lowenhaupt. 2015. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton, NJ: Princeton University Press.
+
+\- id: Tsing et al. 2017
+
+full: Tsing, Anna Lowenhaupt, Heather Swanson, Elaine Gan, and Nils Bubandt, eds. 2017. *Arts of Living on a Damaged Planet: Ghosts and Monsters of the Anthropocene*. Minneapolis: University of Minnesota Press.
+
+\- id: Vahur et al. 2016
+
+full: Vahur, Signe, Anu Teearu, Pilleriin Peets, Lauri Joosu, and Ivo Leito. 2016. “ATR-FT-IR Spectral Collection of Conservation Materials in the Extended Region of 4000-80 Cm^−1^.” *Analytical and Bioanalytical Chemistry* 408 (13): 3373–79.
+
+\- id: Valdivia 2017
+
+full: Valdivia, Mónica. 2017. “ATEA: renovación cultural en la Merced.” *NEXOS*, April 10, 2017, <https://cultura.nexos.com.mx/?p=12524>.
+
+\- id: Valentin 2010
+
+full: Valentin, Nieves. 2010. “Microorganisms in Museum Collections.” *Coalition*, no. 19 (January): 2–5. Available at [[http://www.rtphc.csic.es/issues/19_01.pdf]{.ul}](http://www.rtphc.csic.es/issues/19_01.pdf).
+
+\- id: Valentín, Muro, and Montero 2010
+
+full: Valentín, N., C. Muro, and J. Montero. 2010. “Métodos y Técnicas para Evaluar la Calidad del Aire en Museos in Museo Nacional Centro de Arte Reina Sofía,” edited by CARS – IIC Grupo Español, 63–81. Madrid: Museo Nacional Centro de Arte Reina Sofía. <https://www.museoreinasofia.es/sites/default/files/actividades/programas/metodos_y_tecnicas_restauracion.pdf>.
+
+\- id: van Dongen 2019
+
+full: van Dongen, Teresa. 2019. “Electric Life.” Available at [[http://www.teresavandongen.com/Electric-Life]{.ul}](http://www.teresavandongen.com/Electric-Life).
+
+\- id: van Saaze 2011
+
+full: van Saaze, Vivian. 2011. “Acknowledging Differences: a Manifold of Museum Practices.” In *Inside Installations: Theory and Practice in the Care of Complex Artworks*, edited by Tatja Scholte, Glenn Wharton, 249–55. Amsterdam: Amsterdam University Press.
+
+\- id: van Saaze 2013
+
+full: van Saaze, Vivian. 2013. *Installation Art and the Museum, Presentation and Conservation of Changing Artworks*. Amsterdam: Amsterdam University Press.
+
+\- id: Verbeeck 2016
+
+full: Verbeeck, Muriel. 2016. “There Is Nothing More Practical Than a Good Theory: Conceptual Tools for Conservation Practice.” *Studies in Conservation* 61, supplement 2: 233–40.
+
+\- id: Verhoeven 2019
+
+full: Verhoeven, Thibaut. 2019. “Joseph Beuys – *Wirtschaftswerte* (1980).” In *S.M.A.K. De Collectie A–Z*, edited by S.M.A.K., 149. Ghent: S.M.A.K.
+
+\- id: Villar Rojas 2014
+
+full: Villar Rojas, Adrián. 2014. Filmed interview by Jordan Bahat at kurimanzutto, Mexico City. Available at https://www.youtube.com/watch?app=desktop&v=qJEE-yNCHQM.
+
+\- id: Villar Rojas 2015
+
+full: Villar Rojas, Adrián. 2015. Filmed interview by Lena Essling, Moderna Museet, Stockholm. Available at <https://youtu.be/g6yv6qKJjG4>.
+
+\- id: Villar Rojas 2017
+
+full: Villar Rojas, Adrián. 2017. Filmed interview by Elina Kountouri, Neon, Athens, June 3, 2017. Available at <https://player.vimeo.com/video/224171178>.
+
+\- id: Villar Rojas 2018
+
+full: Villar Rojas, Adrián. 2018. “In the Studio: Adrián Villar Rojas.” Interview by Gabriel Roland. *Collectors Agenda*, August 20, 2018, <https://www.collectorsagenda.com/en/in-the-studio/adrian-villar-rojas>.
+
+\- id: Voellinger and Wagner 2009
+
+full: Voellinger, T., and S. Wagner. 2009. “Cold Storage for Photograph Collections: Vapor-Proof Packaging.” *Conserve O Gram*, nos. 14/12: 2–5.
+
+\- id: Warburg 2005
+
+full: Warburg, Aby. 2005. *El renacimiento del paganismo: aportaciones a la historia cultural del Renacimiento europeo*. Madrid: Alianza.
+
+\- id: Warren 1997
+
+full: Warren, Karen J., ed. 1997. *Ecofeminism: Women, Culture, Nature*. Bloomington: Indiana University Press.
+
+\- id: Wharton et al. 2016
+
+full: Wharton, Glenn, et al. 2016. “The Artist Archives Project: David Wojnarowicz.” In *Saving The Now: Crossing Boundaries to Conserve Art Works*, edited by Austin Nevin et al., 241–47. Los Angeles and London: Studies in Conservation (IIC).
+
+\- id: Wharton and Molotch 2009
+
+full: Wharton, Glenn, and Harvey Molotch. 2009. “The Challenge of Installation Art.” In *Conservation: Principles, Dilemmas and Uncomfortable Truths*, edited by Alison Bracker and Alison Richmond, 210–222. London: Elsevier.
+
+\- id: Wittgenstein 1953
+
+full: Wittgenstein, Ludwig. 1953. *Philosophical Investigations*. New York: Macmillan.
+
+\- id: Woods 2014
+
+full: Woods, Nicole L. 2014. “Taste Economies: Alison Knowles, Gordon Matta-Clark and the Intersection of Food, Time and Performance.” *Performance Research: A Journal of the Performing Arts* 19 (3): 157–61.
+
+\- id: Yap 2009
+
+full: Yap, Chin-Chin. 2009. “Murder at MoMA?.” *ArtAsiaPacific* 62:49–50.
+
+\- id: Young 1969
+
+full: Young, Dennis. 1969. *New Alchemy: Elements, Systems, Forces = Nouvelle alchimie : éléments, systèmes*, *forces: Hans Haacke, John Van Saun, Charles Ross, Takis*. Toronto: Art Gallery of Ontario.
+
+\- id: Zevi 2005
+
+full: Zevi, Adachiara. 2005. *Peripezie del dopoguerra nell’arte italiana*, Turin, Italy: Einaudi.
+
+\- id: Zurr and Catts 2002
+
+full: Zurr, Ionat, and Oron Catts. 2002. “An Emergence of the Semi-Living.” In *The Aesthetics of Care?*, edited by Oron Catts, 63–68. Nedlands, Australia: Symbiotica.
+
+\- id: Zylinska 2002
+
+full: Zylinska, Joanna, ed. 2002. *The Cyborg Experiments: The Extensions of the Body in the Media Age*. London: Continuum.
