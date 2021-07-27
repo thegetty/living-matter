@@ -1,9 +1,8 @@
 ---
 title: Copyright
 weight: 2
-menu: false
 type: page
 slug: .
-toc: false
+online: false
 image:
 ---

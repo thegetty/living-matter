@@ -1,10 +1,7 @@
 ---
 title: "Participants"
 weight: 340
-menu: false
 type: page
-slug: .
-toc: false
 image:
 ---
 
