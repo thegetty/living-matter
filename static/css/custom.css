@@ -1,0 +1,103 @@
+/* COVER
+============================================================================= */
+/* There are two variations on the cover here, one for the refrigerator image, and one for the eggshells image. There are three places below where styles are commented out for eggshells and live for refrigerator. The accent color in variables.scss also needs to be changed depending on which cover images is chosen. */
+
+.quire-cover__overlay {
+
+  /* Refrigerator */
+  background-position-y: bottom;
+  background-position-x: left;
+
+  /* Eggshells */
+  /* background-position-y: center;
+  background-position-x: center;  */
+
+}
+.quire-cover__overlay::after {
+  content: "Getty Conservation Institute";
+  color: #fff;
+  background-color: #000;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  letter-spacing: 1px;
+  padding: .5rem 4rem .5rem 20px;
+  font-size: .825rem;
+}
+.hero-body .container.is-fluid::before {
+  content: "Proceedings";
+  background-color: #000;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: .5rem 4rem .5rem 20px;
+  margin-left: -20px;
+  margin-top: -20px;
+  width: max-content;
+  display: block;
+  font-size: .75rem;
+}
+.hero-body .container.is-fluid {
+  bottom: auto;
+  left: auto;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 40rem;
+
+  /* Refrigerator */
+  top: 10%;
+  background: #243a85;
+
+  /* Eggshells */
+  /* top: 15%;
+  background: #5b57a6; */
+
+}
+@media screen and (max-width: 40rem) {
+  .hero-body .container.is-fluid {
+    top: 0;
+  }
+  .quire-cover__overlay::after {
+    padding-bottom: 30px;
+    padding-right: 20px;
+    right: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+  }
+
+  /* Refrigerator */
+  .quire-cover__overlay {
+    background-position-y: 80%;
+    background-position-x: center;
+    background-image: url('../img/figures/cover-b--glr0686--detail.jpg') !important;
+  }
+
+  /* Eggshells */
+  /* .quire-cover__overlay {
+
+  } */
+
+}
+.quire-cover__hero .title,
+.quire-cover__hero .subtitle {
+  font-size: calc(2rem * 1);
+  font-weight: 700;
+  line-height: 1.17;
+}
+.quire-cover__hero .subtitle {
+  display: inline;
+}
+.quire-cover__hero .subtitle::before {
+  content: ": ";
+}
+.quire-cover__hero .reading-line {
+  font-size: calc(1rem * 1);
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+.quire-cover__hero .contributor {
+  margin-top: .25rem;
+}

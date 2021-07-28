@@ -9,10 +9,13 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: "Living Matter"
-subtitle: "The Preservation of Biological Materials Used in Contemporary Art"
-reading_line:
+title: Living Matter
+subtitle: The Preservation of Biological Materials in Contemporary Art
+reading_line: An International Conference Held in Mexico City, June 3–5, 2019
 short_title:
+
+series: Proceedings
+number_in_series:
 
 description:
   one_line:
@@ -33,7 +36,7 @@ identifier:
   url:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Conservation Institute
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -42,7 +45,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by Rachel Rivenc and Kendra Roth
 
 contributor:
   - id: jkeller

@@ -5,5 +5,8 @@ menu: false
 type: cover
 slug: .
 toc: false
-image:
+#image: figures/cover-a--de-la-mora.jpg
+image: figures/cover-b--glr0686.jpg
 ---
+
+TK
