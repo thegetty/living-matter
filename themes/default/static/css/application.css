@@ -8037,7 +8037,7 @@ html {
   .quire-progress-bar div {
     height: 2px;
     width: 100%;
-    background-color: #CF4747;
+    background-color: #243a85;
     text-align: right;
     padding-right: .5em;
     position: relative;
@@ -8072,7 +8072,7 @@ html {
     transition: all .25s ease; }
     .quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
       color: #fff !important;
-      background-color: #CF4747; }
+      background-color: #243a85; }
       .quire-navbar-controls__left a:hover svg, .quire-navbar-controls__left button:hover svg, .quire-navbar-controls__left .button:hover svg, .quire-navbar-controls__right a:hover svg, .quire-navbar-controls__right button:hover svg, .quire-navbar-controls__right .button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover svg {
         fill: #fff; }
       .quire-navbar-controls__left a:hover *, .quire-navbar-controls__left button:hover *, .quire-navbar-controls__left .button:hover *, .quire-navbar-controls__right a:hover *, .quire-navbar-controls__right button:hover *, .quire-navbar-controls__right .button:hover *, .quire-navbar-controls .quire-navbar-page-controls__item a:hover *, .quire-navbar-controls .quire-navbar-page-controls__item button:hover *, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover * {
@@ -8184,7 +8184,7 @@ html {
       transition: all .25s ease; }
       .quire-navbar-button.arrow-button a:hover {
         color: #fff !important;
-        background-color: #CF4747; }
+        background-color: #243a85; }
         .quire-navbar-button.arrow-button a:hover svg {
           fill: #fff; }
   .quire-navbar-button.play-button, .quire-navbar-button.home-button {
@@ -8294,14 +8294,14 @@ html {
     font-family: "Noto Sans", sans-serif; }
     .quire-menu .page-item a.active, .quire-menu .section-item a.active {
       margin-left: -1.25em;
-      border-left: 4px solid #CF4747;
-      color: #CF4747 !important;
+      border-left: 4px solid #243a85;
+      color: #243a85 !important;
       text-decoration: none;
       padding-left: calc(.75em + 4px); }
       .quire-menu .page-item a.active:hover, .quire-menu .section-item a.active:hover {
         border-left-width: 4px; }
       .quire-menu .page-item a.active *, .quire-menu .section-item a.active * {
-        color: #CF4747 !important; }
+        color: #243a85 !important; }
   .quire-menu .page-item .page-item a.active, .quire-menu .section-item .page-item a.active {
     margin-left: calc(-2.75em + -4px);
     padding-left: 2.65em; }
@@ -8370,14 +8370,14 @@ html {
       width: -webkit-fit-content;
       width: -moz-fit-content;
       width: fit-content;
-      color: #CF4747;
-      border-bottom: 1px dotted #CF4747; }
+      color: #243a85;
+      border-bottom: 1px dotted #243a85; }
       .quire-search__inner__list-item a * {
-        color: #CF4747; }
+        color: #243a85; }
       .quire-search__inner__list-item a:hover {
-        border-bottom: 1px solid #a02a2a; }
+        border-bottom: 1px solid #142049; }
         .quire-search__inner__list-item a:hover * {
-          color: #a02a2a; }
+          color: #142049; }
     .quire-search__inner__list-item .title {
       font-size: 1.25rem;
       font-family: "IBM Plex Sans Condensed", sans-serif;
@@ -8405,7 +8405,7 @@ html {
         position: absolute;
         bottom: 0; }
     .quire-search__close-button:hover {
-      background-color: #CF4747;
+      background-color: #243a85;
       border: 0; }
       .quire-search__close-button:hover svg {
         fill: #ffffff; }
@@ -8775,8 +8775,8 @@ html {
     width: fit-content;
     font-size: 1.2rem;
     color: #333333;
-    border-top: 2px solid #CF4747;
-    border-bottom: 2px solid #CF4747;
+    border-top: 2px solid #243a85;
+    border-bottom: 2px solid #243a85;
     padding: 0.2rem 0.3rem;
     letter-spacing: 0;
     margin: 0 auto 1.9em; }
@@ -8867,15 +8867,15 @@ html {
   padding-bottom: 0; }
   .quire-page__content .content a {
     line-height: 1.6;
-    color: #CF4747;
-    border-bottom: 1px dotted #CF4747; }
+    color: #243a85;
+    border-bottom: 1px dotted #243a85; }
     @media print {
       .quire-page__content .content a {
         color: #000000;
         border-bottom-width: 0; } }
     .quire-page__content .content a:hover {
-      color: #a02a2a !important;
-      border-bottom: 1px solid #a02a2a !important; }
+      color: #142049 !important;
+      border-bottom: 1px solid #142049 !important; }
     .quire-page__content .content a:focus {
       background-color: #F9F9A3;
       color: #333333 !important; }
@@ -8901,7 +8901,7 @@ html {
     .quire-page__content .content a.footnote-return:hover,
     .quire-page__content .content a.footnote-backref:hover,
     .quire-page__content .content a.footnote-ref:hover {
-      color: #a02a2a !important;
+      color: #142049 !important;
       border-bottom-width: 0 !important; }
   .quire-page__content .content .quire-page__content__references dl {
     margin-left: 0; }
@@ -9012,8 +9012,8 @@ html {
 
 .quire-cover__hero {
   background-color: #6A8EB8;
-  background-image: -webkit-gradient(linear, left top, right top, from(#6A8EB8), to(#CF4747));
-  background-image: linear-gradient(90deg, #6A8EB8, #CF4747);
+  background-image: -webkit-gradient(linear, left top, right top, from(#6A8EB8), to(#243a85));
+  background-image: linear-gradient(90deg, #6A8EB8, #243a85);
   position: relative;
   min-height: calc(95vh - 3rem - 2px) !important;
   text-align: left;
@@ -9109,7 +9109,7 @@ html {
     margin-bottom: 0; }
 
 .quire-cover__button {
-  background-color: #CF4747;
+  background-color: #243a85;
   color: #fff;
   border-width: 0px;
   border-radius: 2px;
@@ -9125,7 +9125,7 @@ html {
     margin-bottom: .05rem;
     fill: #fff; }
   .quire-cover__button:hover {
-    background-color: #a02a2a;
+    background-color: #142049;
     color: #ffffff; }
 
 .quire-cover .quire-page__content {
@@ -9207,7 +9207,7 @@ html {
       display: inline-block;
       border-bottom: 1px dotted #333333; }
       .quire-contents-list ul.arrow .section-indent a:hover {
-        border-bottom: 1px solid #a02a2a; }
+        border-bottom: 1px solid #142049; }
       .quire-contents-list ul.arrow .section-indent a .title span {
         padding-left: .2em; }
   .quire-contents-list .menu-list {
@@ -9255,7 +9255,7 @@ html {
         .quire-contents-list .menu-list .section-item ul a .arrow {
           display: none; }
         .quire-contents-list .menu-list .section-item ul a:hover {
-          border-bottom: 1px solid #a02a2a; }
+          border-bottom: 1px solid #142049; }
     .quire-contents-list .menu-list .section-item.no-landing .list-header {
       font-size: 1.375em;
       padding: .5em 0;
@@ -9283,16 +9283,16 @@ html {
         margin-top: .1em; }
       .quire-contents-list .menu-list a:hover {
         background-color: inherit;
-        color: #a02a2a; }
+        color: #142049; }
         .quire-contents-list .menu-list a:hover .arrow {
           margin-left: .75em;
           -webkit-transition: all .25s ease;
           transition: all .25s ease;
-          fill: #a02a2a; }
+          fill: #142049; }
           .quire-contents-list .menu-list a:hover .arrow svg {
-            fill: #a02a2a !important; }
+            fill: #142049 !important; }
         .quire-contents-list .menu-list a:hover * {
-          color: #a02a2a; }
+          color: #142049; }
         .quire-contents-list .menu-list a:hover figure.image {
           box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.75); }
   .quire-contents-list .contributor {
@@ -9358,7 +9358,7 @@ html {
       font-weight: inherit;
       line-height: inherit;
       font-family: "IBM Plex Sans Condensed", sans-serif;
-      color: #CF4747; }
+      color: #243a85; }
       @media print {
         .quire-contents-list.grid .title {
           color: #000000; } }
@@ -9377,7 +9377,7 @@ html {
       padding-top: 0;
       margin-bottom: .065em; }
     .quire-contents-list.grid .menu-list a .arrow {
-      fill: #CF4747; }
+      fill: #243a85; }
     .quire-contents-list.grid .menu-list a .card.no-image .arrow {
       margin-top: 0; }
     .quire-contents-list.grid .menu-list .section-item ul a .arrow {
@@ -9387,7 +9387,7 @@ html {
         .quire-contents-list.grid .menu-list .section-item ul a .arrow {
           display: none; } }
     .quire-contents-list.grid .menu-list ul.arrow a .arrow {
-      fill: #CF4747; }
+      fill: #243a85; }
     .quire-contents-list.grid .menu-list ul.arrow .section-item {
       border-top: 1px solid #e6e6e6;
       font-weight: 700;
@@ -9447,12 +9447,12 @@ html {
           padding: 0;
           border-bottom: none; }
           .quire-contents-list.grid ul li .card a:hover {
-            color: #a02a2a;
+            color: #142049;
             border-bottom: none; }
             .quire-contents-list.grid ul li .card a:hover svg {
-              fill: #a02a2a; }
+              fill: #142049; }
           .quire-contents-list.grid ul li .card a svg {
-            fill: #CF4747;
+            fill: #243a85;
             vertical-align: text-bottom; }
         .quire-contents-list.grid ul li .card .card-image {
           -webkit-transition: -webkit-box-shadow .35s;
@@ -9500,9 +9500,9 @@ html {
           vertical-align: text-top;
           margin-top: 0; }
         .quire-contents-list.grid ul li .card-content:hover {
-          color: #a02a2a; }
+          color: #142049; }
           .quire-contents-list.grid ul li .card-content:hover .title {
-            color: #a02a2a; }
+            color: #142049; }
         .quire-contents-list.grid ul li .card-content .artist {
           text-transform: uppercase; }
         .quire-contents-list.grid ul li .card-content .title svg {
@@ -9602,8 +9602,8 @@ html {
       font-size: 11pt; } }
 
 .quire-figure {
-  border-top: 1px solid #CF4747;
-  border-bottom: 1px solid #CF4747;
+  border-top: 1px solid #243a85;
+  border-bottom: 1px solid #243a85;
   padding: 1em 0;
   margin-top: 0.5em;
   margin-left: 0;
@@ -9622,13 +9622,13 @@ html {
       .quire-figure .q-figure__wrapper > a:hover .quire-figure__label--below {
         -webkit-transition: background-color 0.35s;
         transition: background-color 0.35s;
-        color: #a02a2a; }
+        color: #142049; }
         .quire-figure .q-figure__wrapper > a:hover .quire-figure__label--below svg {
-          fill: #a02a2a; }
+          fill: #142049; }
       .quire-figure .q-figure__wrapper > a:hover .quire-figure__label--on-top {
         -webkit-transition: background-color 0.35s;
         transition: background-color 0.35s;
-        background-color: #CF4747; }
+        background-color: #243a85; }
     .quire-figure .q-figure__wrapper img {
       -o-object-fit: cover;
          object-fit: cover;
@@ -9691,7 +9691,7 @@ html {
     .content figure .quire-figure__caption a {
       line-height: 1.5; }
   .quire-figure__label {
-    color: #CF4747;
+    color: #243a85;
     height: 1.2em;
     font-weight: 700;
     margin-right: .5rem;
@@ -9706,7 +9706,7 @@ html {
         .quire-figure__label .quire-figure__label-icon {
           display: none; } }
       .quire-figure__label .quire-figure__label-icon svg {
-        fill: #CF4747;
+        fill: #243a85;
         width: 1.5rem;
         height: 1.5rem; }
     .quire-figure__label--on-top {
@@ -10298,11 +10298,11 @@ div.multimedia {
 .quire-entry__tombstone {
   font-family: "Noto Sans", sans-serif; }
   .quire-entry__tombstone a {
-    color: #CF4747;
-    border-bottom: 1px dotted #CF4747; }
+    color: #243a85;
+    border-bottom: 1px dotted #243a85; }
     .quire-entry__tombstone a:hover {
-      color: #a02a2a;
-      border-bottom: 1px solid #a02a2a; }
+      color: #142049;
+      border-bottom: 1px solid #142049; }
     @media print {
       .quire-entry__tombstone a {
         color: #000000;
@@ -10310,10 +10310,10 @@ div.multimedia {
   .quire-entry__tombstone a.button {
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
-    color: #CF4747; }
+    color: #243a85; }
     .quire-entry__tombstone a.button:hover {
-      background-color: #a02a2a;
-      border-color: #a02a2a;
+      background-color: #142049;
+      border-color: #142049;
       color: #fff; }
       .quire-entry__tombstone a.button:hover svg {
         fill: #fff; }
@@ -10354,13 +10354,13 @@ div.multimedia {
     margin-top: 1.5em;
     background-color: #ffffff;
     border-radius: 2px;
-    border: 1px solid #CF4747; }
+    border: 1px solid #243a85; }
   .quire-entry__tombstone svg {
     position: relative;
     height: 1em;
     width: 1em;
     margin-left: 0.5em;
-    fill: #CF4747; }
+    fill: #243a85; }
     .quire-entry__tombstone svg img {
       position: absolute;
       top: 0;
@@ -10477,7 +10477,7 @@ div.multimedia {
     font-family: inherit;
     color: inherit;
     cursor: pointer;
-    border-bottom: 1px dotted #CF4747; }
+    border-bottom: 1px dotted #243a85; }
     @media print {
       .quire-citation__button {
         border-bottom-width: 0; } }
@@ -10485,11 +10485,11 @@ div.multimedia {
       font-family: "Material Icons";
       font-weight: 600;
       margin-left: .125em;
-      color: #CF4747;
+      color: #243a85;
       border-bottom-width: 0; }
     .quire-citation__button:hover {
-      color: #a02a2a !important;
-      border-bottom: 1px solid #a02a2a; }
+      color: #142049 !important;
+      border-bottom: 1px solid #142049; }
     .quire-citation__button.material-icons:hover {
       border-bottom-width: 0; }
     .quire-citation__button:focus {
@@ -10604,11 +10604,11 @@ div.multimedia {
   .quire-page__content .content .quire-contributor__url svg {
     width: .875em;
     height: .875em;
-    fill: #CF4747; }
+    fill: #243a85; }
   .quire-page__content .content .quire-contributor__url:hover {
     border-bottom-width: 0px !important; }
     .quire-page__content .content .quire-contributor__url:hover svg {
-      fill: #a02a2a; }
+      fill: #142049; }
 
 .quire-contributor__pic {
   width: 100px;
@@ -10794,13 +10794,13 @@ div.quire-caption-container {
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-size: 0.875rem; }
     div.quire-caption-container > .caption a {
-      color: #CF4747;
+      color: #243a85;
       border-bottom: 1px dotted; }
   div.quire-caption-container .quire-figure__label-text {
     margin-right: .5rem;
     font-weight: bold; }
   div.quire-caption-container a {
-    color: #CF4747;
+    color: #243a85;
     border-bottom: 1px dotted; }
 
 div.mfp-title {
@@ -10938,8 +10938,8 @@ body > div.mfp-bg.mfp-ready {
     -webkit-transition: all .25s ease;
     transition: all .25s ease;
     font-size: 16px;
-    border: 1px solid #CF4747;
-    color: #CF4747; }
+    border: 1px solid #243a85;
+    color: #243a85; }
     .quire-contents-buttons li.quire-nav-button a {
       display: inline-block;
       width: 8.75em;
@@ -10952,10 +10952,10 @@ body > div.mfp-bg.mfp-ready {
       margin-left: 0;
       margin-right: .55rem; }
       .quire-contents-buttons li.quire-nav-button.prev a {
-        color: #CF4747;
+        color: #243a85;
         margin-right: .5rem; }
       .quire-contents-buttons li.quire-nav-button.prev svg {
-        fill: #CF4747;
+        fill: #243a85;
         margin-right: .5rem; }
     .quire-contents-buttons li.quire-nav-button svg {
       width: 1.25rem;
@@ -10965,16 +10965,16 @@ body > div.mfp-bg.mfp-ready {
     .quire-contents-buttons li.quire-nav-button .nav-title {
       vertical-align: super; }
     .quire-contents-buttons li.quire-nav-button.next {
-      background-color: #CF4747; }
+      background-color: #243a85; }
       .quire-contents-buttons li.quire-nav-button.next svg {
         fill: #fff; }
       .quire-contents-buttons li.quire-nav-button.next:hover {
-        background-color: #a02a2a !important; }
+        background-color: #142049 !important; }
       .quire-contents-buttons li.quire-nav-button.next a {
         color: #fff; }
     .quire-contents-buttons li.quire-nav-button:hover {
-      background-color: #a02a2a;
-      border-color: #a02a2a; }
+      background-color: #142049;
+      border-color: #142049; }
       .quire-contents-buttons li.quire-nav-button:hover a {
         color: #fff; }
       .quire-contents-buttons li.quire-nav-button:hover svg {
@@ -11266,7 +11266,7 @@ body > div.mfp-bg.mfp-ready {
     .title-page .title-tp {
       font-size: 4em;
       font-weight: 700;
-      color: #CF4747;
+      color: #243a85;
       line-height: 1.1;
       margin-bottom: .3em; }
     .title-page .sub-title {
@@ -11293,7 +11293,7 @@ body > div.mfp-bg.mfp-ready {
     height: 11in;
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-size: 1.5em;
-    color: #CF4747;
+    color: #243a85;
     text-align: right;
     padding-top: 3.5in; }
     .half-title-page span {
