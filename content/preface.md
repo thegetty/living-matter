@@ -3,10 +3,8 @@ weight: 4
 title: Preface
 type: page
 contributor:
-  - first_name: Rachel
-    last_name: Rivenc
-  - first_name: Kendra
-    last_name: Roth
+  - id: rrivenc
+  - id: kroth
 abstract:
 ---
 
