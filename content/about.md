@@ -36,9 +36,9 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF (12 MB)](/downloads/output.pdf)
-  - [EPUB (78 MB)](/downloads/output.epub)
-  - [Kindle/MOBI (192 MB)](/downloads/oputput.mobi)
+  - [PDF (X MB)](/downloads/output.pdf)
+  - [EPUB (X MB)](/downloads/output.epub)
+  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
   - [Paperback](#)
 
 ## Copyright
@@ -66,7 +66,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 
 Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
-**Published by Getty Conservation Institute, Los Angeles**<br />
+**Published by the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
