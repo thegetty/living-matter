@@ -564,29 +564,37 @@ figure_list:
     caption: "Spraying nests with pesticides."
     credit: "National Gallery of Zimbabwe"
 
-  - id:  "fig-8-2"
-    src: "figures/fig-8-2-chiwara.jpg"
-    label: "Figure 8.2"
-    caption: "Covering nests with polyethylene fumigation sheets."
-    credit: "National Gallery of Zimbabwe"
+  - id: "fig-8-2a"
+    src: "figures/fig-8-2a-chiwara.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-8-3"
-    src: "figures/fig-8-3-chiwara.jpg"
-    label: "Figure 8.3"
-    caption: "Mushroom production in polyethylene bags."
-    credit: "National Gallery of Zimbabwe"
+  - id: "fig-8-2b"
+    src: "figures/fig-8-2b-chiwara.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-8-4"
-    src: "figures/fig-8-4-chiwara.jpg"
-    label: "Figure 8.4"
-    caption: "Installing *Planetary Community Chicken* at the Courtauld Gallery, National Gallery of Zimbabwe, Harare, 2016."
-    credit: "National Gallery of Zimbabwe"
+  - id: "fig-8-3a"
+    src: "figures/fig-8-3a-chiwara.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-8-5"
-    src: "figures/fig-8-5-chiwara.jpg"
-    label: "Figure 8.5"
-    caption: "Zimbabwean and Senegalese chicken hutches."
-    credit: "National Gallery of Zimbabwe"
+  - id: "fig-8-3b"
+    src: "figures/fig-8-3b-chiwara.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-4a"
+    src: "figures/fig-8-3a-chiwara.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-4b"
+    src: "figures/fig-8-4b-chiwara.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-5a"
+    src: "figures/fig-8-3a-chiwara.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-5b"
+    src: "figures/fig-8-4b-chiwara.jpg"
+    # caption and credit info in shortcode
 
   - id:  "fig-9-1"
     src: "figures/fig-9-1-sehn.jpg"
@@ -960,17 +968,21 @@ figure_list:
     caption: "Joseph Beuys applies butter to the plaster block for the exhibition *Kunst in Europa na ’68*, Vereniging voor het Museum voor Hedendaagse Kunst, Ghent, 1980."
     credit: "© Gerhard Steidl + Klaus Staeck, from *Joseph Beuys – Das Wirtschaftwertprinzip* (Göttingen, Germany: Steidl Verlag/Edition Staeck, 1997)"
 
-  - id:  "fig-17-4"
-    src: "figures/fig-17-4-heremans.jpg"
-    label: "Figure 17.4"
-    caption: "Examples of packages with nonoriginal fillings."
-    credit: "Rebecca Heremans © S.M.A.K."
+  - id: "fig-17-4a"
+    src: "figures/fig-17-4a-heremans.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-17-5"
-    src: "figures/fig-17-5-heremans.jpg"
-    label: "Figure 17.5"
-    caption: "Examples of damage."
-    credit: "Rebecca Heremans © S.M.A.K."
+  - id: "fig-17-4b"
+    src: "figures/fig-17-4b-heremans.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-17-5a"
+    src: "figures/fig-17-5a-heremans.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-17-5b"
+    src: "figures/fig-17-5b-heremans.jpg"
+    # caption and credit info in shortcode
 
   - id:  "fig-17-6"
     src: "figures/fig-17-6-heremans.jpg"
@@ -1182,11 +1194,13 @@ figure_list:
     caption: "Consolidation with Paraloid B-72, 2010."
     credit: "Muzej suvremene umjetnosti, Zagreb"
 
-  - id:  "fig-21-6"
-    src: "figures/fig-21-6-pavic.jpg"
-    label: "Figure 21.6"
-    caption: "Samples consolidated with four different consolidants."
-    credit: "Mirta Pavić"
+  - id: "fig-21-6a"
+    src: "figures/fig-21-6a-pavic.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-6b"
+    src: "figures/fig-21-6b-pavic.jpg"
+    # caption and credit info in shortcode
 
   - id:  "fig-21-7"
     src: "figures/fig-21-7-pavic.jpg"
@@ -1194,23 +1208,29 @@ figure_list:
     caption: "Sample preparation—consolidation of bread samples and microtome cross sections."
     credit: "Harald Fitzek"
 
-  - id:  "fig-21-8"
-    src: "figures/fig-21-8-pavic.jpg"
-    label: "Figure 21.8"
-    caption: "FTIR-ATR spectra of the untreated bread (red), original sample (green and black), and Paraloid B-72 (blue)."
-    credit: "Ivana Bačić"
+  - id: "fig-21-8a"
+    src: "figures/fig-21-8a-pavic.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-21-9"
-    src: "figures/fig-21-9-pavic.jpg"
-    label: "Figure 21.9"
-    caption: "Light microscope image of the cross section of a sample with Paraloid B-72."
-    credit: "Harald Fitzek"
+  - id: "fig-21-8b"
+    src: "figures/fig-21-8b-pavic.jpg"
+    # caption and credit info in shortcode
 
-  - id:  "fig-21-10"
-    src: "figures/fig-21-10-pavic.jpg"
-    label: "Figure 21.10"
-    caption: "Spectra of standards (starch, zein, and Paraloid B-72) and a bread sample obtained using Raman point measurements (positions 3 and 7 with Paraloid; positions 6 and 9 with no Paraloid)."
-    credit: "Harald Fitzek"
+  - id: "fig-21-9a"
+    src: "figures/fig-21-9a-pavic.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-9b"
+    src: "figures/fig-21-9b-pavic.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-10a"
+    src: "figures/fig-21-10a-pavic.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-10b"
+    src: "figures/fig-21-10b-pavic.jpg"
+    # caption and credit info in shortcode
 
   - id:  "fig-21-11"
     src: "figures/fig-21-11-pavic.jpg"
@@ -1330,11 +1350,13 @@ figure_list:
     caption: "Kelly Kleinschrodt (American, b. 1983), *mothersink*, 2014. Acrylic, glycerin, and breast milk, 88.9 × 58.4 × 40.6 cm. Galia’s Collection, Belgium."
     credit: "Courtesy the artist and Josh Lilley, London"
 
-  - id:  "fig-23-9"
-    src: "figures/fig-23-9-kleinschrodt.jpg"
-    label: "Figure 23.9"
-    caption: "Kelly Kleinschrodt (American, b. 1983), *bodyofmother / breastmilksoap (for E.)* and detail, 2014. Inkjet print, acrylic, glycerin, breast milk, castor oil, and honey, 52.1 × 41.9 × 2.5 cm (print); 5.1 × 14 × 10.2 cm (soap and stand). Collection of the artist."
-    credit: "Courtesy the artist"
+  - id: "fig-23-9a"
+    src: "figures/fig-23-9a-kleinschrodt.jpg"
+    # caption and credit info in shortcode
+
+  - id: "fig-23-9b"
+    src: "figures/fig-23-9b-kleinschrodt.jpg"
+    # caption and credit info in shortcode
 
   - id:  "fig-23-10"
     src: "figures/fig-23-10-kleinschrodt.jpg"
