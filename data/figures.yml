@@ -234,6 +234,18 @@ figure_list:
     caption: "César Martínez Silva (México, 1962), artistic action in Santander, Spain, 2015. Fondo César Martínez, Centro de Documentación Arkheia, MUAC-UNAM."
     credit: "Courtesy César Martínez Silva"
 
+  - id:  "fig-2-a"
+    src: "figures/fig-2-a-coronado.png"
+    label: "Figure ?"
+    caption: ""
+    credit: ""
+
+  - id:  "fig-2-b"
+    src: "figures/fig-2-b-coronado.png"
+    label: "Figure ?"
+    caption: ""
+    credit: ""
+
   - id:  "fig-2-1"
     src: "figures/fig-2-1-coronado.jpg"
     label: "Figure 2.1"
