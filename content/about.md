@@ -16,19 +16,19 @@ The free online edition of this publication is available at getty.edu /publicati
 
 ### Chicago
 
-Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. http://www.getty.edu/publications/livingmatter/.
+Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/.
 
 ### MLA
 
-Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. http://www.getty.edu/publications/livingmatter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
+Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
 
 ### Permanent URL
 
-http://www.getty.edu/publications/livingmatter/
+http://www.getty.edu/publications/living-matter/
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/livingmatter/](https://github.com/thegetty/livingmatter/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/living-matter/](https://github.com/thegetty/living-matter/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
 ### May 24, 2022
 

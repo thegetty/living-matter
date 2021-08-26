@@ -10,7 +10,7 @@ image:
 
 This publication was created using Quire™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at <span class="url-string">[getty.edu/publications/livingmatter/](http://getty.edu/publications/livingmatter/)</span> and includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
+The free online edition of this publication is available at <span class="url-string">[getty.edu/publications/living-matter/](http://getty.edu/publications/living-matter/)</span> and includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
 
 © 2022 J. Paul Getty Trust
 
@@ -19,7 +19,7 @@ The free online edition of this publication is available at <span class="url-str
 Unless otherwise indicated, the text and images of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 First edition, 2022<br />
-[github.com/thegetty/livingmatter/](https://github.com/thegetty/livingmatter/)
+[github.com/thegetty/living-matter/](https://github.com/thegetty/living-matter/)
 
 **Published by the Getty Conservation Institute Los Angeles**<br />
 Getty Publications<br />
