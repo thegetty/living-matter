@@ -8,8 +8,6 @@ Because they are prone to rapid decay, even complete disappearance, biological m
 
 With contributions by conservators, scholars, curators, and artists, Living Matter is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
 
-The free online edition of this publication is available at getty.edu /publications/living matter/ and includes videos and zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
-
 {{< q-class "backmatter" >}}
 
 ## Citation Information
