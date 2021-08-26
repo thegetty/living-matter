@@ -94,7 +94,6 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Detail of <br />
-Back cover:
+Cover:
 
 {{< /q-class >}}
