@@ -8,6 +8,12 @@ Because they are prone to rapid decay, even complete disappearance, biological m
 
 With contributions by conservators, scholars, curators, and artists, Living Matter is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
 
+---
+
+*Living Matter: The Preservation of Biological Materials Used in Contemporary Art*<br />
+A conference organized by the Getty Conservation Institute (GCI), Museo Universitario Arte Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México (UNAM), and Escuela Nacional de Conservación, Restauración y Museografia (ENCRyM) of the Instituto Nacional de Antropología e Historia (INAH), Mexico City, June 3–5, 2019
+
+
 {{< q-class "backmatter" >}}
 
 ## Citation Information
@@ -96,4 +102,13 @@ Library of Congress Cataloging-in-Publication Data
 
 Cover:
 
+## The Getty Conservation Institute
+
+Timothy P. Whalen, John E. and Louise Bryson Director<br />
+Jeanne Marie Teutonico, Associate Director, Strategic Initiatives<br />
+
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, model field projects, and the dissemination of the results of both its own work and the work of others in the field. In all its endeavors, the GCI focuses on the creation and delivery of knowledge that will benefit the professionals and organizations responsible for the conservation of the world’s cultural heritage.
+
 {{< /q-class >}}
+
+
