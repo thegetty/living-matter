@@ -144,3 +144,9 @@
     height: .25in;
   }
 }
+
+/* FIGURE & TABLES
+============================================================================= */
+.quire-page__content .quire-figure.large-table table {
+  font-size: .5em;
+}

@@ -1,5 +1,16 @@
 figure_list:
 
+  - id: "table-17-1"
+    src: "tables/table-17-1-heremans.html"
+    media_type: table
+    label: "Table 17.1"
+
+  - id: "table-21-1"
+    src: "tables/table-21-1-pavic.html"
+    media_type: table
+    label: "Table 21.1"
+    caption: "Characteristic absorption band and area of characteristic absorption band analyzed by FTIR"
+
   - id:  "fig-0-1"
     src: "figures/fig-0-1-villar.jpg"
     label: "Figure 0.1"
