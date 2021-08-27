@@ -77,10 +77,11 @@ Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />
 
 Tevvy Ball, *Project Editor*<br />
+Lindsey Westbrook, *Manuscript Editor*<br />
 Greg Albers, *Digital Manager*<br />
 Kurt Hauser, *Cover Designer*<br />
 Molly McGeehan, *Production*<br />
-Leslie Rollins, *Image and Rights Acquisition*<br />
+Leslie Rollins and Nancy Rivera, *Image and Rights Acquisition*<br />
 Audrey Warne, *Digital Assistant*<br />
 
 {{< q-class "cip-data" >}}
