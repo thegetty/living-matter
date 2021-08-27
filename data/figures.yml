@@ -338,7 +338,7 @@ figure_list:
   - id:  "fig-3-6"
     src: "figures/fig-3-6-oettl.jpg"
     label: "Figure 3.6"
-    caption: "ORLAN (French, b. 1947), *ORLANoid*, 2018. C^3^I-robot (command-control-communication-intelligence system)."
+    caption: "ORLAN (French, b. 1947), *ORLANoid*, 2018. C<sup>3</sup>I-robot (command-control-communication-intelligence system)."
     credit: "Courtesy the artist"
 
   - id:  "fig-3-7"
