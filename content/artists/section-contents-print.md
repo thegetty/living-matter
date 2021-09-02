@@ -1,10 +1,7 @@
 ---
 title: Working With the Artist
 subtitle: Between Conservation and Production
-type: contents
-class: abstract
-slug: .
-weight: 79
-pdf: false
-epub: false
+type: splash
+weight: 78
+online: false
 ---

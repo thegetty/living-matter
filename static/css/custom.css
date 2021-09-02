@@ -190,7 +190,10 @@
   #contributors .quire-contributor__name {
     font-size: .875rem;
   }
-  
+
+  .quire-splash .quire-page__header .hero-body .quire-page__header__title {
+    color: #243a85;
+  }
 }
 
 /* Adjust URL breaks in PDF */
