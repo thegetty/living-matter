@@ -150,3 +150,9 @@
 .quire-page__content .quire-figure.large-table table {
   font-size: .5em;
 }
+.quire-figure.pdf-two-column {
+  column-span: all;
+}
+.quire-figure.figure-border img {
+  border: 1px solid #333;
+}

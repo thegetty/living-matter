@@ -604,19 +604,23 @@ figure_list:
     # caption and credit info in shortcode
 
   - id: "fig-8-4a"
-    src: "figures/fig-8-3a-chiwara.jpg"
+    src: "figures/fig-8-4a-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id: "fig-8-4b"
     src: "figures/fig-8-4b-chiwara.jpg"
     # caption and credit info in shortcode
 
+  - id: "fig-8-4c"
+    src: "figures/fig-8-4c-chiwara.jpg"
+    # caption and credit info in shortcode
+
   - id: "fig-8-5a"
-    src: "figures/fig-8-3a-chiwara.jpg"
+    src: "figures/fig-8-5a-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id: "fig-8-5b"
-    src: "figures/fig-8-4b-chiwara.jpg"
+    src: "figures/fig-8-5b-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id:  "fig-9-1"
@@ -668,13 +672,13 @@ figure_list:
     credit: "Courtesy Nydia Negromonte archive"
 
   - id:  "fig-10-1"
-    src: "figures/fig-10-1-mata-delgado.png"
+    src: "figures/fig-10-1-mata-delgado.jpg"
     label: "Figure 10.1"
     caption: "Teresa Margolles (Mexican, b. 1963), detail of *Tela Bolivia*, 2016. Embroidered textile with bloodstains, 200 × 240 × 90 cm. TKcollectioncredit."
     credit: "Ana Lizeth Mata Delgado"
 
   - id:  "fig-10-2"
-    src: "figures/fig-10-2-mata-delgado.png"
+    src: "figures/fig-10-2-mata-delgado.jpg"
     label: "Figure 10.2"
     caption: "Interview with artist Noemí Ramírez."
     credit: "STROMC-ENCRyM, INAH"
@@ -810,6 +814,10 @@ figure_list:
     label: "Figure 12.6"
     caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Today We Reboot the Planet*, 2013. Organic, inorganic, human-made, and machine-made matter, including unfired clay, cement, handmade bricks, metal, and glass, all collected in London and Rosario, Argentina, 195 × 330 × 360 cm. Art Gallery of Ontario, AGO 2016/38."
     credit: "Art Gallery of Ontario, © Adrián Villar Rojas, courtesy the artist and Marian Goodman Gallery"
+
+  - id:  "fig-12-7"
+    src: "figures/fig-12-7-phillips.png"
+    label: "Figure 12.7"
 
   - id:  "fig-13-1"
     src: "figures/fig-13-1-walthew.jpg"
@@ -1366,6 +1374,8 @@ figure_list:
     credit: "Courtesy the artist"
 
   - id:  "fig-23-7"
+    src: "figures/fig-23-7-kleinschrodt.jpg"
+    label: "Figure 23.7"
     caption: "*breastmilksoap* works in artist’s home, 2013."
     credit: "Courtesy the artist"
 
