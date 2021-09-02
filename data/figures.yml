@@ -604,19 +604,23 @@ figure_list:
     # caption and credit info in shortcode
 
   - id: "fig-8-4a"
-    src: "figures/fig-8-3a-chiwara.jpg"
+    src: "figures/fig-8-4a-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id: "fig-8-4b"
     src: "figures/fig-8-4b-chiwara.jpg"
     # caption and credit info in shortcode
 
+  - id: "fig-8-4c"
+    src: "figures/fig-8-4c-chiwara.jpg"
+    # caption and credit info in shortcode
+
   - id: "fig-8-5a"
-    src: "figures/fig-8-3a-chiwara.jpg"
+    src: "figures/fig-8-5a-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id: "fig-8-5b"
-    src: "figures/fig-8-4b-chiwara.jpg"
+    src: "figures/fig-8-5b-chiwara.jpg"
     # caption and credit info in shortcode
 
   - id:  "fig-9-1"
@@ -668,13 +672,13 @@ figure_list:
     credit: "Courtesy Nydia Negromonte archive"
 
   - id:  "fig-10-1"
-    src: "figures/fig-10-1-mata-delgado.png"
+    src: "figures/fig-10-1-mata-delgado.jpg"
     label: "Figure 10.1"
     caption: "Teresa Margolles (Mexican, b. 1963), detail of *Tela Bolivia*, 2016. Embroidered textile with bloodstains, 200 × 240 × 90 cm. TKcollectioncredit."
     credit: "Ana Lizeth Mata Delgado"
 
   - id:  "fig-10-2"
-    src: "figures/fig-10-2-mata-delgado.png"
+    src: "figures/fig-10-2-mata-delgado.jpg"
     label: "Figure 10.2"
     caption: "Interview with artist Noemí Ramírez."
     credit: "STROMC-ENCRyM, INAH"
