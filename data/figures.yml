@@ -1,5 +1,10 @@
 figure_list:
 
+  - id: "table-15-1"
+    src: "tables/table-15-1-ayla.html"
+    media_type: table
+    label: "Table 15.1"
+
   - id: "table-17-1"
     src: "tables/table-17-1-heremans.html"
     media_type: table

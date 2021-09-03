@@ -152,7 +152,8 @@
 
 /* FIGURE & TABLES
 ============================================================================= */
-.quire-page__content .quire-figure.large-table table {
+.quire-page__content .quire-figure.large-table table,
+.quire-page__content .quire-figure.large-table table + .table-key {
   font-size: .5em;
 }
 .quire-figure.pdf-two-column {
@@ -164,6 +165,17 @@
 @media print {
   .quire-figure.figure-border img {
     border: .5pt solid #333;
+  }
+}
+.quire-page__content .quire-figure__table .table-key {
+  color: #333;
+  text-align: left;
+  display: block;
+  margin: .5em 0;
+}
+@media print {
+  .quire-page__content .quire-figure__table .table-key {
+    color: #000;
   }
 }
 
