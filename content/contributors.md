@@ -1,7 +1,11 @@
 ---
 title: Contributors
-weight: 201
+weight: 330
 type: page
 ---
 
-{{< q-contributor range="primary" format="bio" >}}
+<div class="backmatter">
+
+{{< q-contributor range="all" format="bio" >}}
+
+</div>

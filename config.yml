@@ -40,13 +40,12 @@ params:
   displayBiblioShort: true
   biblioHeading: "Bibliography"
   imageDir: "img"
-  tocType: full
-  menuType: full
+  menuClass: brief
   prevPageButtonText: "Back"
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
-  figureLabelLocation: on-top # below | on-top
+  figureLabelLocation: "below" # below | on-top
   figureModal: true
   figureModalIcons: true
   figureZoom: true

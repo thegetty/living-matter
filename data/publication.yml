@@ -9,10 +9,13 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
+title: Living Matter
+subtitle: The Preservation of Biological Materials in Contemporary Art
+reading_line: An International Conference Held in Mexico City, June 3–5, 2019
 short_title:
+
+series: Proceedings
+number_in_series:
 
 description:
   one_line:
@@ -33,7 +36,7 @@ identifier:
   url:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Conservation Institute
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -42,38 +45,30 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by Rachel Rivenc and Kendra Roth
 
 contributor:
-  - id: jkeller
+  - id: rrivenc
+    first_name: Rachel
+    last_name: Rivenc
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
-    bio:
-    url:
-    pic:
+    bio: "Rachel Rivenc is the head of conservation and preservation at the Getty Research Institute (GRI). Prior to that she worked at the Getty Conservation Institute (GCI) as part of the Modern and Contemporary Art Research Initiative. She was the coordinator for the Modern Materials and Contemporary Art working group of ICOM-CC for six years and sits on the steering committee of the International Network for the Conservation of Contemporary Art (INCCA). Rivenc holds a master’s degree in paintings conservation from Paris 1-Sorbonne and a PhD from the Université de Versailles Saint-Quentin-en-Yvelines."
+  - id: kroth
+    first_name: Kendra
+    last_name: Roth
+    type: primary
+    bio: "Kendra Roth is the conservator of modern and contemporary art at the Metropolitan Museum of Art, New York. She holds a bachelor’s degree in fine arts from Tufts University and a master’s degree in art conservation from the State University of New York at Buffalo, and did postgraduate work at the Straus Center for Conservation and Technical Studies at Harvard University. She serves in the Conservation Advisory Group for the Public Design Commission of the City of New York and as assistant coordinator of the Modern Materials and Contemporary Art Working Group of ICOM-CC."
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2022 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
@@ -146,4 +141,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover.jpg

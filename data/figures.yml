@@ -1,90 +1,1482 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
 
+  - id: "table-15-1"
+    src: "tables/table-15-1-ayla.html"
+    media_type: table
+    label: "Table 15.1"
+
+  - id: "table-17-1"
+    src: "tables/table-17-1-heremans.html"
+    media_type: table
+    label: "Table 17.1"
+
+  - id: "table-21-1"
+    src: "tables/table-21-1-pavic.html"
+    media_type: table
+    label: "Table 21.1"
+    caption: "Characteristic absorption band and area of characteristic absorption band analyzed by FTIR"
+
+  - id:  "fig-0-1"
+    src: "figures/fig-0-1-villar.jpg"
+    label: "Figure 0.1"
+    caption: "Two ant nests made in 2006, stored in the living room of the artist’s parents, Rosario, Argentina. Soil, glue, Kraft paper, and small graveyard crosses."
+    credit: "Adrián Villar Rojas"
+
+  - id:   "fig-0-2"
+    src: "figures/fig-0-2-villar.jpg"
+    label: "Figure 0.2"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Pedazos de las personas que amamos* (Pieces of the People We Love), 2007. Styrofoam, cardboard, balsa wood, epoxy putty, unfired clay, soil, sponge cakes, insects, paper, ketchup, corn flour, potatoes, cacti, artificial plants, tree branches, miniature pine trees, trophies, lamps, fish, fish tank, loudspeakers, graphite pencil leads, motocross helmet, trainers, televisions, and DVD players, all collected in Rosario, 640 × 440 × 130 cm. Installation view, 4th arteBA-Petrobras Visual Arts Prize, Buenos Aires, 2007."
+    credit: "Tomás Lerner, courtesy the artist"
+
+  - id:   "fig-0-3"
+    src: "figures/fig-0-3-villar.jpg"
+    label: "Figure 0.3"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Untitled*, from the series *Pedazos de las personas que amamos* (Pieces of the People We Love), 2007. Sponge cake, marzipan, robot, miniature pine trees, confetti sprinkles, and balsa wood, 30 × 50 × 50 cm. Moderna Museet, Stockholm. Installation view, *Fantasma*, Moderna Museet, Stockholm, 2015."
+    credit: "Åsa Lundén, courtesy the artist and Moderna Museet"
+
+  - id:   "fig-0-4"
+    src: "figures/fig-0-4-villar.jpg"
+    label: "Figure 0.4"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Lo que el fuego me trajo* (What Fire Has Brought Me), 2008. Unfired clay, bricks, cement, demolition rubble, water tanks, water, lime, sand, wood, metal, mirrors, glass, soap, mollusk shells, car windscreen, car hood, badges, stickers, sprouting potatoes, corals, stones, ceramic objects, cold porcelain, trainers, glass jars, burned bread, pasta, Post-it note cube, and jewelry, all collected in Buenos Aires."
+    credit: "Ignacio Iasparra, courtesy the artist and Ruth Benzacar Galeria de Arte"
+
+  - id:  "fig-0-5"
+    src: "figures/fig-0-5-villar.jpg"
+    label: "Figure 0.5"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Mi familia muerta* (My Dead Family), 2009. Unfired local clay and rocks, 300 × 2700 × 400 cm. Installation view, Parque Yatana, 2a Bienal del Fin del Mundo, Ushuaia, Argentina, 2009."
+    credit: "Carla Barbero, courtesy the artist"
+
+  - id:  "fig-0-6"
+    src: "figures/fig-0-6-villar.jpg"
+    label: "Figure 0.6"
+    caption: "*Brick Farm*, 2012–ongoing, an experimental collaborative studio located in a traditional brickyard on the outskirts of Rosario, Argentina."
+    credit: "Mario Caporali, courtesy the artist"
+
+  - id:  "fig-0-7"
+    src: "figures/fig-0-7-villar.jpg"
+    label: "Figure 0.7"
+    caption: "One of the first tasks that Villar Rojas’s team undertook in *Brick Farm* was to reproduce some elements of the *dOCUMENTA (13)* installation. This instinctive exercise allowed them to revisit the intense period of production that had just finished with a slower and more reflexive spirit. The photograph shows horses galloping alongside one such replica."
+    credit: "Mario Caporali, courtesy the artist"
+
+  - id:  "fig-0-8"
+    src: "figures/fig-0-8-villar.jpg"
+    label: "Figure 0.8"
+    caption: "Hornero nest with interventions by Ariel Torti, who added his own mixture of clay to the exterior. Here the hornero added more layers of matter over Torti’s intervention—a unique bird-human interaction."
+    credit: "Mario Caporali, courtesy the artist"
+
+  - id:  "fig-0-9"
+    src: "figures/fig-0-9-villar.jpg"
+    label: "Figure 0.9"
+    caption: "Construction of a brick kiln. Each layer of bricks is coated with charcoal, which helps amplify the heat during the firing process. A hornero nest is fired in the oven along with the bricks."
+    credit: "Mario Caporali, courtesy the artist"
+
+  - id:  "fig-0-10"
+    src: "figures/fig-0-10-villar.jpg"
+    label: "Figure 0.10"
+    caption: "Hybrid pieces mixing clay, cement, organic, and industrial elements being manufactured by the team at workstations at a temporary studio for *Today We Reboot the Planet*, Serpentine Sackler Gallery, London, 2013."
+    credit: "Adrián Villar Rojas, courtesy the artist"
+
+  - id:  "fig-0-11"
+    src: "figures/fig-0-11-villar.jpg"
+    label: "Figure 0.11"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014."
+    credit: "Michel Zabé, courtesy the artist and kurimanzutto"
+
+  - id:  "fig-0-12"
+    src: "figures/fig-0-12-villar.jpg"
+    label: "Figure 0.12"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014."
+    credit: "Michel Zabé, courtesy the artist and kurimanzutto"
+
+  - id:  "fig-0-13"
+    src: "figures/fig-0-13-villar.jpg"
+    label: "Figure 0.13"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Los teatros de Saturno* (The Theaters of Saturn), 2014. Organic, inorganic, human-made, and machine-made matter, including *tezontle* (red volcanic soil), pigmented plaster, unfired clay, water, coal, *Heliconia*, banana flower, trainers, iPod, opal, obsidian, pearls, bronze, silver, fungi, bread, snails, freshwater fish, crabs, lobsters, pumpkins, watermelons, potatoes, and onions, all collected in Mexico City. Installation view, kurimanzutto, Mexico City, 2014."
+    credit: "Michel Zabé, courtesy the artist and kurimanzutto"
+
+  - id:  "fig-0-14"
+    src: "figures/fig-0-14-villar.jpg"
+    label: "Figure 0.14"
+    caption: "On the outskirts of Mexico City, the team found an agricultural and horticultural area, the Colonia San Gregorio Atlapulco, which was rented and treated as a sister space to *Brick Farm*. *Los teatros de Saturno* fed off and spilled over this area. The photograph shows a stratified cube; when it collapsed, its fragments went on to become part of *Fantasma*."
+    credit: "Michel Zabé, courtesy the artist and kurimanzutto"
+
+  - id:  "fig-0-15"
+    src: "figures/fig-0-15-villar.jpg"
+    label: "Figure 0.15"
+    caption: "Ariel Torti experiments with potato grafts. Whatever was not used for *Los teatros de Saturno* was recycled, mixed, and exposed to the elements at Colonia San Gregorio Atlapulco—rotting, growing, and sprouting spontaneously."
+    credit: "Michel Zabé, courtesy the artist and kurimanzutto"
+
+  - id:  "fig-0-16"
+    src: "figures/fig-0-16-villar.jpg"
+    label: "Figure 0.16"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Where the Slaves Live*, 2014. Stratified layers of soil, compost, tree branches, pigmented plaster, resin, trainers, watermelons, pumpkins, sprouting potatoes, courgettes, beetroots, germinated beans, fungi, seeds, corn, herbaceous plants, lichen, ivy leaves, and ferns, collected in Dover, London, and Yangji-ri, 560 × 300 × 240 cm. Fondation Louis Vuitton, Paris. Installation view, Fondation Louis Vuitton, Paris, 2014."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Fondation Louis Vuitton"
+
+  - id:  "fig-0-17"
+    src: "figures/fig-0-17-villar.jpg"
+    label: "Figure 0.17"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Most Beautiful of All Mothers*, 2015. Organic, inorganic, human-made, and machine-made matter, including cement, resin, polyurethane paint, lacquer, sand, soil, rocks, fishing nets, wood, snails, raw beef, corals, mollusk shells, feathers, and petrified wood, collected in Istanbul, Kalba, Mexico City, and Ushuaia. Installation view, shore by Leon Trotsky’s former house, Büyükada Island, 14th Istanbul Biennial, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, Marian Goodman Gallery, and kurimanzutto"
+
+  - id:  "fig-0-18"
+    src: "figures/fig-0-18-villar.jpg"
+    label: "Figure 0.18"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Rinascimento*, 2015. Organic, inorganic, human-made, and machine-made matter, including metamorphic, igneous, and sedimentary rocks, petrified wood, butterfly wings, raw beef and pork, swordfish, crows, geese, corals, mollusk shells, grapes, artichokes, watermelons, rubber and plaster molds, trainers, fishing nets, burned ropes, metal pots, and utensils, collected in Turin, Istanbul, Kalba, New York, and Mexico City. Installation view, Fondazione Sandretto Re Rebaudengo, Turin, Italy, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Fondazione Sandretto Re Rebaudengo"
+
+  - id:  "fig-0-19"
+    src: "figures/fig-0-19-villar.jpg"
+    label: "Figure 0.19"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min."
+    credit: "Courtesy the artist and DMZ Real project"
+
+  - id:  "fig-0-20"
+    src: "figures/fig-0-20-villar.jpg"
+    label: "Figure 0.20"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min."
+    credit: "Courtesy the artist and DMZ Real project"
+
+  - id:  "fig-0-21"
+    src: "figures/fig-0-21-villar.jpg"
+    label: "Figure 0.21"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Two Suns*, 2015. Unfired clay and cement re-creation of Michelangelo’s *David*, blackout curtains, and handmade tiles (cement, sand, turba, and pigments) embedded with organic, inorganic, human-made, and machine-made matter collected in New York, Kalba, Rosario, and Ushuaia. Installation view, Marian Goodman Gallery, New York, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Marian Goodman Gallery"
+
+  - id:  "fig-0-22"
+    src: "figures/fig-0-22-villar.jpg"
+    label: "Figure 0.22"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Work of the Ocean*, 2013. Drywall, paint, carpet, wallpaper, furniture, decorative objects, and nineteen figurines made of wire, modeling clay, and epoxy putty, dimensions variable, ranging from 17 × 29 × 13 cm to 26 × 66 × 20 cm. Installation view, De 11 Lijnen, Oudenburg, Belgium, 2013."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and De 11 Lijnen"
+
+  - id:  "fig-0-23"
+    src: "figures/fig-0-23-villar.jpg"
+    label: "Figure 0.23"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), diachronic object (potato with hypertrophied germination) from *Los teatros de Saturno* (The Theaters of Saturn), from the series *Fantasma* (Ghost), 2014. Installation view, *Fantasma*, Moderna Museet, Stockholm, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, kurimanzutto, and Moderna Museet"
+
+  - id:  "fig-0-24"
+    src: "figures/fig-0-24-villar.jpg"
+    label: "Figure 0.24"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Planetarium*, 2015. Organic, inorganic, human-made, and machine-made matter, including compost, cement, gypsum, pigments, sand, soil, ropes, obsidian, smithsonite, dogtooth calcite, jeans, sweaters, trainers, mollusk shells, tree branches, gastropod fossils, canaries, finches, parakeets, shark fins, corals, crabs, lobsters, fungi, watermelons, oranges, corn, sprouting potatoes, germinated beans, and pumpkins, collected in Kalba and Sharjah. Installation view, 12th Sharjah Biennial, Kalba, United Arab Emirates, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Sharjah Foundation"
+
+  - id:  "fig-0-25"
+    src: "figures/fig-0-25-villar.jpg"
+    label: "Figure 0.25"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Planetarium*, 2015. Organic, inorganic, human-made, and machine-made matter, including compost, cement, gypsum, pigments, sand, soil, ropes, obsidian, smithsonite, dogtooth calcite, jeans, sweaters, trainers, mollusk shells, tree branches, gastropod fossils, canaries, finches, parakeets, shark fins, corals, crabs, lobsters, fungi, watermelons, oranges, corn, sprouting potatoes, germinated beans, and pumpkins, collected in Kalba and Sharjah. Installation view, 12th Sharjah Biennial, Kalba, United Arab Emirates, 2015."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and Sharjah Foundation"
+
+  - id:  "fig-0-26"
+    src: "figures/fig-0-26-villar.jpg"
+    label: "Figure 0.26"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Ivy, colored lights, re-creation of parietal pictographs, *pixação* and Roman-period graffiti, floor tiles and blocks of Moroccan marble encrusted with ammonites and *Orthoceras* fossils, fossilized turtle shells, Neolithic stone tools, and septarian concretions. Installation view, Kunsthaus Bregenz (first floor), Austria, 2017."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist, Marian Goodman Gallery, and kurimanzutto"
+
+  - id:  "fig-0-27"
+    src: "figures/fig-0-27-villar.jpg"
+    label: "Figure 0.27"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Biotope assemblage, corn, pumpkins, watermelons, wild grass, artichokes, olive trunks, common reed, rocks, compost, and soil. Installation view, Hill of the Nymphs, Athens. Commissioned by NEON in collaboration with the National Observatory of Athens, 2017."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and NEON"
+
+  - id:  "fig-0-28"
+    src: "figures/fig-0-28-villar.jpg"
+    label: "Figure 0.28"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Plaster reproduction of Victory of Samothrace (190 BCE) graffitied and fly-postered, military rucksack embroidered with Christian cross, military clothing, silver peace-sign pendant, Chinese flag, stromatolites, orange powder, metal, and glass vitrine, 210 × 314 × 175 cm. Installation view, Hill of the Nymphs, Athens. Commissioned by NEON in collaboration with the National Observatory of Athens, 2017."
+    credit: "Jörg Baumann/baumann fotografie frankfurt a.m., courtesy the artist and NEON"
+
+  - id:  "fig-0-29"
+    src: "figures/fig-0-29-villar.jpg"
+    label: "Figure 0.29"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Nylon-printed and polyurethane CNC-milled reproductions of human and nonhuman animal figures, food and artifacts from the Metropolitan Museum of Art’s permanent collection coated in bespoke automotive paint, porcelain tiles, diamond plate flooring, hollybush hedges, public bar, signage, benches, and adapted and repainted pergola. Installation view, Roof Garden Commission at the Metropolitan Museum of Art, New York, 2017."
+    credit: "Michael Kirby Smith, courtesy the artist, Marian Goodman Gallery, and kurimanzutto"
+
+  - id:  "fig-0-30"
+    src: "figures/fig-0-30-villar.jpg"
+    label: "Figure 0.30"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017. Organic, inorganic, human-made, and machine-made matter, including freezer, saber-tooth tiger’s spine, skulls of both *Homo erectus* “Peking man” and Neanderthal “La Chapelleaux-Saints,” orangutan skeleton, rubber molds (from *The Most Beautiful of All Mothers* [2015]), crucifix and tree branches (from *Rinascimento* [2015]), fungi, vines, sprouting tubers, robotics, shark fins, and hornero nests, collected in Los Angeles, Istanbul, Kalba, Mexico City, and Turin, 330 × 111 × 203 cm. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017."
+    credit: "Michel Zabé studio, courtesy the artist, Marian Goodman Gallery, and kurimanzutto"
+
+  - id:  "fig-1-1"
+    src: "figures/fig-1-1-macias.jpg"
+    label: "Figure 1.1"
+    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Hoja de vida / El Cabello está en la cabeza* (Résumé / Hair Is on the Head), 1985. Typewriting and human hair on manila paper, wood box, 27 × 29.5 × 15 cm. Fondo El Archivero, Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Fabián Cadena"
+
+  - id:  "fig-1-2"
+    src: "figures/fig-1-2-macias.jpg"
+    label: "Figure 1.2"
+    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Hoja de vida / El Cabello está en la cabeza* (Résumé / Hair Is on the Head), 1985. Typewriting and human hair on manila paper, wood box, 27 × 29.5 × 15 cm. Fondo El Archivero, Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Fabián Cadena"
+
+  - id:  "fig-1-3"
+    src: "figures/fig-1-3-macias.jpg"
+    label: "Figure 1.3"
+    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Hoja de vida / El Cabello está en la cabeza* (Résumé / Hair Is on the Head), 1985. Typewriting and human hair on manila paper, wood box, 27 × 29.5 × 15 cm. Fondo El Archivero, Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Fabián Cadena"
+
+  - id:  "fig-1-4"
+    src: "figures/fig-1-4-macias.jpg"
+    label: "Figure 1.4"
+    caption: "Rocío Boliver (Mexican, b. 1956), *Pocos mocos* (*Little Snots*), ca. 1999. Tissues and swabs with human secretions, 13 × 8 × 2 cm each. Fondo Rocío Boliver “La Congelada de Uva,” Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Rocío Boliver and Centro de Documentación Arkheia, MUAC-UNAM"
+
+  - id:  "fig-1-5"
+    src: "figures/fig-1-5-macias.jpg"
+    label: "Figure 1.5"
+    caption: "Rocío Boliver (Mexican, b. 1956), detail (Rossana Ponzanelli) from *Pocos mocos* (*Little Snots*), ca. 1999. Tissues and swabs with human secretions, 13 × 8 × 2 cm each. Fondo Rocío Boliver “La Congelada de Uva,” Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Rocío Boliver and Centro de Documentación Arkheia, MUAC-UNAM"
+
+  - id:  "fig-1-6"
+    src: "figures/fig-1-6-macias.jpg"
+    label: "Figure 1.6"
+    caption: "Rocío Boliver (Mexican, b. 1956), detail (Armando Vega-Gil) from *Pocos mocos* (*Little Snots*), ca. 1999. Tissues and swabs with human secretions, 13 × 8 × 2 cm each. Fondo Rocío Boliver “La Congelada de Uva,” Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy Rocío Boliver and Centro de Documentación Arkheia, MUAC-UNAM"
+
+  - id:  "fig-1-7"
+    src: "figures/fig-1-7-macias.jpg"
+    label: "Figure 1.7"
+    caption: "César Martínez Silva (Mexican, b. 1962), *Retrato de ChocolARTE* (Portrait in ChocolART), 2013. 3D modeling chocolate and clear acrylic box or cape, head: 25 × 18 × 15 cm. Fondo César Martínez Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy César Martínez Silva"
+
+  - id:  "fig-1-8"
+    src: "figures/fig-1-8-macias.jpg"
+    label: "Figure 1.8"
+    caption: "César Martínez Silva (Mexican, b. 1962), *Retratos de ChocolARTE* (Portrait in ChocolART), 2013. Installation view at *Antropofagia Gourmet*, Café La Gloria, Mexico City, 2013. Fondo César Martínez, Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy César Martínez Silva"
+
+  - id:  "fig-1-9"
+    src: "figures/fig-1-9-macias.jpg"
+    label: "Figure 1.9"
+    caption: "César Martínez Silva (México, 1962), artistic action in Santander, Spain, 2015. Fondo César Martínez, Centro de Documentación Arkheia, MUAC-UNAM."
+    credit: "Courtesy César Martínez Silva"
+
+  - id:  "fig-2-a"
+    src: "figures/fig-2-a-coronado.png"
+    label: "Figure ?"
+    caption: ""
+    credit: ""
+
+  - id:  "fig-2-b"
+    src: "figures/fig-2-b-coronado.png"
+    label: "Figure ?"
+    caption: ""
+    credit: ""
+
+  - id:  "fig-2-1"
+    src: "figures/fig-2-1-coronado.jpg"
+    label: "Figure 2.1"
+    caption: "Joseph Beuys (German, 1921–1986), *Zwei Fräulein mit leuchtendem brot* (Two Girls with Bright Bread), 1966. Chocolate painted with oil on imprinted card and paper in box, approx. 75 × 21 × 1.2 cm. Private collection."
+    credit: "© Lempertz 1845"
+
+  - id:  "fig-2-2"
+    src: "figures/fig-2-2-coronado.jpg"
+    label: "Figure 2.2"
+    caption: "Sandy Skoglund (American, b. 1946), *The Cocktail Party*, 1992. Installation with found objects, Cheez Doodles, and paint, dimensions variable. McNay Art Museum, San Antonio, Texas."
+    credit: "© 1992 Sandy Skoglund, Collection McNay Art Museum, San Antonio, Texas"
+
+  - id:  "fig-2-3"
+    src: "figures/fig-2-3-coronado.jpg"
+    label: "Figure 2.3"
+    caption: "Kara Walker (American, b. 1969), *A Subtlety, or the Marvelous Sugar Baby, an Homage to the unpaid and overworked Artisans who have refined our Sweet tastes from the cane fields to the Kitchens of the New World on the Occasion of the demolition of the Domino Sugar Refining Plant*, 2014. Polystyrene sphinx coated with thirty-five tons of sugar, approx. 2300 × 700 × TK cm. Installation view, Domino Sugar Refinery, Williamsburg, Brooklyn."
+    credit: "Jason Wyche, courtesy Creative Time, © 2014 Kara Walker"
+
+  - id:  "fig-2-4"
+    src: "figures/fig-2-4-coronado.jpg"
+    label: "Figure 2.4"
+    caption: "Sonja Alhäuser (German, b. 1969), *Braunes Bad V* (Brown Bath V), 2009/2015. Stainless steel tub, chocolate, temperature control function, and artist action, tub: 60 × 160 × 80 cm. Installation view, *Black Box*, Lehmbruck Museum, Duisburg, Germany, 2015."
+    credit: "Alex Heide, Braunschweig, @sonja-alhaeuser.de (ARS/GETTY)"
+
+  - id:  "fig-2-5"
+    src: "figures/fig-2-5-coronado.jpg"
+    label: "Figure 2.5"
+    caption: "Laurent Moriceau (French, b. 1964), *Found and Lost # 1*, 2003. Chocolate, 169 × 51 × 23 cm. Installation/performance view, Palais de Tokyo, Paris."
+    credit: "Laurent Moriceau"
+
+  - id:  "fig-2-6"
+    src: "figures/fig-2-6-coronado.jpg"
+    label: "Figure 2.6"
+    caption: "Janine Antoni (American, b. 1964), *Lick and Lather*, 1993. One licked chocolate self-portrait bust and one washed soap self-portrait bust on pedestals, edition of 7 + 2 APs + TP, busts: approx. 61 × 40.6 × 33 cm each; pedestals: 116 × 40.6 × 40.6 cm each. Collection of Carla Emil and Rich Silverstein and the San Francisco Museum of Modern Art."
+    credit: "© Janine Antoni, courtesy the artist and Luhring Augustine, New York"
+
+  - id:  "fig-2-7"
+    src: "figures/fig-2-7-coronado.jpg"
+    label: "Figure 2.7"
+    caption: "Joseph Beuys (German, 1921–1986), *Capri Battery*, 1985. Light bulb with plug socket and lemon, 8 × 11 × 6 cm. Broad Museum Foundation."
+    credit: "ARS/GETTY"
+
+  - id:  "fig-2-8"
+    src: "figures/fig-2-8-coronado.jpg"
+    label: "Figure 2.8"
+    caption: "Víctor Grippo (Argentinian, 1936–2002), *Analogía I* (Analogy I), 1970–71. Potatoes, painted wood, electrical connectors, voltmeter, and text, 47.4 × 153 × 10 cm. Museo Nacional de Bellas Artes, Buenos Aires."
+    credit: "© Nidia Mabel Olmo de Grippo"
+
+  - id:  "fig-3-1"
+    src: "figures/fig-3-1-oettl.jpg"
+    label: "Figure 3.1"
+    caption: "Marc Quinn (British, b. 1964), *Self*, 1991. Artist’s blood (4.5 liters), stainless steel, Perspex, and refrigeration equipment, 63 × 208 × 63 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-2"
+    src: "figures/fig-3-2-oettl.jpg"
+    label: "Figure 3.2"
+    caption: "Marc Quinn (British, b. 1964), *Cloned DNA Self Portrait 26.09.01*, 2001. Stainless steel, polycarbonate agar jelly, bacteria colony, and human DNA, 26.2 × 20.5 × 2.7 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-3"
+    src: "figures/fig-3-3-oettl.jpg"
+    label: "Figure 3.3"
+    caption: "ORLAN (French, b. 1947), *Omniprésence*, the seventh surgery-performance in the series *La Ré-Incarnation de Sainte ORLAN*, New York, 1993. Cibachrome print in Diasec mount, 165.1 × 109.2 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-4"
+    src: "figures/fig-3-4-oettl.jpg"
+    label: "Figure 3.4"
+    caption: "ORLAN (French, b. 1947), *Small Reliquary: My Flesh, the Text, and Language* (English text), no. 11, 1993. Soldered metal, burglar-proof glass, and 10 grams of ORLAN’s flesh preserved in resin, 30.5 × 30.5 × 5.1 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-5"
+    src: "figures/fig-3-5-oettl.jpg"
+    label: "Figure 3.5"
+    caption: "ORLAN (French, b. 1947), *The Harlequin’s Coat*, 2007–8. Bioreactor, biopsies of human flesh, and petri dishes. Installation view at *sk-interfaces*, Foundation for Art and Creative Technology (FACT), Liverpool, England, 2008."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-6"
+    src: "figures/fig-3-6-oettl.jpg"
+    label: "Figure 3.6"
+    caption: "ORLAN (French, b. 1947), *ORLANoid*, 2018. C<sup>3</sup>I-robot (command-control-communication-intelligence system)."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-3-7"
+    src: "figures/fig-3-7-oettl.jpg"
+    label: "Figure 3.7"
+    caption: "The Tissue Culture & Art Project (hosted @ SymbioticA, School of Human Sciences, the University of Western Australia) (founded 1996, Australia), *A Semi-Living Worry Doll H*, 2000. McCoy cell line, biodegradable/bioabsorbable polymers, and surgical sutures, 2 × 1.5 × 1 cm."
+    credit: "Courtesy the artists"
+
+  - id:  "fig-3-8"
+    src: "figures/fig-3-8-oettl.jpg"
+    label: "Figure 3.8"
+    caption: "The Tissue Culture & Art Project (hosted @ SymbioticA, School of Human Sciences, the University of Western Australia) (founded 1996, Australia), bioreactor used for *Disembodied Cuisine Installation*. Installation view at *L’Art Biotech*, Nationalen Kunstzentrum Lieu Unique, Nantes, France, 2003."
+    credit: "Axel Heise, courtesy the artists"
+
+  - id:  "fig-4-1"
+    src: "figures/fig-4-1-harren.jpg"
+    label: "Figure 4.1"
+    caption: "Marc Alison Knowles (American, b. 1933), *Bean Bag*, 1978. Box containing dried beans, gelatin silver print, and printed bag containing objects in various media, closed: 14 × 13.3 × 13.3 cm. Published by Printed Editions, New York."
+    credit: "Gilbert and Lila Silverman Fluxus Collection Gift, 3749.2008, © 2019 Alison Knowles"
+
+  - id:  "fig-4-2"
+    src: "figures/fig-4-2-harren.jpg"
+    label: "Figure 4.2"
+    caption: "Marc Alison Knowles (American, b. 1933), letter to Jean Brown about *Bean Bag*, March 19, 1979. Jean Brown papers, 1916–1995 (bulk 1958–1985), Getty Research Institute, Los Angeles (890164 and 2016.M.14)."
+    credit: "© 2019 Alison Knowles"
+
+  - id:  "fig-4-3"
+    src: "figures/fig-4-3-harren.jpg"
+    label: "Figure 4.3"
+    caption: "Marc Alison Knowles (American, b. 1933), *Proposition #2 (Make a Salad)*, performed at Festival of Misfits, ICA, London, October 24, 1962. Gelatin silver print, sheet: 25.4 × 20.3 cm. Gilbert and Lila Silverman Fluxus Collection Gift, Museum of Modern Art, New York."
+    credit: "Digital image © The Museum of Modern Art / Licensed by SCALA / Art Resource, NY, © 2019 Alison Knowles"
+
+  - id:  "fig-4-4"
+    src: "figures/fig-4-4-harren.jpg"
+    label: "Figure 4.4"
+    caption: "Marc Alison Knowles (American, b. 1933), *Journal of the Identical Lunch* cover, 1971. Artist’s book, 20 × 14 cm. Published by Nova Broadcast, San Francisco."
+    credit: "© 2019 Alison Knowles"
+
+  - id:  "fig-4-5"
+    src: "figures/fig-4-5-harren.jpg"
+    label: "Figure 4.5"
+    caption: "Marc Alison Knowles (American, b. 1933) (designer and coeditor) and Annea Lockwood (coeditor), *Women’s Work*, 1975. Self-published artist’s book, 22 × 21 cm."
+    credit: "© 2019 Alison Knowles"
+
+  - id:  "fig-4-6"
+    src: "figures/fig-4-6-harren.jpg"
+    label: "Figure 4.6"
+    caption: "Marc Jae Rhim Lee (South Korean, b. 1975), *Infinity Burial Suit*, 2008–ongoing. Custom garment infused with mushroom mycelium, dimensions variable. Collection of the artist."
+    credit: "courtesy the artist"
+
+  - id:  "fig-4-7"
+    src: "figures/fig-4-7-harren.jpg"
+    label: "Figure 4.7"
+    caption: "Marc Anicka Yi (Korean American, b. 1971), *Grabbing at Newer Vegetables*, 2015. Plexiglas, agar, female bacteria, and fungus, 214.6 × 62.2 cm."
+    credit: "© Anicka Yi, courtesy the artist, Gladstone Gallery, New York and Brussels, and 47 Canal, New York"
+
+  - id:  "fig-4-8"
+    src: "figures/fig-4-8-harren.jpg"
+    label: "Figure 4.8"
+    caption: "Marc Kelly Kleinschrodt (American, b. 1983), *breastmilksoap, variation IV (for Eliotte)*, 2013. Glycerin, breast milk, honey, castor oil, and acrylic, 5.1 × 14 × 10.2 cm. Collection of Candace Worth."
+    credit: "courtesy the artist"
+
+  - id:  "fig-4-9"
+    src: "figures/fig-4-9-harren.jpg"
+    label: "Figure 4.9"
+    caption: "Marc caption: Marc Emily Peacock (American, b. 1984), *Smother: My mother’s ashes*, 2019. Soap, ashes, marble, and custom-flocked triangle table, 91.4 × 35.6 × 7.6 in. Collection of the artist."
+    credit: "courtesy the artist"
+
+  - id:  "fig-4-10"
+    src: "figures/fig-4-10-harren.jpg"
+    label: "Figure 4.10"
+    caption: "Alison Knowles (American, b. 1933), *Proposition #2 (Make a Salad)*, performed at MoMA PS1, New York, in collaboration with Julia Sherman and Salad for President, 2014."
+    credit: "© 2019 Alison Knowles"
+
+  - id:  "fig-5-1"
+    src: "figures/fig-5-1-books.jpg"
+    label: "Figure 5.1"
+    caption: "Astrid Lloyd (Canadian) *Mother*, 2008. Pomegranate peels stitched and treated with glycerin, pictured here as performed in *Mother, after Natalie Barney*, 2010. Digital print from digital photo taken by Bob Siemens, 76.2 × 63.5 in."
+    credit: "© Astrid Lloyd"
+
+  - id:  "fig-5-2"
+    src: "figures/fig-5-2-books.jpg"
+    label: "Figure 5.2"
+    caption: "WhiteFeather Hunter (Canadian, b. 1972) and Théo Chauvirey (French, b. 1991), *Bucci*, 2017. *Acetobacter xylinum* bacterial cellulose with 3D-printed PLA embedded designs."
+    credit: "© WhiteFeather Hunter"
+
+  - id:  "fig-5-3"
+    src: "figures/fig-5-3-books.jpg"
+    label: "Figure 5.3"
+    caption: "WhiteFeather Hunter (Canadian, b. 1972) and Théo Chauvirey (French, b. 1991), detail of *Bucci*, 2017. Deteriorating *Acetobacter xylinum* bacterial cellulose with 3D-printed PLA embedded designs."
+    credit: "© WhiteFeather Hunter"
+
+  - id:  "fig-5-4"
+    src: "figures/fig-5-4-books.jpg"
+    label: "Figure 5.4"
+    caption: "Photomicrograph of untreated cellulose, biologically active (control sample); reflected light, 200X."
+    credit: "© Courtney Books, Queen’s University, Kingston, Ontario, 2017"
+
+  - id:  "fig-5-5"
+    src: "figures/fig-5-5-books.jpg"
+    label: "Figure 5.5"
+    caption: "Photomicrograph of untreated, dehydrated cellulose (control sample); reflected and transmitted light, 200X."
+    credit: "© Courtney Books, Queen’s University, Kingston, Ontario, 2017"
+
+  - id:  "fig-5-6"
+    src: "figures/fig-5-6-books.jpg"
+    label: "Figure 5.6"
+    caption: "Array of bacterial cellulose samples in petri dishes during immersion solution treatment."
+    credit: "© Courtney Books, Speculative Life Biolab, Concordia University, Montreal, 2018"
+
+  - id:  "fig-5-7"
+    src: "figures/fig-5-7-books.jpg"
+    label: "Figure 5.7"
+    caption: "Photomicrograph of cellulose treated with PEG, collagen and glycerol, sterilized and oven dried; reflected and transmitted light, 200X."
+    credit: "© Courtney Books, Queen’s University, Kingston, Ontario, 2017"
+
+  - id:  "fig-5-8"
+    src: "figures/fig-5-8-books.jpg"
+    label: "Figure 5.8"
+    caption: "Physical demonstration of tensile strength, cellulose treated with PEG, collagen, and glycerol."
+    credit: "© WhiteFeather Hunter, Speculative Life Biolab, Concordia University, Montreal, 2018"
+
+  - id:  "fig-5-9"
+    src: "figures/fig-5-9-books.jpg"
+    label: "Figure 5.9"
+    caption: "WhiteFeather Hunter in collaboration with Tangy Duff, *Wastelands*, 2016–ongoing. Bag 1 (alone without full apparatus), 2018–19. Treated bacterial cellulose. Bioplastic bags codesigned and solely produced by WhiteFeather Hunter for the *Wastelands* project by Tagny Duff, 2018; bioplastic formula treatment for the bags researched and developed by Courtney Books and WhiteFeather Hunter, 2017."
+    credit: "© WhiteFeather Hunter"
+
+  - id:  "fig-5-10"
+    src: "figures/fig-5-10-books.jpg"
+    label: "Figure 5.10"
+    caption: "WhiteFeather Hunter in collaboration with Tangy Duff, *Wastelands*, 2016–ongoing. Bag 2 (alone without full apparatus), 2018–19. Treated bacterial cellulose. Bioplastic bags codesigned and solely produced by WhiteFeather Hunter for the *Wastelands* project by Tagny Duff, 2018; bioplastic formula treatment for the bags researched and developed by Courtney Books and WhiteFeather Hunter, 2017."
+    credit: "© WhiteFeather Hunter"
+
+  - id:  "fig-6-1"
+    src: "figures/fig-6-1-hauser.jpg"
+    label: "Figure 6.1"
+    caption: "George Gessert (American, b. 1944), *Pacific Coast Native Iris*, 1991. Seed pack, 9.5 × 13.7 cm. Private collection."
+    credit: "Jens Hauser"
+
+  - id:  "fig-6-2"
+    src: "figures/fig-6-2-hauser.jpg"
+    label: "Figure 6.2"
+    caption: "Overview of issues occurring with staging, conservation and transport of biomedia art."
+    credit: "Jens Hauser, 2019"
+
+  - id:  "fig-6-3"
+    src: "figures/fig-6-3-hauser.jpg"
+    label: "Figure 6.3"
+    caption: "Jun Takita (Japanese, b. 1966) prepares his installation *Light, only light* (2003) for display in the Tungenes lighthouse near Stavanger, Norway, 2008."
+    credit: "Jens Hauser"
+
+  - id:  "fig-6-4"
+    src: "figures/fig-6-4-hauser.jpg"
+    label: "Figure 6.4"
+    caption: "The Tissue Culture & Art Project (hosted @ SymbioticA, School of Human Sciences, the University of Western Australia) (Australian, founded 1996), *(for art is like a living organism). . . Better Dead Than Dying*, 2014. HeLa cells grown over a polymer structure in a custom-designed bioreactor vessel. Installation view at *Fabrique du Vivant*, Centre Georges Pompidou, Paris, 2019."
+    credit: "Aniara Rodado, courtesy the artists"
+
+  - id:  "fig-6-5"
+    src: "figures/fig-6-5-hauser.jpg"
+    label: "Figure 6.5"
+    caption: "The Tissue Culture & Art Project (hosted @ SymbioticA, School of Human Sciences, the University of Western Australia) (Australian, founded 1996), *Victimless Leather*, 2004. Tissue-engineered cell sculpture plastinated by Gilles Desraisses in 2010, 5 × 4.3 cm. Private collection."
+    credit: "Axel Heise"
+
+  - id:  "fig-6-6"
+    src: "figures/fig-6-6-hauser.jpg"
+    label: "Figure 6.6"
+    caption: "Brandon Ballengée (American, b. 1974), *Species Reclamation via a Non-linear Genetic Timeline – An Attempted Hymenochirus curtipes Model Induced by Controlled Breeding*, 1998–2006. Preservation and storage kit for collectors, 9 × 20.4 × 20.4 cm. Private collection."
+    credit: "Axel Heise"
+
+  - id:  "fig-6-7"
+    src: "figures/fig-6-7-hauser.jpg"
+    label: "Figure 6.7"
+    caption: "Brandon Ballengée (American, b. 1974), *Species Reclamation Via a Non-linear Genetic Timeline – An Attempted Hymenochirus curtipes Model Induced by Controlled Breeding*, 1998–2006. Preserved specimen in glycerin, 1.7 × 1.7 cm. Private collection."
+    credit: "Axel Heise"
+
+  - id:  "fig-6-8"
+    src: "figures/fig-6-8-hauser.jpg"
+    label: "Figure 6.8"
+    caption: "C-Lab (British, founded 2003), *Living Mirror*, 2013. Mirror consisting of glass vessels with magnetotactic bacteria in liquid medium, camera, approx. 80 × 90 cm. Collection of Wiyu Wahono. Installation view, Ars Electronica, Linz, Austria, 2019."
+    credit: "Adam Brown"
+
+  - id:  "fig-6-9"
+    src: "figures/fig-6-9-hauser.jpg"
+    label: "Figure 6.9"
+    caption: "Art Orienté Objet (French, founded 1991), *Artists’ Skin Cultures*, 1996. Tattooed tissue sculptures conserved in formaldehyde, approx. 10 × 15 cm. Private collection."
+    credit: "the artists"
+
+  - id:  "fig-7-1"
+    src: "figures/fig-7-1-perugini.jpg"
+    label: "Figure 7.1"
+    caption: "The artist Carlos Martiel, Miami, 2014."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-2"
+    src: "figures/fig-7-2-perugini.jpg"
+    label: "Figure 7.2"
+    caption: "The artist before the surgery with Doctor Flor Mayoral, Miami, 2014."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-3"
+    src: "figures/fig-7-3-perugini.jpg"
+    label: "Figure 7.3"
+    caption: "Skin specimen after being cut."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-4"
+    src: "figures/fig-7-4-perugini.jpg"
+    label: "Figure 7.4"
+    caption: "Skin specimen being measured after removal."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-5"
+    src: "figures/fig-7-5-perugini.jpg"
+    label: "Figure 7.5"
+    caption: "Preparation for the skin dehydration process."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-6"
+    src: "figures/fig-7-6-perugini.jpg"
+    label: "Figure 7.6"
+    caption: "Air drying the skin specimen."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-7"
+    src: "figures/fig-7-7-perugini.jpg"
+    label: "Figure 7.7"
+    caption: "Measuring the dehydrated specimen."
+    credit: "Daniel Godoy/Farisa Co, with permission by the artist Carlos Martiel"
+
+  - id:  "fig-7-8"
+    src: "figures/fig-7-8-perugini.jpg"
+    label: "Figure 7.8"
+    caption: "The skin specimen in the medal."
+    credit: "Oriol Tarridas, reproduced by permission of CIFO, Miami"
+
+  - id:  "fig-7-9"
+    src: "figures/fig-7-9-perugini.jpg"
+    label: "Figure 7.9"
+    caption: "Scar and tattoo on the artist’s body."
+    credit: "Oriol Tarridas, with permission from the artist and CIFO, Miami"
+
+  - id:  "fig-8-1"
+    src: "figures/fig-8-1-chiwara.jpg"
+    label: "Figure 8.1"
+    caption: "Spraying nests with pesticides."
+    credit: "National Gallery of Zimbabwe"
+
+  - id: "fig-8-2a"
+    src: "figures/fig-8-2a-chiwara.jpg"
+    label: "Figure 8.2a"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-2b"
+    src: "figures/fig-8-2b-chiwara.jpg"
+    label: "Figure 8.2b"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-3a"
+    src: "figures/fig-8-3a-chiwara.jpg"
+    label: "Figure 8.3a"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-3b"
+    src: "figures/fig-8-3b-chiwara.jpg"
+    label: "Figure 8.3b"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-4a"
+    src: "figures/fig-8-4a-chiwara.jpg"
+    label: "Figure 8.4a"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-4b"
+    src: "figures/fig-8-4b-chiwara.jpg"
+    label: "Figure 8.4b"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-4c"
+    src: "figures/fig-8-4c-chiwara.jpg"
+    label: "Figure 8.4c"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-5a"
+    src: "figures/fig-8-5a-chiwara.jpg"
+    label: "Figure 8.5a"
+    # caption and credit info in shortcode
+
+  - id: "fig-8-5b"
+    src: "figures/fig-8-5b-chiwara.jpg"
+    label: "Figure 8.5b"
+    # caption and credit info in shortcode
+
+  - id:  "fig-9-1"
+    src: "figures/fig-9-1-sehn.jpg"
+    label: "Figure 9.1"
+    caption: "Nydia Negromonte (b. 1965, Lima), *POSTA*, 2012–ongoing. Vegetables and raw clay on wooden table, dimensions variable. Collection of the artist. Installation view, *A iminência das Poéticas*, 30th Bienal de São Paulo, 2012."
+    credit: "Daniel Mansur, courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-2"
+    src: "figures/fig-9-2-sehn.jpg"
+    label: "Figure 9.2"
+    caption: "Nydia Negromonte (b. 1965, Lima), *POSTA*, 2012–ongoing. Vegetables and raw clay on wooden table, dimensions variable. Collection of the artist. Installation view, *Lección de cosas*, Sala Luis Miró Quesada Garland, Lima, 2018."
+    credit: "Mirella Moscheta, courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-3"
+    src: "figures/fig-9-3-sehn.jpg"
+    label: "Figure 9.3"
+    caption: "Details of the wrapping process."
+    credit: "Courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-4"
+    src: "figures/fig-9-4-sehn.jpg"
+    label: "Figure 9.4"
+    caption: "Assembly of the work."
+    credit: "Marcelo Drummond, courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-5"
+    src: "figures/fig-9-5-sehn.jpg"
+    label: "Figure 9.5"
+    caption: "Flowering and expansion details."
+    credit: "Daniel Mansur, courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-6"
+    src: "figures/fig-9-6-sehn.jpg"
+    label: "Figure 9.6"
+    caption: "Desiccation and withering details."
+    credit: "Fabio Del Re, courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-7"
+    src: "figures/fig-9-7-sehn.jpg"
+    label: "Figure 9.7"
+    caption: "Detail of the desiccation and withering process."
+    credit: "Courtesy Nydia Negromonte archive"
+
+  - id:  "fig-9-8"
+    src: "figures/fig-9-8-sehn.jpg"
+    label: "Figure 9.8"
+    caption: "Nydia Negromonte (b. 1965, Lima), *Post POSTA Series*, 2014. Four hundred mineral pigment prints on 305 g cotton paper, each 36.5 × 73 cm. Collection of the artist."
+    credit: "Courtesy Nydia Negromonte archive"
+
+  - id:  "fig-10-1"
+    src: "figures/fig-10-1-mata-delgado.jpg"
+    label: "Figure 10.1"
+    caption: "Teresa Margolles (Mexican, b. 1963), detail of *Tela Bolivia*, 2016. Embroidered textile with bloodstains, 200 × 240 × 90 cm. TKcollectioncredit."
+    credit: "Ana Lizeth Mata Delgado"
+
+  - id:  "fig-10-2"
+    src: "figures/fig-10-2-mata-delgado.jpg"
+    label: "Figure 10.2"
+    caption: "Interview with artist Noemí Ramírez."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-3"
+    src: "figures/fig-10-3-mata-delgado.jpg"
+    label: "Figure 10.3"
+    caption: "Taxidermied crocodile under ultraviolet light."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-4"
+    src: "figures/fig-10-4-mata-delgado.jpg"
+    label: "Figure 10.4"
+    caption: "Detail of colorimetric analysis for the taxidermied crocodile."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-5"
+    src: "figures/fig-10-5-mata-delgado.jpg"
+    label: "Figure 10.5"
+    caption: "Eliminating earlier repainting on the snout of the taxidermied crocodile."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-6"
+    src: "figures/fig-10-6-mata-delgado.jpg"
+    label: "Figure 10.6"
+    caption: "Antonio Serna (Spanish, 1927–2011), *Untitled*, 1984, undergoing restoration and stabilization of the birdseed. Mixed media (oil, acrylic, mortar, pumice stone, and birdseed) on fabric, 90 × 80 cm. STROMC-ENCRyM collection."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-7"
+    src: "figures/fig-10-7-mata-delgado.jpg"
+    label: "Figure 10.7"
+    caption: "Grupo SEMEFO (Mexican, active 1990–99), *Lavatio Corporis*, 1994, showing an embalmed fetus after processing. Three embalmed horse fetuses on metal pedestals, dimensions variable. Museo de Arte Carrillo Gil, Mexico City."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-8"
+    src: "figures/fig-10-8-mata-delgado.jpg"
+    label: "Figure 10.8"
+    caption: "General view of the packing box that was part of *Lavatio Corporis*."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-10-9"
+    src: "figures/fig-10-9-mata-delgado.jpg"
+    label: "Figure 10.9"
+    caption: "General view of one of the new pedestals for *Lavatio Corporis*."
+    credit: "STROMC-ENCRyM, INAH"
+
+  - id:  "fig-11-1"
+    src: "figures/fig-11-1-reed.jpg"
+    label: "Figure 11.1"
+    caption: "Marcel Duchamp (French, 1887–1968), *Green Box*, 1934. Closed: 33.4 × 27.8 × 2.5 cm. Paris: Edition Rrose Sélavy. GRI 95-B1934."
+    credit: "© 2019 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp"
+
+  - id:  "fig-11-2"
+    src: "figures/fig-11-2-reed.jpg"
+    label: "Figure 11.2"
+    caption: "Marcel Duchamp (French, 1887–1968), design possibly by Mary Reynolds (American, 1891–1950), ca. 1939. Acrylic case containing Lewis Carroll, *La canne du destin*, trans. André Bay; Marcel Duchamp, *Rrose Sélavy*; Franz Kafka, *Le chasseur Gracchus*, trans. Henri Parisot; and Gisèle Prassinos, *Sondue*, with added butterflies, feathers, seahorses, and drawings on the chemise attributed to André Masson (French, 1896–1987), closed: 17 × 12 × 2.5 cm; object: 18.7 × 12.3 × 4.7 cm. GRI 95-B2292."
+    credit:
+
+  - id:  "fig-11-3"
+    src: "figures/fig-11-3-reed.jpg"
+    label: "Figure 11.3"
+    caption: "Conservation guidelines housed with the case. GRI 95-B2292."
+    credit:
+
+  - id:  "fig-11-4"
+    src: "figures/fig-11-4-reed.jpg"
+    label: "Figure 11.4"
+    caption: "Dieter Roth (Swiss, 1930–1998), *Bok 3c: Wiederkonstruktion des Buches aus dem Verlag Forlag Ed* (Reconstruction of the Book from the Verlag Forlag Ed.), 1961/1971. Cardboard, caraway seed roll, and paint, open (cover): 23.2 × 40.3 × 4.1 cm; closed (book): 22.9 × 17.1 × 3.8 cm. Reykjavik: H. Mayer. GRI 93-B18994."
+    credit: "© Dieter Roth Estate, courtesy Hauser & Wirth"
+
+  - id:  "fig-11-5"
+    src: "figures/fig-11-5-reed.jpg"
+    label: "Figure 11.5"
+    caption: "Case displaying artist’s books by Dieter Roth. Installation view, *Artists and Their Books / Books and Their Artists*, Getty Research Institute, Los Angeles, 2018."
+    credit: "© Dieter Roth Estate, courtesy Hauser & Wirth"
+
+  - id:  "fig-11-6"
+    src: "figures/fig-11-6-reed.jpg"
+    label: "Figure 11.6"
+    caption: "Dieter Roth (Swiss, 1930–1998), two copies of *Taschenzimmer* (Pocket-Room), 1969/1972. Cardboard, moldy banana slice, and rubber stamp, inner sheet: 10 × 7 cm. Remscheid: Vice-Versand. GRI 94-F202."
+    credit: "© Dieter Roth Estate, courtesy Hauser & Wirth"
+
+  - id:  "fig-11-7"
+    src: "figures/fig-11-7-reed.jpg"
+    label: "Figure 11.7"
+    caption: "George Maciunas (American, born Lithuania, 1931–1978), *Fluxmouse no. 1*, 1973. Glass jar, paper label and tag, and dead mouse, 12.4 × 6 × 6 cm. GRI 1391-669."
+    credit: "Marcia Reed, © The Estate of George Maciunas"
+
+  - id:  "fig-11-8"
+    src: "figures/fig-11-8-reed.jpg"
+    label: "Figure 11.8"
+    caption: "Benjamin Patterson (American, 1934–2016), *Hooked*, 1980. Tackle box containing found objects with metal hooks attached to them, (closed): 22.2 × 43.5 × 22 cm. GRI 1408-672."
+    credit: "Courtesy the Estate of Ben Patterson"
+
+  - id:  "fig-11-9"
+    src: "figures/fig-11-9-reed.jpg"
+    label: "Figure 11.9"
+    caption: "Degraded sardine from conservation document housed with Benjamin Patterson’s *Hooked*. GRI 1408-672."
+    credit:
+
+  - id:  "fig-12-1"
+    src: "figures/fig-12-1-phillips.jpg"
+    label: "Figure 12.1"
+    caption: "Hans Haacke (German, b. 1936), *Grass Mound*, 1967–69. Installation view, *New Alchemy: Elements, Systems, Forces*, Art Gallery of Ontario, 1969."
+    credit: "Art Gallery of Ontario, © Hans Haacke / SOCAN (2019)"
+
+  - id:  "fig-12-2"
+    src: "figures/fig-12-2-phillips.jpg"
+    label: "Figure 12.2"
+    caption: "Glenn Lewis (Canadian, b. 1935) and Michael Morris (British, b. 1942), *Did You Ever Milk a Cow?*, 1970. Installation view, *Realism(e)s Su3vey 70*, Art Gallery of Ontario, 1970."
+    credit: "Art Gallery of Ontario, © Glenn Lewis and Michael Morris"
+
+  - id:  "fig-12-3"
+    src: "figures/fig-12-3-phillips.jpg"
+    label: "Figure 12.3"
+    caption: "Ron Benner (Canadian, b. 1949), *Anthro-Apologies (and the trees grew inwards – for Manuel Scorza)*, 1979–80. Gelatin silver prints, photo-oil colors, newspapers, *mantas* (Peruvian shawls), fresh and dried fruits, vegetables, flowers, seeds, nuts, metal, and wood, 300 × 300 × 214 cm. Art Gallery of Ontario, AGO 94/299."
+    credit: "Art Gallery of Ontario, © Ron Benner"
+
+  - id:  "fig-12-4"
+    src: "figures/fig-12-4-phillips.jpg"
+    label: "Figure 12.4"
+    caption: "Pierre Huyghe (French, b. 1962), *Untilled (Liegender Frauenakt)*, 2012. Concrete with beehive structure and wax, 145 × 45 × 75 cm. Art Gallery of Ontario, AGO 2012/956."
+    credit: "© Pierre Huyghe"
+
+  - id:  "fig-12-5"
+    src: "figures/fig-12-5-phillips.jpg"
+    label: "Figure 12.5"
+    caption: "Simon Starling (British, b. 1967), *Infestation Piece (Musselled Moore)*, 2006–8. Steel replica of Henry Moore’s *Warrior with Shield* (1953–54) and Eastern European zebra mussels, 155 × 73 × 71 cm. Art Gallery of Ontario, AGO 2011/273."
+    credit: "© Simon Starling, courtesy Casey Kaplan, New York"
+
+  - id:  "fig-12-6"
+    src: "figures/fig-12-6-phillips.jpg"
+    label: "Figure 12.6"
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Today We Reboot the Planet*, 2013. Organic, inorganic, human-made, and machine-made matter, including unfired clay, cement, handmade bricks, metal, and glass, all collected in London and Rosario, Argentina, 195 × 330 × 360 cm. Art Gallery of Ontario, AGO 2016/38."
+    credit: "Art Gallery of Ontario, © Adrián Villar Rojas, courtesy the artist and Marian Goodman Gallery"
+
+  - id:  "fig-12-7"
+    src: "figures/fig-12-7-phillips.png"
+    label: "Figure 12.7"
+
+  - id:  "fig-13-1"
+    src: "figures/fig-13-1-walthew.jpg"
+    label: "Figure 13.1"
+    caption: "Sam Van Aken (American, b. 1972), *Tree of 40 Fruits*, 2008–ongoing. Grafted fruit tree. Installation view in the garden of Cooper Hewitt, Smithsonian Design Museum, New York."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-2"
+    src: "figures/fig-13-2-walthew.jpg"
+    label: "Figure 13.2"
+    caption: "Caleb Harper (American, b. 1982), Hildreth England (American, b. 1978), Open Agriculture Initiative (American, active 2015–20), and MIT Media Lab (American, founded 1985), *Personal Food Computer v.3.0*, 2018–ongoing. PVC, polycarbonate, LEDs, electronics, and sensors, each unit 30.5 × 30.5 × 30.5 cm."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-3"
+    src: "figures/fig-13-3-walthew.jpg"
+    label: "Figure 13.3"
+    caption: "Kennedy Violich Architects (American, founded 1990) and Strano Research Group, Massachusetts Institute of Technology Department of Chemical Engineering (American, founded 2003), *Plant Properties*, 2016–ongoing. Architectural model and nanobionic watercress plants, 152.4 × 106.7 × 61 cm."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-4"
+    src: "figures/fig-13-4-walthew.jpg"
+    label: "Figure 13.4"
+    caption: "Teresa van Dongen (Dutch, b. 1988), *Electric Life*, 2018. Steel, aluminum, glass, and liquid with electroactive bacteria, 137 × 90.8 × 78.5 cm."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-5"
+    src: "figures/fig-13-5-walthew.jpg"
+    label: "Figure 13.5"
+    caption: "Oron Catts (Australian, b. Finland, 1967), Ionat Zurr (Australian, b. United Kingdom, 1970), and the Tissue Culture & Art Project (Australian, founded 1996), *BioMess*, 2018–ongoing. Incubator, hybridoma cells, and natural history specimens in exhibition cases, dimensions variable."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-6"
+    src: "figures/fig-13-6-walthew.jpg"
+    label: "Figure 13.6"
+    caption: "Oron Catts (Australian, b. Finland, 1967), Ionat Zurr (Australian, b. United Kingdom, 1970), and the Tissue Culture & Art Project (Australian, founded 1996), detail of living hybridoma cell culture, 2019–20."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-7"
+    src: "figures/fig-13-7-walthew.jpg"
+    label: "Figure 13.7"
+    caption: "Mitchell Joachim (American, b. 1972), Vivian Kuan (American, b. 1966), and Terreform ONE (American, founded 2006), *Monarch Sanctuary*, 2018–ongoing. Architectural model, 411.5 × 350.5 × 121.9 cm."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-8"
+    src: "figures/fig-13-8-walthew.jpg"
+    label: "Figure 13.8"
+    caption: "Katharina Mischer (Austrian, b. 1982) and Thomas Traxler (Austrian, b. 1981) as mischer’traxler Studio (Austrian, founded 2009), *Curiosity Cloud*, 2015–19. Blown glass bulbs, handmade artificial insects, aluminum hoods, custom-made circuit boards, motors, LED lights, cables, ceiling plate, and sensors, dimensions variable. Commissioned by Maison Perrier-Jouet."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-13-9"
+    src: "figures/fig-13-9-walthew.jpg"
+    label: "Figure 13.9"
+    caption: "Katharina Mischer (Austrian, b. 1982) and Thomas Traxler (Austrian, b. 1981) as mischer’traxler Studio (Austrian, founded 2009), detail of *Curiosity Cloud*, 2015–19. Blown glass bulbs, handmade artificial insects, aluminum hoods, custom-made circuit boards, motors, LED lights, cables, ceiling plate, and sensors, dimensions variable. Commissioned by Maison Perrier-Jouet."
+    credit: "Matt Flynn for Cooper Hewitt Smithsonian Design Museum"
+
+  - id:  "fig-14-1"
+    src: "figures/fig-14-1-barra.jpg"
+    label: "Figure 14.1"
+    caption: "Museo Juan Manuel Blanes, Montevideo."
+    credit: "Javier Ventura, courtesy the author and Museo Juan Manuel Blanes"
+
+  - id:  "fig-14-2"
+    src: "figures/fig-14-2-barra.jpg"
+    label: "Figure 14.2"
+    caption: "Federico Arnaud (Uruguayan, b. 1970) *Lo que mata es la humedad* (It’s the Humidity That Kills), 2017. Paper, cardboard, glass, metal, mud, various synthetic polymeric materials, microorganisms, and insects, approx. 200 × 120 × 130 cm. Museo Juan Manuel Blanes, Montevideo. Installation view, *48 Premio Montevideo*, Museo Juan Manuel Blanes, Montevideo, 2017."
+    credit: "Rodrigo Arrillaga, courtesy the author and Museo Juan Manuel Blanes"
+
+  - id:  "fig-14-3"
+    src: "figures/fig-14-3-barra.jpg"
+    label: "Figure 14.3"
+    caption: "Detail of *Lo que mata es la humedad*."
+    credit: "Rodrigo Arrillaga, courtesy the author and Museo Juan Manuel Blanes"
+
+  - id:  "fig-14-4"
+    src: "figures/fig-14-4-barra.jpg"
+    label: "Figure 14.4"
+    caption: "Taking a microbiological sample from the photographic album with a swab."
+    credit: "Natalia Boero"
+
+  - id:  "fig-14-5"
+    src: "figures/fig-14-5-barra.jpg"
+    label: "Figure 14.5"
+    caption: "Detail of sample from the photo album after five days on potato dextrose agar."
+    credit: "Claudia Barra"
+
+  - id:  "fig-14-6"
+    src: "figures/fig-14-6-barra.jpg"
+    label: "Figure 14.6"
+    caption: "Culture from the cardboard surface after five days on potato dextrose agar."
+    credit: "Claudia Barra"
+
+  - id:  "fig-14-7"
+    src: "figures/fig-14-7-barra.jpg"
+    label: "Figure 14.7"
+    caption: "Inoculated colonies from growing plates corresponding to the file cabinet after five days on potato dextrose agar."
+    credit: "Claudia Barra"
+
+  - id:  "fig-14-8"
+    src: "figures/fig-14-8-barra.jpg"
+    label: "Figure 14.8"
+    caption: "Growth from environmental samples from Space F after five days on potato dextrose agar."
+    credit: "Claudia Barra"
+
+  - id:  "fig-14-9"
+    src: "figures/fig-14-9-barra.jpg"
+    label: "Figure 14.9"
+    caption: "Samples viewed under a 40X optical microscope."
+    credit: "Belén Estévez, courtesy the author and Laboratorio de Microbiología, FQ/Udelar"
+
+  - id:  "fig-14-10"
+    src: "figures/fig-14-10-barra.jpg"
+    label: "Figure 14.10"
+    caption: "Cristina Bausero, sketch proposal for the exhibition installation."
+    credit: "Cristina Bausero"
+
+  - id:  "fig-15-1"
+    src: "figures/fig-15-1-ayla.jpg"
+    label: "Figure 15.1"
+    caption: "Anna Maria Maiolino (Brazilian, b. 1942), *Aqui Estão* (Here They Are), 1999, pictured here in 1999. 750 rolls made using five different wood types: cedar, *freijó* (jenny wood), yellow heart, mahogany, and *jatobá* (courbaril or purpleheart). Museu do Açude, Rio de Janiero."
+    credit: "Vicente de Mello, courtesy Castro Maya Museums"
+
+  - id:  "fig-15-2"
+    src: "figures/fig-15-2-ayla.jpg"
+    label: "Figure 15.2"
+    caption: "Anna Maria Maiolino working on a lathe, 1999."
+    credit: "Vicente de Mello, courtesy Castro Maya Museums"
+
+  - id:  "fig-15-3"
+    src: "figures/fig-15-3-ayla.jpg"
+    label: "Figure 15.3"
+    caption: "Anna Maria Maiolino hanging the wood rolls to dry, 1999."
+    credit: "Vicente de Mello, courtesy Castro Maya Museums"
+
+  - id:  "fig-15-4"
+    src: "figures/fig-15-4-ayla.jpg"
+    label: "Figure 15.4"
+    caption: "Anna Maria Maiolino attaching the wood rolls to the tree, 1999."
+    credit: "Vicente de Mello, courtesy Castro Maya Museums"
+
+  - id:  "fig-16-1"
+    src: "figures/fig-16-1-hernandez.jpg"
+    label: "Figure 16.1"
+    caption: "Students of the Escuela de Restauración carrying out diagnoses at MUAC, September 2017."
+    credit: "Claudio Hernández"
+
+  - id:  "fig-16-2"
+    src: "figures/fig-16-2-hernandez.jpg"
+    label: "Figure 16.2"
+    caption: "Marta Palau Bosch (Spanish, b. 1934), *Mis caminos son terrestres XVII* (My Paths Are Earthly XVII), 1985. Low-warp henequen and totomoxtle (corn), dyed, two parts, 165 × 385 cm overall. Museo Universitario Arte Contemporáneo, UNAM, Mexico City."
+    credit: "Registration photo courtesy Seminario Taller de Restauración de Arte Moderno y Contemporáneo"
+
+  - id:  "fig-16-3"
+    src: "figures/fig-16-3-hernandez.jpg"
+    label: "Figure 16.3"
+    caption: "Teresa Margolles (Mexican, b. 1963), *Encobijados* (The Covered Ones), 2006. Mass-produced blankets used to wrap the bodies of victims of organized crime, metal T-shaped pipes, seven parts, 94 × 116 cm each. Museo Universitario Arte Contemporáneo, UNAM, Mexico City."
+    credit: "Irene Barajas, courtesy MUAC"
+
+  - id:  "fig-16-4"
+    src: "figures/fig-16-4-hernandez.jpg"
+    label: "Figure 16.4"
+    caption: "Detail of *Encobijados*."
+    credit: "Claudio Hernández"
+
+  - id:  "fig-17-1"
+    src: "figures/fig-17-1-heremans.jpg"
+    label: "Figure 17.1"
+    caption: "Joseph Beuys (German, 1921–1986), *Wirtschaftswerte*, 1980, as it appeared in 2014. Mixed media, 330 × 400 × 266 cm. S.M.A.K., Ghent, Belgium."
+    credit: "Dirk Pauwels, © S.M.A.K."
+
+  - id:  "fig-17-2"
+    src: "figures/fig-17-2-heremans.jpg"
+    label: "Figure 17.2"
+    caption: "Inscription detail of *Wirtschaftswerte*."
+    credit: "© Gerhard Steidl + Klaus Staeck, from *Joseph Beuys – Das Wirtschaftswertprinzip* (Göttingen, Germany: Steidl Verlag/Edition Staeck, 1997)"
+
+  - id:  "fig-17-3"
+    src: "figures/fig-17-3-heremans.jpg"
+    label: "Figure 17.3"
+    caption: "Joseph Beuys applies butter to the plaster block for the exhibition *Kunst in Europa na ’68*, Vereniging voor het Museum voor Hedendaagse Kunst, Ghent, 1980."
+    credit: "© Gerhard Steidl + Klaus Staeck, from *Joseph Beuys – Das Wirtschaftwertprinzip* (Göttingen, Germany: Steidl Verlag/Edition Staeck, 1997)"
+
+  - id: "fig-17-4a"
+    src: "figures/fig-17-4a-heremans.jpg"
+    label: "Figure 17.4a"
+    # caption and credit info in shortcode
+
+  - id: "fig-17-4b"
+    src: "figures/fig-17-4b-heremans.jpg"
+    label: "Figure 17.4b"
+    # caption and credit info in shortcode
+
+  - id: "fig-17-5a"
+    src: "figures/fig-17-5a-heremans.jpg"
+    label: "Figure 17.5a"
+    # caption and credit info in shortcode
+
+  - id: "fig-17-5b"
+    src: "figures/fig-17-5b-heremans.jpg"
+    label: "Figure 17.5b"
+    # caption and credit info in shortcode
+
+  - id:  "fig-17-6"
+    src: "figures/fig-17-6-heremans.jpg"
+    label: "Figure 17.6"
+    caption: "Decision tree for restoration treatments of packages."
+    credit: "Katrien Blanchaert + Rebecca Heremans, © S.M.A.K."
+
+  - id:  "fig-17-7"
+    src: "figures/fig-17-7-heremans.jpg"
+    label: "Figure 17.7"
+    caption: "Left side of the decision tree: “content of package leaks.”"
+    credit: "Katrien Blanchaert + Rebecca Heremans, © S.M.A.K."
+
+  - id:  "fig-17-8"
+    src: "figures/fig-17-8-heremans.jpg"
+    label: "Figure 17.8"
+    caption: "Right side of the decision tree: “content of package doesn’t leak.”"
+    credit: "Katrien Blanchaert + Rebecca Heremans, © S.M.A.K."
+
+  - id:  "fig-17-9"
+    src: "figures/fig-17-9-heremans.jpg"
+    label: "Figure 17.9"
+    caption: "Quick overview on urgency of treatments."
+    credit: "Rebecca Heremans, © S.M.A.K."
+
+  - id:  "fig-18-1"
+    src: "figures/fig-18-1-lilliegren.jpg"
+    label: "Figure 18.1"
+    caption: "Adrián Villar Rojas (Argentinean, b. 1980), *Los teatros de Saturno III* (The Theaters of Saturn III), from the series *Fantasma* (Ghost), 2014. Mixed media on plinth, dimensions variable. Moderna Museet, Stockholm; kurimanzutto, Mexico City; and Marian Goodman Gallery. Installation view, *Fantasma*, Moderna Museet, Stockholm, 2015."
+    credit: "Åsa Lundén / Moderna Museet"
+
+  - id:  "fig-18-2"
+    src: "figures/fig-18-2-lilliegren.jpg"
+    media_type: vimeo
+    media_id: 592950662
+    label: "Figure 18.2"
+    caption: "*Fantasma*, Moderna Museet, Stockholm, 2015."
+    credit: "Stefan Wrenfelt / Moderna Museet"
+
+  - id:  "fig-18-3"
+    src: "figures/fig-18-3-lilliegren.jpg"
+    label: "Figure 18.3"
+    caption: "Adrián Villar Rojas (Argentinean, b. 1980), *Untitled*, pictured in 2006 when it was first baked but not yet part of the 2007 artwork, and in 2015. Sponge cake, marzipan, milk chocolate, and plastic, 18 × 50 × 51 cm. Moderna Museet."
+    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York (2007) and Åsa Lundén / Moderna Museet (2015)"
+
+  - id:  "fig-18-4"
+    src: "figures/fig-18-4-lilliegren.jpg"
+    label: "Figure 18.4"
+    caption: "*Pedazos de las personas que amamos*, arteBA, Buenos Aires, 2007."
+    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York"
+
+  - id:  "fig-18-5"
+    src: "figures/fig-18-5-lilliegren.jpg"
+    label: "Figure 18.5"
+    caption: "*Untitled*, from the series *Pedazos de las personas que amamos*, as installed at *Fantasma*, Moderna Museet, 2015."
+    credit: "Åsa Lundén / Moderna Museet"
+
+  - id:  "fig-18-6"
+    src: "figures/fig-18-6-lilliegren.jpg"
+    label: "Figure 18.6"
+    caption: "*Los teatros de Saturno III*, Moderna Museet Malmö, 2016."
+    credit: "Åsa Lundén / Moderna Museet"
+
+  - id:  "fig-18-7"
+    src: "figures/fig-18-7-lilliegren.jpg"
+    label: "Figure 18.7"
+    caption: "*Los teatros de Saturno*, kurimanzutto, Mexico City, 2014."
+    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York"
+
+  - id:  "fig-18-8"
+    src: "figures/fig-18-8-lilliegren.jpg"
+    label: "Figure 18.8"
+    caption: "The life cycle of one of the objects displayed in *Los teatros de Saturno*: first in the production mold, 2014, and later as displayed at Moderna Museet, 2015."
+    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York (2014), and Åsa Lundén / Moderna Museet (2015)"
+
+  - id:  "fig-18-9"
+    src: "figures/fig-18-9-lilliegren.jpg"
+    label: "Figure 18.9"
+    caption: "Photogrammetry rendering of *Untitled* carried out in 2019."
+    credit: "Albin Dahlström / Moderna Museet"
+
+  - id:  "fig-18-10"
+    src: "figures/fig-18-10-lilliegren.jpg"
+    label: "Figure 18.10"
+    caption: "Digital sketch of storage/showcase for *Untitled* carried out in 2019."
+    credit: "Albin Dahlström / Moderna Museet"
+
+  - id:  "fig-19-1"
+    src: "figures/fig-19-1-carreras.jpg"
+    label: "Figure 19.1"
+    caption: "Víctor Grippo (Argentinian, 1936–2002), *Analogía I* (Analogy I), 1970–71. Potatoes, painted wood, electrical connectors, voltmeter, and text, 47.4 × 153 × 10 cm. Museo Nacional de Bellas Artes, Buenos Aires."
+    credit:
+
+  - id:  "fig-19-2"
+    src: "figures/fig-19-2-carreras.jpg"
+    label: "Figure 19.2"
+    caption: "Detail of the potatoes’ deterioration; they leave stains on the wood and smell bad."
+    credit:
+
+  - id:  "fig-19-3"
+    src: "figures/fig-19-3-carreras.jpg"
+    label: "Figure 19.3"
+    caption: "Detail of the rotten potatoes; they begin to sprout depending on their quality and environmental conditions."
+    credit:
+
+  - id:  "fig-19-4"
+    src: "figures/fig-19-4-carreras.jpg"
+    label: "Figure 19.4"
+    caption: "Cleaning the potatoes with a dry cloth is important for their material conservation."
+    credit:
+
+  - id:  "fig-19-5"
+    src: "figures/fig-19-5-carreras.jpg"
+    label: "Figure 19.5"
+    caption: "Swapping out new potatoes for deteriorated ones; in the process of inserting the new potatoes, one must take care not to break the connector soldering."
+    credit:
+
+  - id:  "fig-19-6"
+    src: "figures/fig-19-6-carreras.jpg"
+    label: "Figure 19.6"
+    caption: "The potatoes are generally changed two or three times per month."
+    credit:
+
+  - id:  "fig-19-7"
+    src: "figures/fig-19-7-carreras.jpg"
+    label: "Figure 19.7"
+    caption: "Potatoes may be retained even if they have visible sprouting, as long as they have not leaked liquid to stain the wood or cause a bad smell. Experience over time has shown the limits of tolerance."
+    credit:
+
+  - id:  "fig-20-1"
+    src: "figures/fig-20-1-parisi.jpg"
+    label: "Figure 20.1"
+    caption: "Bruna Esposito (Italian, b. 1960), *Precipitazioni Sparse* (Scattered Precipitations), 2005. Marble slab and onion skins, 3 × 400 × 400 cm (marble). Private collection. Installation view, *Always a Little Further*, 51st Venice Biennale, 2005."
+    credit: Enzo de Leonibus, courtesy the artist
+
+  - id:  "fig-20-2"
+    src: "figures/fig-20-2-parisi.jpg"
+    label: "Figure 20.2"
+    caption: "*Precipitazioni Sparse* after dusting by Venice Biennale staff."
+    credit: "Giorgio Zucchiatti, © ASAC"
+
+  - id:  "fig-20-3"
+    src: "figures/fig-20-3-parisi.jpg"
+    label: "Figure 20.3"
+    caption: "*Precipitazioni Sparse* at Road to Contemporary Art, Rome, amid artworks by Maria Thereza Alves."
+    credit: "Yamina Tavani"
+
+  - id:  "fig-20-4"
+    src: "figures/fig-20-4-parisi.jpg"
+    label: "Figure 20.4"
+    caption: "Detail of onion peels and marble coloration at Road to Contemporary Art, Rome."
+    credit: "Yamina Tavani"
+
+  - id:  "fig-20-5"
+    src: "figures/fig-20-5-parisi.jpg"
+    label: "Figure 20.5"
+    caption: "Esposito explains her selection process for the onion peels during an interview in her Rome studio, May 22, 2019. Video, color, sound, TK:TK min."
+    credit: "The authors, with permission of the artist"
+
+  - id:  "fig-20-6"
+    src: "figures/fig-20-6-parisi.jpg"
+    label: "Figure 20.6"
+    caption: "Onion peels in Esposito’s Rome studio, May 22, 2019."
+    credit: "The authors, with permission of the artist"
+
+  - id:  "fig-20-7"
+    src: "figures/fig-20-7-parisi.jpg"
+    media_type: vimeo
+    media_id: 592954957
+    label: "Figure 20.7"
+    caption: "Esposito demonstrates the correct method of selecting and distributing onion peels in her Rome studio, May 22, 2019. Video, color, sound, TK:TK min."
+    credit: "The authors, with permission of the artist"
+
+  - id:  "fig-20-8"
+    src: "figures/fig-20-8-parisi.jpg"
+    label: "Figure 20.8"
+    caption: "Esposito installing *Precipitazioni Sparse* at *Always a Little Further*, 51st Venice Biennale, 2005."
+    credit: "Enzo de Leonibus, courtesy the artist"
+
+  - id:  "fig-21-1"
+    src: "figures/fig-21-1-pavic.jpg"
+    label: "Figure 21.1"
+    caption: "Dragoljub Raša Todosijević (Serbian, b. 1945), *Nailed Bread*, 1973. Bread, wood, and nails, 26 × 35 × 14.5 cm. Muzej suvremene umjetnosti, Zagreb, inv. no 1810."
+    credit: "Jovan Kliska"
+
+  - id:  "fig-21-2"
+    src: "figures/fig-21-2-pavic.jpg"
+    label: "Figure 21.2"
+    caption: "*Nailed Bread* on display next to Philip Corner's *Piano Bed* (1999) at Muzej suvremene umjetnosti, Zagreb, 2010."
+    credit: "Goran Vranić"
+
+  - id:  "fig-21-3"
+    src: "figures/fig-21-3-pavic.jpg"
+    media_type: vimeo
+    media_id: 592945326
+    label: "Figure 21.3"
+    caption: "Testing the consolidated sample in comparison to a sample with no consolidant."
+    credit: "Muzej suvremene umjetnosti, Zagreb"
+
+  - id:  "fig-21-4"
+    src: "figures/fig-21-4-pavic.jpg"
+    label: "Figure 21.4"
+    caption: "*Nailed Bread* during the first conservation treatment in 2010."
+    credit: "Mirta Pavić"
+
+  - id:  "fig-21-5"
+    src: "figures/fig-21-5-pavic.jpg"
+    media_type: vimeo
+    media_id: 592948810
+    label: "Figure 21.5"
+    caption: "Consolidation with Paraloid B-72, 2010."
+    credit: "Muzej suvremene umjetnosti, Zagreb"
+
+  - id: "fig-21-6a"
+    src: "figures/fig-21-6a-pavic.jpg"
+    label: "Figure 21.6a"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-6b"
+    src: "figures/fig-21-6b-pavic.jpg"
+    label: "Figure 21.6b"
+    # caption and credit info in shortcode
+
+  - id:  "fig-21-7"
+    src: "figures/fig-21-7-pavic.jpg"
+    label: "Figure 21.7"
+    caption: "Sample preparation—consolidation of bread samples and microtome cross sections."
+    credit: "Harald Fitzek"
+
+  - id: "fig-21-8a"
+    src: "figures/fig-21-8a-pavic.jpg"
+    label: "Figure 21.8a"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-8b"
+    src: "figures/fig-21-8b-pavic.jpg"
+    label: "Figure 21.8b"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-9a"
+    src: "figures/fig-21-9a-pavic.jpg"
+    label: "Figure 21.9a"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-9b"
+    src: "figures/fig-21-9b-pavic.jpg"
+    label: "Figure 21.9b"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-10a"
+    src: "figures/fig-21-10a-pavic.jpg"
+    label: "Figure 21.10a"
+    # caption and credit info in shortcode
+
+  - id: "fig-21-10b"
+    src: "figures/fig-21-10b-pavic.jpg"
+    label: "Figure 21.10b"
+    # caption and credit info in shortcode
+
+  - id:  "fig-21-11"
+    src: "figures/fig-21-11-pavic.jpg"
+    label: "Figure 21.11"
+    caption: "SEM (A) and Raman point measurements, (B): Position 1 (Paraloid), positions 2 and 3 (starch), position 4 (zein)."
+    credit: "Harald Fitzek"
+
+  - id:  "fig-21-12"
+    src: "figures/fig-21-12-pavic.jpg"
+    label: "Figure 21.12"
+    caption: "Raman mapping of sample Paraloid B-72 with reference spectra."
+    credit: "Harald Fitzek"
+
+  - id:  "fig-22-1"
+    src: "figures/fig-22-1-de-la-mora.jpg"
+    label: "Figure 22.1"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *m-294*, 1972. Pencil and ink on printed paper, 27.9 × 21.6 cm."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-2"
+    src: "figures/fig-22-2-de-la-mora.jpg"
+    label: "Figure 22.2"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *Emiliano 20:30 hrs*, 1998. Latex, artist’s pubic hair, postcard, and newspaper mounted on a wooden structure, 17.8 × 12.7 cm."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-3"
+    src: "figures/fig-22-3-de-la-mora.jpg"
+    label: "Figure 22.3"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), detail of *G.M.C. O+ / 14,565.6 cm2*, 2009. (G.M. O+) blood on Masonite. Twenty-eight parts, 102 × 142.8 cm overall. Private collection."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-4"
+    src: "figures/fig-22-4-de-la-mora.jpg"
+    label: "Figure 22.4"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *Catalogue of the Exhibition*, 2003–9. Burned paper, three parts, 8.1 × 28.7 × 22.5 cm each. Private collection."
+    credit: "Michael Zabé, courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-5"
+    src: "figures/fig-22-5-de-la-mora.jpg"
+    label: "Figure 22.5"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *21 intentos*, 2017. HD video, color, silent, 35:25 min. Edition of 5, 1 AP."
+    credit: "Ramiro Chaves, courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-6"
+    src: "figures/fig-22-6-de-la-mora.jpg"
+    label: "Figure 22.6"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *131*, 2016. 131 dry leaves on wood, 15 × 22.5 cm."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-7"
+    src: "figures/fig-22-7-de-la-mora.jpg"
+    label: "Figure 22.7"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), *3,757 I*, 2018. 3,757 human hairs (K.L.) on paper, 60 × 60 × 4 cm framed. Private collection."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-8"
+    src: "figures/fig-22-8-de-la-mora.jpg"
+    label: "Figure 22.8"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), detail of *1,156 VI*, 2019. Feathers and pigment on museum cardboard. 60 × 60 × 4 cm. Private collection."
+    credit: "Guillame Ziccarelli, courtesy the artist and PERROTIN Galerie"
+
+  - id:  "fig-22-9"
+    src: "figures/fig-22-9-de-la-mora.jpg"
+    label: "Figure 22.9"
+    caption: "Gabriel de la Mora (Mexican, b. 1968), detail of *8,100 I*, 2019. Guinea chicken feathers on museum cardboard, 75 × 75 × 4 cm. Private collection."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-22-10"
+    src: "figures/fig-22-10-de-la-mora.jpg"
+    label: "Figure 22.10"
+    caption: "Eggshell pieces for potential use in the series *CaCO3*, 2013–ongoing."
+    credit: "Courtesy the artist and Proyectos Monclova"
+
+  - id:  "fig-23-1"
+    src: "figures/fig-23-1-kleinschrodt.jpg"
+    label: "Figure 23.1"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *sonata*, 2010. Mini-DV video, color, sound, 5:19 min. (looping)."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-2"
+    src: "figures/fig-23-2-kleinschrodt.jpg"
+    label: "Figure 23.2"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *pillow / breath*, 2007. Chromogenic print, 27.9 × 35.6 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-3"
+    src: "figures/fig-23-3-kleinschrodt.jpg"
+    label: "Figure 23.3"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *soymilkstyrofoam*, 2007. Chromogenic print, 27.9 × 35.6 cm."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-4"
+    src: "figures/fig-23-4-kleinschrodt.jpg"
+    label: "Figure 23.4"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *falling (for Jim)*, 2010, Chromogenic print in artist’s acrylic frame, 104.1 × 85.1 × 2.5 cm. The Deighton Collection."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-5"
+    src: "figures/fig-23-5-kleinschrodt.jpg"
+    label: "Figure 23.5"
+    caption: "Installation view, *Kelly Kleinschrodt:* *distant already*, Carter & Citizen, Los Angeles, 2011. Left: *sonata (for breast pump) variation II*, 2011; right: *theme and variations (for solo violinist and breast pump)*, 2011."
+    credit: "Courtesy the artist and Carter & Citizen, Los Angeles"
+
+  - id:  "fig-23-6"
+    src: "figures/fig-23-6-kleinschrodt.jpg"
+    label: "Figure 23.6"
+    caption: "*muttermilch* hors d’oeuvres in artist’s kitchen, 2011."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-7"
+    src: "figures/fig-23-7-kleinschrodt.jpg"
+    label: "Figure 23.7"
+    caption: "*breastmilksoap* works in artist’s home, 2013."
+    credit: "Courtesy the artist"
+
+  - id:  "fig-23-8"
+    src: "figures/fig-23-8-kleinschrodt.jpg"
+    label: "Figure 23.8"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *mothersink*, 2014. Acrylic, glycerin, and breast milk, 88.9 × 58.4 × 40.6 cm. Galia’s Collection, Belgium."
+    credit: "Courtesy the artist and Josh Lilley, London"
+
+  - id: "fig-23-9a"
+    src: "figures/fig-23-9a-kleinschrodt.jpg"
+    label: "Figure 23.9a"
+    # caption and credit info in shortcode
+
+  - id: "fig-23-9b"
+    src: "figures/fig-23-9b-kleinschrodt.jpg"
+    label: "Figure 23.9b"
+    # caption and credit info in shortcode
+
+  - id:  "fig-23-10"
+    src: "figures/fig-23-10-kleinschrodt.jpg"
+    label: "Figure 23.10"
+    caption: "Kelly Kleinschrodt (American, b. 1983), *breastmilksoap (variation V)*, 2013. Glycerin, breast milk, castor oil, acrylic, 5.1 × 14 × 10.2 cm. Private collection, New York."
+    credit: "Courtesy the artist and Josh Lilley, London"
+
+  - id:  "fig-24-1"
+    src: "figures/fig-24-1-melendez.jpg"
+    label: "Figure 24.1"
+    caption: "Poster for *Símbolo descarnado*, ATEA, Mexico City, 2013."
+    credit:
+
+  - id:  "fig-24-2"
+    src: "figures/fig-24-2-melendez.jpg"
+    label: "Figure 24.2"
+    caption: "Omar Soto (Mexican, b. TKyear), *Símbolo descarnado*, 2013. Cochineal on wall, 300 × 1100 cm."
+    credit: "Pablo Martínez Zárate"
+
+  - id:  "fig-24-3"
+    src: "figures/fig-24-3-melendez.jpg"
+    label: "Figure 24.3"
+    caption: "Gallery visitor manipulating Soto’s *Símbolo descarnado*."
+    credit: "Pablo Martínez Zárate"
+
+  - id:  "fig-24-4"
+    src: "figures/fig-24-4-melendez.jpg"
+    label: "Figure 24.4"
+    caption: "Soto’s *Símbolo descarnado* after visitor interventions."
+    credit: "Pablo Martínez Zárate"
+
+  - id:  "fig-24-5"
+    src: "figures/fig-24-5-melendez.jpg"
+    label: "Figure 24.5"
+    caption: "Darío Meléndez (Mexican, b. TKyear), *Símbolo descarnado*, 2013. Decomposing organic matter behind tempered glass, 80 × 155 × 50 cm."
+    credit: "Daya Navarrete"
+
+  - id:  "fig-24-6"
+    src: "figures/fig-24-6-melendez.jpg"
+    label: "Figure 24.6"
+    caption: "Detail showing moisture on glass."
+    credit: "Daya Navarrete"
+
+  - id:  "fig-24-7"
+    src: "figures/fig-24-7-melendez.jpg"
+    label: "Figure 24.7"
+    caption: "Detail."
+    credit: "Daya Navarrete"
+
+  - id:  "fig-24-8"
+    src: "figures/fig-24-8-melendez.jpg"
+    label: "Figure 24.8"
+    caption: "Detail showing detritus."
+    credit: "Daya Navarrete"
+
+  - id:  "fig-24-9"
+    src: "figures/fig-24-9-melendez.jpg"
+    label: "Figure 24.9"
+    caption: "Detail showing larvae."
+    credit: "Daya Navarrete"

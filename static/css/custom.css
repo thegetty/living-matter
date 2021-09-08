@@ -1,0 +1,314 @@
+/* COVER
+/* ABOUT & COPYRIGHT PAGE
+/* FIGURE & TABLES
+/* PDF / PRINT
+
+/* COVER
+============================================================================= */
+/* There are two variations on the cover here, one for the refrigerator image, and one for the eggshells image. There are three places below where styles are commented out for eggshells and live for refrigerator. The accent color in variables.scss also needs to be changed depending on which cover images is chosen. */
+
+.quire-cover__overlay {
+
+  /* Refrigerator */
+  background-position-y: bottom;
+  background-position-x: left;
+
+  /* Eggshells */
+  /* background-position-y: center;
+  background-position-x: center;  */
+
+}
+.quire-cover__overlay::after {
+  content: "Getty Conservation Institute";
+  color: #fff;
+  background-color: #000;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  letter-spacing: 1px;
+  padding: .5rem 4rem .5rem 20px;
+  font-size: .825rem;
+}
+.hero-body .container.is-fluid::before {
+  content: "Proceedings";
+  background-color: #000;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: .5rem 4rem .5rem 20px;
+  margin-left: -20px;
+  margin-top: -20px;
+  width: max-content;
+  display: block;
+  font-size: .75rem;
+}
+.hero-body .container.is-fluid {
+  bottom: auto;
+  left: auto;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 40rem;
+
+  /* Refrigerator */
+  top: 10%;
+  background: #243a85;
+
+  /* Eggshells */
+  /* top: 15%;
+  background: #5b57a6; */
+
+}
+@media screen and (max-width: 40rem) {
+  .hero-body .container.is-fluid {
+    top: 0;
+  }
+  .quire-cover__overlay::after {
+    padding-bottom: 30px;
+    padding-right: 20px;
+    right: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+  }
+
+  /* Refrigerator */
+  .quire-cover__overlay {
+    background-position-y: 80%;
+    background-position-x: center;
+    background-image: url('../img/figures/cover-b--glr0686--detail.jpg') !important;
+  }
+
+  /* Eggshells */
+  /* .quire-cover__overlay {
+
+  } */
+
+}
+.quire-cover__hero .title,
+.quire-cover__hero .subtitle {
+  font-size: calc(2rem * 1);
+  font-weight: 700;
+  line-height: 1.17;
+}
+.quire-cover__hero .subtitle {
+  display: inline;
+}
+.quire-cover__hero .subtitle::before {
+  content: ": ";
+}
+.quire-cover__hero .reading-line {
+  font-size: calc(1rem * 1);
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+.quire-cover__hero .contributor {
+  margin-top: .25rem;
+}
+
+/* ABOUT & COPYRIGHT PAGE
+============================================================================= */
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+
+@media print {
+  #copyright .quire-page.quire-page--frontmatter {
+    page: no-footer;
+  }
+  #copyright .quire-page__header {
+    display: none;
+  }
+  #copyright .quire-page__content {
+    column-count: 2;
+    column-gap: .1875in;
+    column-fill: auto;
+    max-width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #copyright img {
+    height: .25in;
+  }
+}
+
+/* FIGURE & TABLES
+============================================================================= */
+.quire-page__content .quire-figure.large-table table,
+.quire-page__content .quire-figure.large-table table + .table-key {
+  font-size: .5em;
+}
+.quire-figure.pdf-two-column {
+  column-span: all;
+}
+.quire-figure.figure-border img {
+  border: 1px solid #333;
+}
+@media print {
+  .quire-figure.figure-border img {
+    border: .5pt solid #333;
+  }
+}
+.quire-page__content .quire-figure__table .table-key {
+  color: #333;
+  text-align: left;
+  display: block;
+  margin: .5em 0;
+}
+@media print {
+  .quire-page__content .quire-figure__table .table-key {
+    color: #000;
+  }
+}
+
+.quire-figure__label .quire-figure__label-icon {
+  height: 0;
+  margin-top: -2.3em;
+}
+
+/* For the override version of the q-figure-group shortcode */
+@media screen {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-1 {
+    grid-template-columns: 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group > .quire-figure__caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+}
+@media print {
+  .quire-page__content figure.quire-figure--group {
+    display: block;
+    white-space: nowrap;
+    /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+    -prince-float: snap;
+    -prince-margin-alt: 0;
+  }
+  .quire-page__content figure.quire-figure--group figcaption {
+    white-space: normal;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure,
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin: 0;
+    width: calc(50% - .75rem);
+    display: inline-block;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin-left: 1.5rem;
+  }
+}
+
+/* PDF / PRINT
+============================================================================= */
+
+@media print {
+  #bibliography .quire-page__content,
+  #contributors .quire-page__content,
+  #participants .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  #contributors .quire-page__content .quire-contributor .title {
+    margin-bottom: 0;
+  }
+  #contributors .quire-page__content .quire-contributor .media {
+    padding-bottom: 0;
+  }
+  #contributors .quire-contributor__name {
+    font-size: .875rem;
+  }
+
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+
+}
+
+/* Change display of section TOCs in PDF ouput */
+@media print {
+  .quire-page--abstract {
+    page: splash-image;
+  }
+  .quire-page--abstract .quire-page__header {
+    margin: 0 auto;
+    max-width: 5in;
+    padding-top: 2in;
+  }
+  .quire-page--abstract .quire-page__header .hero-body .quire-page__header__title {
+    color: #243a85;
+  }
+  .quire-page--abstract .quire-page__content {
+    display: none;
+  }
+}
+
+/* Adjust URL breaks in PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a[target=_blank],
+  .url-string a {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          "\200B/\200B/" "//\200B";
+  }
+}
+
+@media print {
+  .quire-page__abstract {
+    margin-bottom: 1.5rem;
+  }
+}
