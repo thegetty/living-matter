@@ -594,38 +594,47 @@ figure_list:
 
   - id: "fig-8-2a"
     src: "figures/fig-8-2a-chiwara.jpg"
+    label: "Figure 8.2a"
     # caption and credit info in shortcode
 
   - id: "fig-8-2b"
     src: "figures/fig-8-2b-chiwara.jpg"
+    label: "Figure 8.2b"
     # caption and credit info in shortcode
 
   - id: "fig-8-3a"
     src: "figures/fig-8-3a-chiwara.jpg"
+    label: "Figure 8.3a"
     # caption and credit info in shortcode
 
   - id: "fig-8-3b"
     src: "figures/fig-8-3b-chiwara.jpg"
+    label: "Figure 8.3b"
     # caption and credit info in shortcode
 
   - id: "fig-8-4a"
     src: "figures/fig-8-4a-chiwara.jpg"
+    label: "Figure 8.4a"
     # caption and credit info in shortcode
 
   - id: "fig-8-4b"
     src: "figures/fig-8-4b-chiwara.jpg"
+    label: "Figure 8.4b"
     # caption and credit info in shortcode
 
   - id: "fig-8-4c"
     src: "figures/fig-8-4c-chiwara.jpg"
+    label: "Figure 8.4c"
     # caption and credit info in shortcode
 
   - id: "fig-8-5a"
     src: "figures/fig-8-5a-chiwara.jpg"
+    label: "Figure 8.5a"
     # caption and credit info in shortcode
 
   - id: "fig-8-5b"
     src: "figures/fig-8-5b-chiwara.jpg"
+    label: "Figure 8.5b"
     # caption and credit info in shortcode
 
   - id:  "fig-9-1"
@@ -1006,18 +1015,22 @@ figure_list:
 
   - id: "fig-17-4a"
     src: "figures/fig-17-4a-heremans.jpg"
+    label: "Figure 17.4a"
     # caption and credit info in shortcode
 
   - id: "fig-17-4b"
     src: "figures/fig-17-4b-heremans.jpg"
+    label: "Figure 17.4b"
     # caption and credit info in shortcode
 
   - id: "fig-17-5a"
     src: "figures/fig-17-5a-heremans.jpg"
+    label: "Figure 17.5a"
     # caption and credit info in shortcode
 
   - id: "fig-17-5b"
     src: "figures/fig-17-5b-heremans.jpg"
+    label: "Figure 17.5b"
     # caption and credit info in shortcode
 
   - id:  "fig-17-6"
@@ -1234,10 +1247,12 @@ figure_list:
 
   - id: "fig-21-6a"
     src: "figures/fig-21-6a-pavic.jpg"
+    label: "Figure 21.6a"
     # caption and credit info in shortcode
 
   - id: "fig-21-6b"
     src: "figures/fig-21-6b-pavic.jpg"
+    label: "Figure 21.6b"
     # caption and credit info in shortcode
 
   - id:  "fig-21-7"
@@ -1248,26 +1263,32 @@ figure_list:
 
   - id: "fig-21-8a"
     src: "figures/fig-21-8a-pavic.jpg"
+    label: "Figure 21.8a"
     # caption and credit info in shortcode
 
   - id: "fig-21-8b"
     src: "figures/fig-21-8b-pavic.jpg"
+    label: "Figure 21.8b"
     # caption and credit info in shortcode
 
   - id: "fig-21-9a"
     src: "figures/fig-21-9a-pavic.jpg"
+    label: "Figure 21.9a"
     # caption and credit info in shortcode
 
   - id: "fig-21-9b"
     src: "figures/fig-21-9b-pavic.jpg"
+    label: "Figure 21.9b"
     # caption and credit info in shortcode
 
   - id: "fig-21-10a"
     src: "figures/fig-21-10a-pavic.jpg"
+    label: "Figure 21.10a"
     # caption and credit info in shortcode
 
   - id: "fig-21-10b"
     src: "figures/fig-21-10b-pavic.jpg"
+    label: "Figure 21.10b"
     # caption and credit info in shortcode
 
   - id:  "fig-21-11"
@@ -1392,10 +1413,12 @@ figure_list:
 
   - id: "fig-23-9a"
     src: "figures/fig-23-9a-kleinschrodt.jpg"
+    label: "Figure 23.9a"
     # caption and credit info in shortcode
 
   - id: "fig-23-9b"
     src: "figures/fig-23-9b-kleinschrodt.jpg"
+    label: "Figure 23.9b"
     # caption and credit info in shortcode
 
   - id:  "fig-23-10"
