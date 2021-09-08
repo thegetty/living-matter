@@ -5,6 +5,4 @@ type: contents
 class: abstract
 slug: .
 weight: 79
-pdf: false
-epub: false
 ---
