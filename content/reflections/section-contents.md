@@ -1,5 +1,5 @@
 ---
-title: Artists' Reflections
+title: Artists’ Reflections
 subtitle:
 type: contents
 class: abstract

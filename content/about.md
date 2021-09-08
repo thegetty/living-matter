@@ -1,6 +1,8 @@
 ---
 title: About
 weight: 350
+pdf: false
+epub: false
 ---
 
 Eggshells, flowers, onion peels, sponge cake, dried bread, breast milk—these are just a few of the biological materials that some contemporary artists have used to make art. But how can works made from such perishable ingredients be preserved? And what ethical and conceptual dilemmas might be posed by doing so?
