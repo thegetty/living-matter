@@ -260,6 +260,14 @@
   .quire-splash .quire-page__header .hero-body .quire-page__header__title {
     color: #243a85;
   }
+
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+  
 }
 
 /* Adjust URL breaks in PDF */
