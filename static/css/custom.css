@@ -266,6 +266,7 @@
 
 }
 
+/* Change display of section TOCs in PDF ouput */
 @media print {
   .quire-page--abstract {
     page: splash-image;
@@ -303,5 +304,11 @@
                           "&" "\200B&"
                           "+" "\200B+"
                           "\200B/\200B/" "//\200B";
+  }
+}
+
+@media print {
+  .quire-page__abstract {
+    margin-bottom: 1.5rem;
   }
 }
