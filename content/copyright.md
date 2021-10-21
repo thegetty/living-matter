@@ -52,9 +52,9 @@ Library of Congress Cataloging-in-Publication Data
 
 - Names: Getty Conservation Institute, author, issuing body. | Rivenc, Rachel,
    editor. | Kendra Roth, editor.
-- Title: Living Matter: The Preservation of Biological Materials Used in Contemporary Art
+- Title: Living Matter: The Preservation of Biological Materials in Contemporary Art
 - Description:
-- Identifiers:LCCN (print) | LCCN (ebook) | ISBN
+- Identifiers: LCCN (print) | LCCN (ebook) | ISBN
    9781606066874 (paperback) | ISBN 9781606067673 (ebook) | ISBN
 - Subjects: LCSH:
 - Classification:
