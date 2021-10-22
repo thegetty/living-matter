@@ -343,7 +343,7 @@ figure_list:
   - id:  "fig-3-6"
     src: "figures/fig-3-6-oettl.jpg"
     label: "Figure 3.6"
-    caption: "ORLAN (French, b. 1947), *ORLANoid*, 2018. C<sup>3</sup>I-robot (command-control-communication-intelligence system)."
+    caption: "ORLAN (French, b. 1947), *ORLANoid*, 2018. C3I-robot (command-control-communication-intelligence system)."
     credit: "Courtesy the artist"
 
   - id:  "fig-3-7"
@@ -457,7 +457,7 @@ figure_list:
   - id:  "fig-5-7"
     src: "figures/fig-5-7-books.jpg"
     label: "Figure 5.7"
-    caption: "Photomicrograph of cellulose treated with PEG, collagen and glycerol, sterilized and oven dried; reflected and transmitted light, 200X."
+    caption: "Photomicrograph of cellulose treated with PEG, collagen, and glycerol, sterilized and oven dried; reflected and transmitted light, 200X."
     credit: "© Courtney Books, Queen’s University, Kingston, Ontario, 2017"
 
   - id:  "fig-5-8"
@@ -785,7 +785,7 @@ figure_list:
     src: "figures/fig-11-8-reed.jpg"
     label: "Figure 11.8"
     caption: "Benjamin Patterson (American, 1934–2016), *Hooked*, 1980. Tackle box containing found objects with metal hooks attached to them, (closed): 22.2 × 43.5 × 22 cm. GRI 1408-672."
-    credit: "Courtesy the Estate of Ben Patterson"
+    credit: "Courtesy the Estate of Benjamin Patterson"
 
   - id:  "fig-11-9"
     src: "figures/fig-11-9-reed.jpg"
@@ -814,7 +814,7 @@ figure_list:
   - id:  "fig-12-4"
     src: "figures/fig-12-4-phillips.jpg"
     label: "Figure 12.4"
-    caption: "Pierre Huyghe (French, b. 1962), *Untilled (Liegender Frauenakt)*, 2012. Concrete with beehive structure and wax, 145 × 45 × 75 cm. Art Gallery of Ontario, AGO 2012/956."
+    caption: "Pierre Huyghe (French, b. 1962), *Untilled (Liegender Frauenakt)*, 2012. Concrete with beehive structure and wax, 75 × 145 × 45 cm. Art Gallery of Ontario, AGO 2012/956."
     credit: "© Pierre Huyghe"
 
   - id:  "fig-12-5"
@@ -826,7 +826,7 @@ figure_list:
   - id:  "fig-12-6"
     src: "figures/fig-12-6-phillips.jpg"
     label: "Figure 12.6"
-    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Today We Reboot the Planet*, 2013. Organic, inorganic, human-made, and machine-made matter, including unfired clay, cement, handmade bricks, metal, and glass, all collected in London and Rosario, Argentina, 195 × 330 × 360 cm. Art Gallery of Ontario, AGO 2016/38."
+    caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Today We Reboot the Planet*, 2013. Organic, inorganic, human-made, and machine-made matter, including unfired clay, cement, handmade bricks, metal, and glass, all collected in London and Rosario, Argentina, 360 × 195 × 330 cm. Art Gallery of Ontario, AGO 2016/38."
     credit: "Art Gallery of Ontario, © Adrián Villar Rojas, courtesy the artist and Marian Goodman Gallery"
 
   - id:  "fig-12-7"
@@ -1104,8 +1104,8 @@ figure_list:
   - id:  "fig-18-8"
     src: "figures/fig-18-8-lilliegren.jpg"
     label: "Figure 18.8"
-    caption: "The life cycle of one of the objects displayed in *Los teatros de Saturno*: first in the production mold, 2014, and later as displayed at Moderna Museet, 2015."
-    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York (2014), and Åsa Lundén / Moderna Museet (2015)"
+    caption: "The life cycle of one of the objects displayed in *Los teatros de Saturno*: first in the production mold, 2014, and later as displayed at kurimanzutto, 2014."
+    credit: "Courtesy the artist and kurimanzutto, Mexico City / New York (2014)"
 
   - id:  "fig-18-9"
     src: "figures/fig-18-9-lilliegren.jpg"
@@ -1202,7 +1202,7 @@ figure_list:
     media_type: vimeo
     media_id: 592954957
     label: "Figure 20.7"
-    caption: "Esposito demonstrates the correct method of selecting and distributing onion peels in her Rome studio, May 22, 2019. Video, color, sound, TK:TK min."
+    caption: "Esposito demonstrates the correct method of selecting and distributing onion peels in her Rome studio, May 22, 2019. Video, color, sound, 1:44 min."
     credit: "Courtesy the authors, with permission of the artist"
 
   - id:  "fig-20-8"
@@ -1330,7 +1330,7 @@ figure_list:
   - id:  "fig-22-5"
     src: "figures/fig-22-5-de-la-mora.jpg"
     label: "Figure 22.5"
-    caption: "Gabriel de la Mora (Mexican, b. 1968), *21 intentos*, 2017. HD video, color, silent, 35:25 min. Edition of 5, 1 AP."
+    caption: "Gabriel de la Mora (Mexican, b. 1968), still from *21 intentos*, 2017. HD video, color, silent, 35:25 min. Edition of 5, 1 AP."
     credit: "Ramiro Chaves, courtesy the artist and Proyectos Monclova"
 
   - id:  "fig-22-6"
@@ -1409,7 +1409,7 @@ figure_list:
     src: "figures/fig-23-8-kleinschrodt.jpg"
     label: "Figure 23.8"
     caption: "Kelly Kleinschrodt (American, b. 1983), *mothersink*, 2014. Acrylic, glycerin, and breast milk, 88.9 × 58.4 × 40.6 cm. Galia’s Collection, Belgium."
-    credit: "Courtesy the artist and Josh Lilley, London"
+    credit: "Courtesy the artist"
 
   - id: "fig-23-9a"
     src: "figures/fig-23-9a-kleinschrodt.jpg"
@@ -1436,7 +1436,7 @@ figure_list:
   - id:  "fig-24-2"
     src: "figures/fig-24-2-melendez.jpg"
     label: "Figure 24.2"
-    caption: "Omar Soto (Mexican, b. TKyear), *Símbolo descarnado*, 2013. Cochineal on wall, 300 × 1100 cm."
+    caption: "Omar Soto (Mexican, b. 1984 ), *Símbolo descarnado*, 2013. Cochineal on wall, 300 × 1100 cm."
     credit: "Pablo Martínez Zárate"
 
   - id:  "fig-24-3"
@@ -1454,7 +1454,7 @@ figure_list:
   - id:  "fig-24-5"
     src: "figures/fig-24-5-melendez.jpg"
     label: "Figure 24.5"
-    caption: "Darío Meléndez (Mexican, b. TKyear), *Símbolo descarnado*, 2013. Decomposing organic matter behind tempered glass, 80 × 155 × 50 cm."
+    caption: "Darío Meléndez (Mexican, b. 1985), *Símbolo descarnado*, 2013. Decomposing organic matter behind tempered glass, 80 × 155 × 50 cm."
     credit: "Daya Navarrete"
 
   - id:  "fig-24-6"

@@ -11,9 +11,9 @@ image:
 
 The Getty Conservation Institute<br />
 Timothy P. Whalen, John E. and Louise Bryson Director<br />
-Jeanne Marie Teutonico, Associate Director, Strategic Initiatives<br />
+Jeanne Marie Teutonico, Associate Director, Strategic Initiatives and Publications<br />
 
-The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, model field projects, and the dissemination of the results of both its own work and the work of others in the field. In all its endeavors, the GCI focuses on the creation and delivery of knowledge that will benefit the professionals and organizations responsible for the conservation of the world’s cultural heritage.
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 
 This publication was created using Quire™, a multiformat publishing tool from Getty.
 
@@ -28,7 +28,7 @@ Unless otherwise indicated, the text and images of this work are licensed under 
 First edition, 2022<br />
 [github.com/thegetty/living-matter/](https://github.com/thegetty/living-matter/)
 
-**Published by the Getty Conservation Institute Los Angeles**<br />
+**Published by the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
