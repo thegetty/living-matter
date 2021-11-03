@@ -277,7 +277,7 @@ figure_list:
   - id:  "fig-2-3"
     src: "figures/fig-2-3-coronado.jpg"
     label: "Figure 2.3"
-    caption: "Kara Walker (American, b. 1969), *A Subtlety, or the Marvelous Sugar Baby, an Homage to the unpaid and overworked Artisans who have refined our Sweet tastes from the cane fields to the Kitchens of the New World on the Occasion of the demolition of the Domino Sugar Refining Plant*, 2014. Polystyrene sphinx coated with thirty-five tons of sugar, approx. 2300 × 700 × TK cm. Installation view, Domino Sugar Refinery, Williamsburg, Brooklyn, 2014."
+    caption: "Kara Walker (American, b. 1969), *A Subtlety, or the Marvelous Sugar Baby, an Homage to the unpaid and overworked Artisans who have refined our Sweet tastes from the cane fields to the Kitchens of the New World on the Occasion of the demolition of the Domino Sugar Refining Plant*, 2014. Polystyrene sphinx coated with thirty-five tons of sugar, approx. 10.8 × 7.9 × 23 m. Installation view, Domino Sugar Refinery, Williamsburg, Brooklyn, 2014."
     credit: "Jason Wyche, courtesy Creative Time, © 2014 Kara Walker"
 
   - id:  "fig-2-4"
@@ -308,7 +308,7 @@ figure_list:
     src: "figures/fig-2-8-coronado.jpg"
     label: "Figure 2.8"
     caption: "Víctor Grippo (Argentinian, 1936–2002), *Analogía I* (Analogy I), 1970–71. Potatoes, painted wood, electrical connectors, voltmeter, and text, 47.4 × 153 × 10 cm. Museo Nacional de Bellas Artes, Buenos Aires."
-    credit: "© Nidia Mabel Olmo de Grippo"
+    credit: "© Museo Nacional de Bellas Artes. Origen: Donación Antorchas"
 
   - id:  "fig-3-1"
     src: "figures/fig-3-1-oettl.jpg"
@@ -688,7 +688,7 @@ figure_list:
   - id:  "fig-10-1"
     src: "figures/fig-10-1-mata-delgado.jpg"
     label: "Figure 10.1"
-    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Christo* (Christ), 1981. Wood, leather, ink, and paper, TK × TK × TK cm. Centro Nacional de Conservación y Registro del Patrimonio Artístico Mueble (CENCROPAM) del Instituto Nacional de Bellas Artes y Literatura (INBAL)."
+    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Christo* (Christ), 1981. Wood, leather, ink, and paper, 104 × 84 cm. Centro Nacional de Conservación y Registro del Patrimonio Artístico Mueble (CENCROPAM) del Instituto Nacional de Bellas Artes y Literatura (INBAL)."
     credit: "STROMC-ENCRyM, INAH"
 
   - id:  "fig-10-2"
@@ -742,7 +742,7 @@ figure_list:
   - id:  "fig-11-1"
     src: "figures/fig-11-1-reed.jpg"
     label: "Figure 11.1"
-    caption: "Marcel Duchamp (French, 1887–1968), *Green Box*, 1934. Closed: 33.4 × 27.8 × 2.5 cm. Paris: Edition Rrose Sélavy. GRI 95-B1934."
+    caption: "Marcel Duchamp (French, 1887–1968), *Green Box*, 1934. Box containing collotypes and hand-colored lithographs reproducing Duchamp’s works, closed: 33.4 × 27.8 × 2.5 cm. Paris: Edition Rrose Sélavy. GRI 95-B1934."
     credit: "© 2019 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp"
 
   - id:  "fig-11-2"
@@ -1123,7 +1123,7 @@ figure_list:
     src: "figures/fig-19-1-carreras.jpg"
     label: "Figure 19.1"
     caption: "Víctor Grippo (Argentinian, 1936–2002), *Analogía I* (Analogy I), 1970–71. Potatoes, painted wood, electrical connectors, voltmeter, and text, 47.4 × 153 × 10 cm. Museo Nacional de Bellas Artes, Buenos Aires."
-    credit:
+    credit: "© Museo Nacional de Bellas Artes. Origen: Donación Antorchas"
 
   - id:  "fig-19-2"
     src: "figures/fig-19-2-carreras.jpg"
@@ -1188,7 +1188,7 @@ figure_list:
   - id:  "fig-20-5"
     src: "figures/fig-20-5-parisi.jpg"
     label: "Figure 20.5"
-    caption: "Esposito explains her selection process for the onion peels during an interview in her Rome studio, May 22, 2019. Video, color, sound, TK:TK min."
+    caption: "Esposito explains her selection process for the onion peels during an interview in her Rome studio, May 22, 2019."
     credit: "Courtesy the authors, with permission of the artist"
 
   - id:  "fig-20-6"
@@ -1366,7 +1366,7 @@ figure_list:
   - id:  "fig-23-1"
     src: "figures/fig-23-1-kleinschrodt.jpg"
     label: "Figure 23.1"
-    caption: "Kelly Kleinschrodt (American, b. 1983), *sonata*, 2010. Mini-DV video, color, sound, 5:19 min. (looping)."
+    caption: "Kelly Kleinschrodt (American, b. 1983), still from *sonata*, 2010. Mini-DV video, color, sound, 5:19 min. (looping)."
     credit: "Courtesy the artist"
 
   - id:  "fig-23-2"
