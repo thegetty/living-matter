@@ -17,7 +17,7 @@ The Getty Conservation Institute (GCI) works internationally to advance conserva
 
 This publication was created using Quire™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at <span class="url-string">[getty.edu/publications/living-matter/](http://getty.edu/publications/living-matter/)</span> and includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
+The free online edition of this publication is available at <span class="url-string">[getty.edu/publications/living-matter/](https://getty.edu/publications/living-matter/)</span> and includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
 
 © 2022 J. Paul Getty Trust
 
@@ -32,7 +32,7 @@ First edition, 2022<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
-[getty.edu/publications](http://www.getty.edu/publications/)<br />
+[getty.edu/publications](https://www.getty.edu/publications/)<br />
 
 Tevvy Ball, *Project Editor*<br />
 Lindsey Westbrook, *Manuscript Editor*<br />

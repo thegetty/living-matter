@@ -588,6 +588,7 @@ figure_list:
   - id: "fig-8-2a"
     src: "figures/fig-8-2a-chiwara.jpg"
     label: "Figure 8.2a"
+    caption: "Test this!"
     # caption and credit info in shortcode
 
   - id: "fig-8-2b"

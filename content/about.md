@@ -21,15 +21,15 @@ A conference organized by the Getty Conservation Institute (GCI), Museo Universi
 
 ### Chicago
 
-Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/.
+Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. https://www.getty.edu/publications/living-matter/.
 
 ### MLA
 
-Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
+Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. https://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
 
 ### Permanent URL
 
-http://www.getty.edu/publications/living-matter/
+https://www.getty.edu/publications/living-matter/
 
 ## Revision History
 
@@ -75,7 +75,7 @@ Unless otherwise indicated, the text and images of this work are licensed under 
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
-[getty.edu/publications](http://www.getty.edu/publications/)<br />
+[getty.edu/publications](https://www.getty.edu/publications/)<br />
 
 Tevvy Ball, *Project Editor*<br />
 Lindsey Westbrook, *Manuscript Editor*<br />
