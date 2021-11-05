@@ -9,7 +9,7 @@ defaultQuality=80
 
 prepIIIF=false # resize images to later process with `quire process --iiif`
 outputCSV=false # output a CSV file that can be used as a basis for figures.yml
-quietMode=true # supress ImageMagick warnings about image files
+quietMode=false # supress ImageMagick warnings about image files
 
 baseDir=static/img
 inputDir=magick
@@ -72,7 +72,10 @@ then
   fi
 fi
 
+if [ $prepIIIF == true ]
+then
 create_directory $iiifOutputDir
+fi
 
 create_directory $figureOutputDir
 
@@ -98,7 +101,7 @@ do
     printf '\n'$fileName'\n'
   fi
 
-  magick $mode $img -resize $defaultSize'x'$defaultSize'>' -quality $defaultQuality -profile $profile -set filename:name '%t' $baseDir/$figureOutputDir/'%[filename:name].jpg'
+  magick $mode $img -resize $defaultSize'x'$defaultSize'>' -quality $defaultQuality -layers flatten -profile $profile -set filename:name '%t' $baseDir/$figureOutputDir/'%[filename:name].jpg'
 
   if [ $prepIIIF == true ]
   then
@@ -108,14 +111,14 @@ do
       add_to_csv $fileName
     elif [ $maxDim -lt $iiif5Layers ]
     then
-      magick -quiet $img -resize $iiif4Layers'x'$iiif4Layers -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
+      magick -quiet $img -resize $iiif4Layers'x'$iiif4Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
     elif [ $maxDim -lt $iiif6Layers ]
     then
-      magick -quiet $img -resize $iiif5Layers'x'$iiif5Layers -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
+      magick -quiet $img -resize $iiif5Layers'x'$iiif5Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
     else
-      magick -quiet $img -resize $iiif6Layers'x'$iiif6Layers -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
+      magick -quiet $img -resize $iiif6Layers'x'$iiif6Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
     fi
 
