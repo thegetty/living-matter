@@ -250,18 +250,6 @@ figure_list:
     caption: "César Martínez Silva (Mexican, b. 1962), artistic action in Santander, Spain, 2015. Fondo César Martínez, Centro de Documentación Arkheia, MUAC-UNAM."
     credit: "Courtesy César Martínez Silva"
 
-  - id:  "fig-2-a"
-    src: "figures/fig-2-a-coronado.png"
-    label: "Figure ?"
-    caption: ""
-    credit: ""
-
-  - id:  "fig-2-b"
-    src: "figures/fig-2-b-coronado.png"
-    label: "Figure ?"
-    caption: ""
-    credit: ""
-
   - id:  "fig-2-1"
     src: "figures/fig-2-1-coronado.jpg"
     label: "Figure 2.1"
@@ -830,7 +818,7 @@ figure_list:
     credit: "Art Gallery of Ontario, © Adrián Villar Rojas, courtesy the artist and Marian Goodman Gallery"
 
   - id:  "fig-12-7"
-    src: "figures/fig-12-7-phillips.png"
+    src: "figures/fig-12-7-phillips.jpg"
     label: "Figure 12.7"
 
   - id:  "fig-13-1"
@@ -1294,18 +1282,6 @@ figure_list:
     src: "figures/fig-21-12b-pavic.jpg"
     label: "Figure 21.12b"
     # caption and credit info in shortcode
-
-  - id:  "fig-21-11"
-    src: "figures/fig-21-11-pavic.jpg"
-    label: "Figure 21.11"
-    caption: "SEM (A) and Raman point measurements, (B): Position 1 (Paraloid), positions 2 and 3 (starch), position 4 (zein)."
-    credit: "Harald Fitzek"
-
-  - id:  "fig-21-12"
-    src: "figures/fig-21-12-pavic.jpg"
-    label: "Figure 21.12"
-    caption: "Raman mapping of sample Paraloid B-72 with reference spectra."
-    credit: "Harald Fitzek"
 
   - id:  "fig-22-1"
     src: "figures/fig-22-1-de-la-mora.jpg"
