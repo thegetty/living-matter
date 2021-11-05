@@ -4,17 +4,22 @@ figure_list:
     src: "tables/table-15-1-ayla.html"
     media_type: table
     label: "Table 15.1"
+    caption: "*Aqui Estão* risk management."
+    credit: "Camilla Ayla Oliveira dos Anjos, 2019"
 
   - id: "table-17-1"
     src: "tables/table-17-1-heremans.html"
     media_type: table
     label: "Table 17.1"
+    caption: "Detail of inventory: materials and damage of objects on shelf 5A."
+    credit: "Rebecca Heremans, © S.M.A.K."
 
   - id: "table-21-1"
     src: "tables/table-21-1-pavic.html"
     media_type: table
     label: "Table 21.1"
-    caption: "Characteristic absorption band and area of characteristic absorption band analyzed by FTIR"
+    caption: "Area of the characteristic absorption band."
+    credit: "Ivana Bačić, Jasna Jablan"
 
   - id:  "fig-0-1"
     src: "figures/fig-0-1-villar.jpg"
