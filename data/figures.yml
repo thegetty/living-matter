@@ -658,32 +658,32 @@ figure_list:
   - id:  "fig-9-4"
     src: "figures/fig-9-4-sehn.jpg"
     label: "Figure 9.4"
-    caption: "Assembly of the work."
+    caption: "Assembly of the work by the artist."
     credit: "Marcelo Drummond, courtesy Nydia Negromonte archive"
 
   - id:  "fig-9-5"
     src: "figures/fig-9-5-sehn.jpg"
     label: "Figure 9.5"
-    caption: "Flowering and expansion details."
+    caption: "Flowering and expansion detail."
     credit: "Daniel Mansur, courtesy Nydia Negromonte archive"
 
   - id:  "fig-9-6"
     src: "figures/fig-9-6-sehn.jpg"
     label: "Figure 9.6"
-    caption: "Desiccation and withering details."
+    caption: "Desiccation and withering detail."
     credit: "Fabio Del Re, courtesy Nydia Negromonte archive"
 
   - id:  "fig-9-7"
     src: "figures/fig-9-7-sehn.jpg"
     label: "Figure 9.7"
-    caption: "Detail of the desiccation and withering process."
-    credit: "Courtesy Nydia Negromonte archive"
+    caption: "Desiccation and withering detail."
+    credit: "Daniel Mansur, courtesy Nydia Negromonte archive"
 
   - id:  "fig-9-8"
     src: "figures/fig-9-8-sehn.jpg"
     label: "Figure 9.8"
-    caption: "Nydia Negromonte (Brazilian, b. Peru, 1965), *Post POSTA Series*, 2014. Four hundred mineral pigment prints on 305 g cotton paper, each 36.5 × 73 cm. Collection of the artist."
-    credit: "Courtesy Nydia Negromonte archive"
+    caption: "Nydia Negromonte (Brazilian, b. Peru, 1965), *Post POSTA Series*, 2014. Four hundred mineral pigment prints on 305 g cotton paper, each 36.5 × 73 cm."
+    credit: "Collection of the artist. Courtesy Nydia Negromonte archive"
 
   - id:  "fig-10-1"
     src: "figures/fig-10-1-mata-delgado.jpg"
@@ -1245,50 +1245,54 @@ figure_list:
     caption: "Consolidation with Paraloid B-72, 2010."
     credit: "Museum of Contemporary Art, Zagreb"
 
-  - id: "fig-21-6a"
-    src: "figures/fig-21-6a-pavic.jpg"
-    label: "Figure 21.6a"
-    # caption and credit info in shortcode
+  - id: "fig-21-6"
+    src: "figures/fig-21-6-pavic.jpg"
+    label: "Figure 21.6"
+    caption: "Samples consolidated with four different consolidants."
+    credit: "Mirta Pavić"
 
-  - id: "fig-21-6b"
-    src: "figures/fig-21-6b-pavic.jpg"
-    label: "Figure 21.6b"
-    # caption and credit info in shortcode
-
-  - id:  "fig-21-7"
+  - id: "fig-21-7"
     src: "figures/fig-21-7-pavic.jpg"
     label: "Figure 21.7"
     caption: "Sample preparation—consolidation of bread samples and microtome cross sections."
     credit: "Harald Fitzek"
 
-  - id: "fig-21-8a"
-    src: "figures/fig-21-8a-pavic.jpg"
-    label: "Figure 21.8a"
+  - id:  "fig-21-8"
+    src: "figures/fig-21-8-pavic.jpg"
+    label: "Figure 21.8"
+    caption: "FTIR-ATR spectra of the untreated bread (red), original sample (green and black), and Paraloid B-72 (blue)."
+    credit: "Ivana Bačić"
+
+  - id: "fig-21-9"
+    src: "figures/fig-21-9-pavic.jpg"
+    label: "Figure 21.9"
+    caption: "Light microscope image of the cross section of a sample with Paraloid B-72."
+    credit: "Harald Fitzek"
+
+  - id: "fig-21-10"
+    src: "figures/fig-21-10-pavic.jpg"
+    label: "Figure 21.10"
+    caption: "Spectra of standards (starch, zein, and Paraloid B-72) and a bread sample obtained using Raman point measurements (positions 3 and 7 with Paraloid; positions 6 and 9 with no Paraloid)."
+    caption: "Harald Fitzek"
+
+  - id: "fig-21-11a"
+    src: "figures/fig-21-11a-pavic.jpg"
+    label: "Figure 21.11a"
     # caption and credit info in shortcode
 
-  - id: "fig-21-8b"
-    src: "figures/fig-21-8b-pavic.jpg"
-    label: "Figure 21.8b"
+  - id: "fig-21-11b"
+    src: "figures/fig-21-11b-pavic.jpg"
+    label: "Figure 21.11b"
     # caption and credit info in shortcode
 
-  - id: "fig-21-9a"
-    src: "figures/fig-21-9a-pavic.jpg"
-    label: "Figure 21.9a"
+  - id: "fig-21-12a"
+    src: "figures/fig-21-12a-pavic.jpg"
+    label: "Figure 21.12a"
     # caption and credit info in shortcode
 
-  - id: "fig-21-9b"
-    src: "figures/fig-21-9b-pavic.jpg"
-    label: "Figure 21.9b"
-    # caption and credit info in shortcode
-
-  - id: "fig-21-10a"
-    src: "figures/fig-21-10a-pavic.jpg"
-    label: "Figure 21.10a"
-    # caption and credit info in shortcode
-
-  - id: "fig-21-10b"
-    src: "figures/fig-21-10b-pavic.jpg"
-    label: "Figure 21.10b"
+  - id: "fig-21-12b"
+    src: "figures/fig-21-12b-pavic.jpg"
+    label: "Figure 21.12b"
     # caption and credit info in shortcode
 
   - id:  "fig-21-11"
