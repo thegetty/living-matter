@@ -2,6 +2,7 @@
 /* ABOUT & COPYRIGHT PAGE
 /* FIGURE & TABLES
 /* PDF / PRINT
+/* MISC
 
 /* COVER
 ============================================================================= */
@@ -311,4 +312,16 @@
   .quire-page__abstract {
     margin-bottom: 1.5rem;
   }
+}
+
+/* MISC
+============================================================================= */
+
+.quire-menu .page-item a.active,
+.quire-menu .section-item a.active {
+  color: #fff !important;
+  background-color: #243a85;
+}
+.quire-menu .menu-list li ul {
+  margin-right: 0;
 }
