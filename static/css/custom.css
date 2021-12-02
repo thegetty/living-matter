@@ -265,6 +265,14 @@
     counter-reset: page -1;
   }
 
+  /* Stop bibliographic items from breaking across columns */
+  dt {
+    page-break-after: avoid;
+  }
+  dd {
+    page-break-inside: avoid;
+  }
+
 }
 
 /* Change display of section TOCs in PDF ouput */
