@@ -1,5 +1,6 @@
 ---
 weight: 10
+label: Keynote
 title: In the Unpredictable Garden of Forking Paths
 subtitle:
 short_title: In the Unpredictable Garden

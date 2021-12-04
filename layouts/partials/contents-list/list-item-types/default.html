@@ -1,6 +1,17 @@
+{{/*
+
+  THIS OVERRIDE CUSTOMIZES THE pageLabelDivide FOR THE SECTION LANDING PAGES
+  (WHICH HAVE class: abstact) AND THE KEYNOTE (WHICH HAS class: page-one)
+
+*/}}
 <a href="{{ .Page.Permalink | relURL }}">
 
-{{- with .Page.Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end -}}
+  {{- if .Page.Params.label -}}
+  {{- if or (eq .Page.Params.class "abstract") (eq .Page.Params.class "page-one") -}}
+    {{- .Page.Params.label }}: {{ else -}}
+    {{- .Page.Params.label }}{{ $.Site.Params.pageLabelDivider }}
+  {{- end -}}
+  {{- end -}}
 
 {{- partial "page-title.html" . | markdownify -}}
 

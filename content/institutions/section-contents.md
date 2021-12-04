@@ -1,4 +1,5 @@
 ---
+label: Part Three
 title: Living Matter
 subtitle: Challenging Institutions
 type: contents
