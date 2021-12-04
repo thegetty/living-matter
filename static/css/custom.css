@@ -419,6 +419,19 @@
   }
 }
 
+/* Adjustment for long section title that was causing a bad break with page numbering */
+@media print {
+  .quire-contents-list .section-item > a,
+  .quire-contents-list .page-item {
+    max-width: 95%;
+  }
+  .quire-contents-list .section-item > a::after,
+  .quire-contents-list .page-item a::after,
+  .quire-contents-list .page-item.frontmatter-page > a::after {
+    margin-right: -5%;
+  }
+}
+
 /* MISC
 ============================================================================= */
 
