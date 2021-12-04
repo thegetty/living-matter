@@ -1,4 +1,8 @@
 {{/*
+
+  THIS OVERRIDE VERSION ADDS A COPYRIGHT NOTICE TO THE BOTTOM OF THE ESSAY
+  IF ONE IS PROVIDED IN THE PAGE YAML
+
   Essay layout. This layout describes a single-page template that has been
   augmented with the ability to display a frontmatter-defined abstract (in
   markdown format) as well as bibliography references.
@@ -16,6 +20,11 @@
       <div class="content">
         {{ .Content }}
         {{ partial "page-bibliography.html" . }}
+        {{ if .Params.copyright }}
+        <div class="backmatter page-copyright-notice">
+        {{ markdownify .Params.copyright }}
+        </div>
+        {{ end }}
       </div>
       {{ partial "footer-buttons.html" . }}
     </div>
