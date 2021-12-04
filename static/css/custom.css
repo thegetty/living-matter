@@ -437,3 +437,9 @@
   padding-top: 1rem;
   border-top: 1px solid #333;
 }
+
+/* Contributor names broken to new lines in TOC */
+.quire-contents-list .contributor--block {
+  display: block;
+  margin-top: .25rem;
+}
