@@ -456,3 +456,8 @@
   display: block;
   margin-top: .25rem;
 }
+
+/* Don't display Director in contributor list */
+.quire-contributors-list #timothy-p-whalen {
+  display: none;
+}
