@@ -33,7 +33,7 @@ pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn: "978-1-60606-689-8"
-  url: https://www.getty.edu/publications/living-matter/
+  url: https://www.getty.edu/publications/living-matter
 
 publisher:
   - name: Getty Conservation Institute
