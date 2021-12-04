@@ -14,6 +14,13 @@ With contributions by conservators, scholars, curators, and artists, *Living Mat
 *Living Matter: The Preservation of Biological Materials in Contemporary Art*<br />
 A conference organized by the Getty Conservation Institute (GCI), Museo Universitario Arte Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México (UNAM), and Escuela Nacional de Conservación, Restauración y Museografia (ENCRyM) of the Instituto Nacional de Antropología e Historia (INAH), Mexico City, June 3–5, 2019
 
+{{< q-class "sponsor-logos" >}}
+
+![sponsor](/img/sponsor-logo-1.jpg)
+
+![sponsor](/img/sponsor-logo-2.jpg)
+
+{{< /q-class >}}
 
 {{< q-class "backmatter" >}}
 
@@ -48,9 +55,10 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Copyright
 
-This publication was created using Quire™, a multiformat publishing tool from Getty.
+This publication was created using Quire™, a multiformat publishing tool owned by the J. Paul Getty Trust.
 
-© 2022 J. Paul Getty Trust
+© 2022 J. Paul Getty Trust<br />
+Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
@@ -69,7 +77,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 </svg>
 {{< /q-class >}}
 
-Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
@@ -102,13 +110,14 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Cover:
+Front cover: <br />
+Back cover:
 
 ## The Getty Conservation Institute
 
 Timothy P. Whalen, John E. and Louise Bryson Director<br />
-Jeanne Marie Teutonico, Associate Director, Strategic Initiatives<br />
+Jeanne Marie Teutonico, Associate Director, Strategic Initiatives and Publications<br />
 
-The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, model field projects, and the dissemination of the results of both its own work and the work of others in the field. In all its endeavors, the GCI focuses on the creation and delivery of knowledge that will benefit the professionals and organizations responsible for the conservation of the world’s cultural heritage.
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 
 {{< /q-class >}}
