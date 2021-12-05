@@ -338,6 +338,19 @@
   float: left;
 }
 
+/* Hide caption/credit when it's a group shortcode w/ its own caption/credit */
+@media screen {
+  .quire-figure.quire-figure--shared-caption figure figcaption {
+    display: none;
+  }
+}
+@media print {
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
+    display: none;
+  }
+}
+
 /* PDF / PRINT
 ============================================================================= */
 
