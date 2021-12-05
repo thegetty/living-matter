@@ -1,6 +1,11 @@
 {{/*
+
+  THIS OVERRIDE MOVES THE FIGURE LABEL INTO THE a LINK SURROUNDING THE
+  img RATHER THAN HAVING IT AS IT'S OWN SEPARATE LINK WHICH WAS CAUSING EACH
+  IMAGE TO BE DUPLICATED IN THE FIGURE MODAL
+
 ----------------------------------------------------------------------------
-Caption 
+Caption
 ---------
 Figure caption and credit element.
 Includes the `label` element for epub and when Site.Params.figureLabelPosition === "below"
@@ -18,20 +23,8 @@ Props:
 {{- if or .caption .credit .label -}}
   <figcaption class="quire-figure__caption caption">
     {{- if .label -}}
-      {{- if eq .Site.Params.epub true -}}
+      {{- if or (eq .Site.Params.epub true) (eq .Site.Params.pdf true) -}}
         <span class="quire-figure__label">{{ .label }}</span>
-      {{ else if eq .Site.Params.figureLabelLocation "below" }}
-        {{ if and (eq .Site.Params.figureModal true) .modalLink }}
-          <a href="{{ .modalLink }}"
-            class="inline popup"
-            data-type="inline"
-            title="{{ .caption | markdownify | safeHTML }}">
-        {{ end }}
-        {{- $labelDict := dict "Site" .Site "label" .label "modalLink" .modalLink -}}
-        {{- partial "figures/label.html" $labelDict -}}
-        {{ if and (eq .Site.Params.figureModal true) .modalLink }}
-          </a>
-        {{ end }}
       {{- end -}}
     {{- end -}}
     {{- if .caption -}}
