@@ -331,6 +331,13 @@
   }
 }
 
+/* Style figure labels included inside link tag for figure modal */
+.quire-figure__label.quire-figure__label--below {
+  font-size: .75em;
+  margin-top: .45rem;
+  float: left;
+}
+
 /* PDF / PRINT
 ============================================================================= */
 
