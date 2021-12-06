@@ -351,6 +351,14 @@
   }
 }
 
+/* Ensure that images can always be seen in full within the user's window withouth scrolling */
+@media screen {
+  .content figure .quire-figure__image {
+    max-height: calc(100vh - 6rem);
+    width: auto;
+  }
+}
+
 /* PDF / PRINT
 ============================================================================= */
 
