@@ -15,5 +15,5 @@ With contributions by conservators, scholars, curators, and artists, *Living Mat
 
 ---
 
-*Living Matter: The Preservation of Biological Materials in Contemporary Art*<br />
+“Living Matter: The Preservation of Biological Materials in Contemporary Art”<br />
 A conference organized by the Getty Conservation Institute (GCI), Museo Universitario Arte Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México (UNAM), and Escuela Nacional de Conservación, Restauración y Museografia (ENCRyM) of the Instituto Nacional de Antropología e Historia (INAH), Mexico City, June 3–5, 2019
