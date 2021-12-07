@@ -325,12 +325,6 @@
   }
 }
 
-@media print {
-  .quire-page__content {
-    background-color: honeydew;
-  }
-}
-
 /* Style figure labels included inside link tag for figure modal */
 .quire-figure__label.quire-figure__label--below {
   font-size: .75em;
