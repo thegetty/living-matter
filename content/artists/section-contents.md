@@ -1,5 +1,6 @@
 ---
-title: Working With the Artist
+label: Part Two
+title: Working with the Artist
 subtitle: Between Conservation and Production
 type: contents
 class: abstract

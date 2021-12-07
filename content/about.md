@@ -5,16 +5,22 @@ pdf: false
 epub: false
 ---
 
-Eggshells, flowers, onion peels, sponge cake, dried bread, breast milk—these are just a few of the biological materials that some contemporary artists have used to make art. But how can works made from such perishable ingredients be preserved? And what ethical and conceptual dilemmas might be posed by doing so?
-Because they are prone to rapid decay, even complete disappearance, biological materials used in art pose a range of unique conservation challenges. This groundbreaking book probes the moral and practical challenges associated with displaying, collecting, and preserving these unique works of art. Theoretical considerations are complemented by a range of specific case studies, thereby affording a comprehensive and richly detailed overview of current thinking and practices on this topic.
+Eggshells, flowers, onion peels, sponge cake, dried bread, breast milk—these are just a few of the biological materials that some contemporary artists have used to make art. But how can works made from such perishable ingredients be preserved? And what ethical and conceptual dilemmas might be posed by doing so? Because they are prone to rapid decay, even complete disappearance, biological materials pose a range of unique conservation challenges. This groundbreaking book probes the moral and practical challenges associated with displaying, collecting, and preserving these unique works of art. Theoretical considerations are complemented by a range of specific case studies, thereby affording a comprehensive and richly detailed overview of current thinking and practices on this topic.
 
-With contributions by conservators, scholars, curators, and artists, Living Matter is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
+With contributions by conservators, scholars, curators, and artists, *Living Matter* is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
 
 ---
 
-*Living Matter: The Preservation of Biological Materials Used in Contemporary Art*<br />
+“Living Matter: The Preservation of Biological Materials in Contemporary Art”<br />
 A conference organized by the Getty Conservation Institute (GCI), Museo Universitario Arte Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México (UNAM), and Escuela Nacional de Conservación, Restauración y Museografia (ENCRyM) of the Instituto Nacional de Antropología e Historia (INAH), Mexico City, June 3–5, 2019
 
+{{< q-class "sponsor-logos" >}}
+
+![sponsor](/img/sponsor-logo-1.jpg)
+
+![sponsor](/img/sponsor-logo-2.jpg)
+
+{{< /q-class >}}
 
 {{< q-class "backmatter" >}}
 
@@ -22,15 +28,15 @@ A conference organized by the Getty Conservation Institute (GCI), Museo Universi
 
 ### Chicago
 
-Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/.
+Rivenc, Rachel, and Kendra Roth, eds. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Los Angeles: Getty Conservation Institute, 2022. https://www.getty.edu/publications/living-matter/.
 
 ### MLA
 
-Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. http://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
+Rivenc, Rachel, and Kendra Roth, editors. *Living Matter: The Preservation of Biological Materials in Contemporary Art, An International Conference Held in Mexico City, June 3–5, 2019*. Getty Conservation Institute, 2022. https://www.getty.edu/publications/living-matter/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
 
 ### Permanent URL
 
-http://www.getty.edu/publications/living-matter/
+https://www.getty.edu/publications/living-matter/
 
 ## Revision History
 
@@ -49,9 +55,10 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Copyright
 
-This publication was created using Quire™, a multiformat publishing tool from Getty.
+This publication was created using Quire™, a multiformat publishing tool owned by the J. Paul Getty Trust.
 
-© 2022 J. Paul Getty Trust
+© 2022 J. Paul Getty Trust<br />
+Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
@@ -70,13 +77,13 @@ This publication was created using Quire™, a multiformat publishing tool from 
 </svg>
 {{< /q-class >}}
 
-Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
-[getty.edu/publications](http://www.getty.edu/publications/)<br />
+[getty.edu/publications](https://www.getty.edu/publications/)<br />
 
 Tevvy Ball, *Project Editor*<br />
 Lindsey Westbrook, *Manuscript Editor*<br />
@@ -103,15 +110,14 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Cover:
+Front cover: <br />
+Back cover:
 
 ## The Getty Conservation Institute
 
 Timothy P. Whalen, John E. and Louise Bryson Director<br />
-Jeanne Marie Teutonico, Associate Director, Strategic Initiatives<br />
+Jeanne Marie Teutonico, Associate Director, Strategic Initiatives and Publications<br />
 
-The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, model field projects, and the dissemination of the results of both its own work and the work of others in the field. In all its endeavors, the GCI focuses on the creation and delivery of knowledge that will benefit the professionals and organizations responsible for the conservation of the world’s cultural heritage.
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 
 {{< /q-class >}}
-
-

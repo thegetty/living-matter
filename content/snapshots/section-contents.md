@@ -1,4 +1,5 @@
 ---
+label: Part One
 title: Living Matter in Contemporary Art
 subtitle: Snapshots
 type: contents

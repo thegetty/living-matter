@@ -22,7 +22,7 @@ Claudia Barra, Pharmaceutical Chemist, Museo Juan Manuel Blanes, Uruguay
 
 Cristina Bausero, Architect, Museo Juan Manuel Blanes, Uruguay
 
-Courtney Books, Andrew Mellon Fellow, Paintings, Balboa Art Conservation Center, USA
+Courtney Books, Andrew W. Mellon Fellow, Paintings, Balboa Art Conservation Center, USA
 
 Alejandra Braun, Conservator of Cultural Heritage, Museo de Arte Moderno, Mexico
 
@@ -40,7 +40,7 @@ David Colorado Solis, Chemist, Museo Universitario Arte Contemporáneo, Mexico
 
 Yamile Fernanda Contreras García, Student, Escuela Nacional de Conservación, Restauración y Museografía “Manuel del Castillo Negrete,” Mexico
 
-Claudia Coronado, Professor, Escuela Nacional de Conservación, Restauración y Museografía “Manuel del Castillo Negrete,” Mexico
+Claudia María Coronado García, Professor, Escuela Nacional de Conservación, Restauración y Museografía “Manuel del Castillo Negrete,” Mexico
 
 Andrea de Caso, Curatorial Assistant, Museo Universitario Arte Contemporáneo, Mexico
 
@@ -48,7 +48,7 @@ Magnolia de la Garza, Director, Colección Isabel y Agustin Coppel, Mexico
 
 Gabriel de la Mora, Visual Artist, Mexico
 
-Mercedes de las Carreras, Chief of Collection Management, Museo Nacional de Bellas Artes, Argentina
+Mercedes Isabel de las Carreras, Chief of Collection Management, Museo Nacional de Bellas Artes, Argentina
 
 María Jimena Díaz Guzmán, Instituto Nacional de Antropología e Historia, Mexico
 
@@ -116,7 +116,7 @@ Karla Leyva, Artist, Mexico
 
 Ana Belen Lezana Iberry, Registrar and Logistics, Colección Isabel y Agustin Coppel, Mexico
 
-Therese Lilliegren, Conservator, Moderna Museet, Sweden
+Thérèse Lilliegren, Conservator, Moderna Museet, Sweden
 
 Rosario Llamas-Pacheco, Professor-Researcher, Universitat Politècnica de València, Spain
 
@@ -148,7 +148,7 @@ Rocío Mota, Conservator, Escuela Nacional de Conservación, Restauración y Mus
 
 Mónica Nuñez Hernández, Museo Universitario Arte Contemporáneo, Mexico
 
-Barbara Oettl, Art Historian, University of Regensburg, Germany
+Barbara Ursula Oettl, Art Historian, University of Regensburg, Germany
 
 Lena Ortega, Artist and Researcher, Universidad Nacional Autónoma de México, Mexico
 
@@ -202,7 +202,7 @@ Diego San Vicente Charles, Production Manager, kurimanzutto, Mexico
 
 Barry Smith, Director of the Institute of Philosophy, University of London, United Kingdom
 
-Pontus Solden, Bookdealer, Rönnells antikvariat, Sweden
+Pontus Solden, Bookdealer, Rönnells Antikvariat, Sweden
 
 Francisca Sousa, Registrar, Museu Berardo, Portugal
 
