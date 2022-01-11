@@ -1248,7 +1248,7 @@ figure_list:
   - id: "fig-21-7"
     src: "figures/fig-21-7-pavic.jpg"
     label: "Figure 21.7"
-    caption: "Sample preparation—consolidation of bread samples and microtome cross sections."
+    caption: "Sample preparation—the microtome cross sections."
     credit: "Harald Fitzek"
 
   - id:  "fig-21-8"
@@ -1266,8 +1266,8 @@ figure_list:
   - id: "fig-21-10"
     src: "figures/fig-21-10-pavic.jpg"
     label: "Figure 21.10"
-    caption: "Spectra of standards (starch, zein, and Paraloid B-72) and a bread sample obtained using Raman point measurements (positions 3 and 7 with Paraloid; positions 6 and 9 with no Paraloid)."
-    caption: "Harald Fitzek"
+    caption: "Spectra of a bread sample obtained using Raman point measurements (positions 3 and 7 with Paraloid; positions 6 and 9 with no Paraloid)."
+    credit: "Harald Fitzek"
 
   - id: "fig-21-11a"
     src: "figures/fig-21-11a-pavic.jpg"
