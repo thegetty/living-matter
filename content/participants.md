@@ -118,7 +118,7 @@ Ana Belen Lezana Iberry, Registrar and Logistics, Colección Isabel y Agustin Co
 
 Thérèse Lilliegren, Conservator, Moderna Museet, Sweden
 
-Rosario Llamas-Pacheco, Professor-Researcher, Universitat Politècnica de València, Spain
+Rosario Llamas Pacheco, Professor-Researcher, Universitat Politècnica de València, Spain
 
 Mariana López, Assistant Registrar, Museo Jumex, Mexico
 

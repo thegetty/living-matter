@@ -133,13 +133,13 @@ figure_list:
     src: "figures/fig-0-19-villar.jpg"
     label: "Figure 0.19"
     caption: "Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min."
-    credit: "Courtesy the artist and DMZ Real project"
+    credit: "Courtesy the artist and Real DMZ Project"
 
   - id:  "fig-0-20"
     src: "figures/fig-0-20-villar.jpg"
     label: "Figure 0.20"
     caption: "Adrián Villar Rojas (Argentinian, b. 1980), still from *El momento más hermoso de la guerra* (The Most Beautiful Moment of War), 2017. Video, color, sound, 55:23 min."
-    credit: "Courtesy the artist and DMZ Real project"
+    credit: "Courtesy the artist and Real DMZ Project"
 
   - id:  "fig-0-21"
     src: "figures/fig-0-21-villar.jpg"
@@ -682,7 +682,7 @@ figure_list:
   - id:  "fig-10-1"
     src: "figures/fig-10-1-mata-delgado.jpg"
     label: "Figure 10.1"
-    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Christo* (Christ), 1981. Wood, leather, ink, and paper, 104 × 84 cm. Centro Nacional de Conservación y Registro del Patrimonio Artístico Mueble (CENCROPAM) del Instituto Nacional de Bellas Artes y Literatura (INBAL)."
+    caption: "Santiago Rebolledo (Colombian, 1951–2020), *Christo* (Christ), 1981. Mixed media (wood, leather, ink, and paper), 104 × 84 cm. Centro Nacional de Conservación y Registro del Patrimonio Artístico Mueble (CENCROPAM) del Instituto Nacional de Bellas Artes y Literatura (INBAL)."
     credit: "STROMC-ENCRyM, INAH"
 
   - id:  "fig-10-2"
@@ -766,7 +766,7 @@ figure_list:
   - id:  "fig-11-6"
     src: "figures/fig-11-6-reed.jpg"
     label: "Figure 11.6"
-    caption: "Dieter Roth (Swiss, 1930–1998), two copies of *Taschenzimmer* (Pocket-Room), 1969/1972. Cardboard, moldy banana slice, and rubber stamp, inner sheet: 10 × 7 cm. Remscheid: Vice-Versand. GRI 94-F202."
+    caption: "Dieter Roth (Swiss, 1930–1998), two copies of *Taschenzimmer* (Pocket-Room), 1969/1972. Cardboard, banana slices (one moldy, one not moldy), and rubber stamps, inner sheet: 10 × 7 cm. Remscheid: Vice-Versand. GRI 94-F202."
     credit: "© Dieter Roth Estate, courtesy Hauser & Wirth"
 
   - id:  "fig-11-7"
@@ -1208,7 +1208,7 @@ figure_list:
   - id:  "fig-21-1"
     src: "figures/fig-21-1-pavic.jpg"
     label: "Figure 21.1"
-    caption: "Dragoljub Raša Todosijević (Serbian, b. 1945), *Nailed Bread*, 1973. Bread, wood, and nails, 26 × 35 × 14.5 cm. Museum of Contemporary Art, Zagreb, inv. no 1810."
+    caption: "Dragoljub Raša Todosijević (b. 1945, Belgrade), *Nailed Bread*, 1973. Bread, wood, and nails, 26 × 35 × 14.5 cm. Museum of Contemporary Art, Zagreb, inv. no 1810."
     credit: "Jovan Kliska"
 
   - id:  "fig-21-2"
