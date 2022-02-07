@@ -6,7 +6,7 @@ type: page
 
 <div class="backmatter">
 
-This reflects titles and affiliations at the time of the symposium “Living Matter: The Preservation of Biological Materials Used in Contemporary Art / La Materia Viva: Conservación de materiales orgánicos en el arte contemporáneo,” held in Mexico City June 3, 4, and 5, 2019.
+This reflects titles and affiliations at the time of the symposium “Living Matter: The Preservation of Biological Materials in Contemporary Art / La Materia Viva: Conservación de materiales orgánicos en el arte contemporáneo,” held in Mexico City June 3, 4, and 5, 2019.
 
 Coline Ardouin, Conservator, Museo Universitario Arte Contemporáneo, Mexico
 
