@@ -82,7 +82,7 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017 (detail). Organic, inorganic, human-made, and machine-made matter, including freezer, saber-tooth tiger’s spine, skulls of both Homo erectus “Peking man” and Neanderthal “La Chapelleaux-Saints,” orangutan skeleton, rubber molds (from *The Most Beautiful of All Mothers* [2015]), crucifix and tree branches (from *Rinascimento* [2015]), fungi, vines, sprouting tubers, robotics, shark fins, and hornero nests, collected in Los Angeles, Istanbul, Kalba, Mexico City, Morocco, Argentina, and Turin, 330 × 111 × 203 cm. The Bass Museum of Art, Miami Beach, Florida. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA<br />
+Front cover: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017 (detail). The Bass Museum of Art, Miami Beach, Florida. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA<br />
 
 {{< q-class "sponsor-logos" >}}
 
