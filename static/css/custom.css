@@ -480,6 +480,6 @@
 }
 
 /* Don't display Director in contributor list */
-.quire-contributors-list #timothy-p-whalen {
+.quire-contributors-list.bio #timothy-p-whalen {
   display: none;
 }
