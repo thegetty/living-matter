@@ -18,6 +18,7 @@ footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 GoogleAnalytics: ""
 
+removePathAccents: true
 pluralizeListTitles: true
 disableKinds:
   - "home"
