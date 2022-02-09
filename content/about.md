@@ -99,19 +99,36 @@ Library of Congress Cataloging-in-Publication Data
 
 - Names: Getty Conservation Institute, author, issuing body. | Rivenc, Rachel,
    editor. | Kendra Roth, editor.
-- Title: Living Matter: The Preservation of Biological Materials Used in Contemporary Art
-- Description:
-- Identifiers: LCCN (print) | LCCN (ebook) | ISBN
-   9781606066874 (paperback) | ISBN 9781606067673 (ebook) | ISBN
-- Subjects:
-- Classification:
-- LC record available at
-- LC ebook record available at
+- Title: Living Matter: The Preservation of Biological Materials in Contemporary Art
+- Description: First edition. | Los Angeles : Getty Conservation Institute,
+   2022. | Proceedings of the symposium “Living Matter: The Preservation of
+   Biological Materials in Contemporary Art / La Materia Viva:
+   Conservación de materiales orgánicos en el arte contemporáneo” which
+   took place June 3–5, 2019, in Mexico City and was co-organized by the
+   Getty Conservation Institute (GCI), the Museo Universitario Arte
+   Contemporáneo (MUAC) of the Universidad Nacional Autónoma de México
+   (UNAM), and the Escuela Nacional de Conservación, Restauración y
+   Museografía “Manuel del Castillo Negrete” (ENCRyM) of the Instituto
+   Nacional de Antropología e Historia (INAH). | Includes bibliographical
+   references. | Summary: “This is the first book to provide a
+   comprehensive overview of the conservation of biological materials used
+   in contemporary art”— Provided by publisher.
+- Identifiers: LCCN 2021056356 (print) | LCCN 2021056357 (ebook) | ISBN
+   9781606066874 (paperback) | ISBN 9781606066881 (mobi) | ISBN
+   9781606066898 | ISBN 9781606067673 (epub)
+- Subjects: LCSH: Art, Modern—20th century—Conservation and
+   Restoration—Congresses. | Art, Modern—21st century—Conservation and
+   Restoration—Congresses. | Artists'
+   Materials—Deterioration—Congresses. | Museum conservation
+   Methods—Congresses.
+- Classification: LCC N8554.5 .L58 2019  (print) | LCC N8554.5  (ebook) | DDC
+   702.8/8—Dc23/eng/20220118
+- LC record available at https://lccn.loc.gov/2021056356
+- LC ebook record available at https://lccn.loc.gov/2021056357
 
 {{< /q-class >}}
 
-Front cover: <br />
-Back cover:
+Front cover: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017 (detail). The Bass Museum of Art, Miami Beach, Florida. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA<br />
 
 ## The Getty Conservation Institute
 

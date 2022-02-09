@@ -8232,7 +8232,7 @@ html {
     orphans: 2;
     widows: 2; }
   a[target=_blank] {
-    prince-text-replace: "/" "\200B/" "~" "\200B~" "." "\200B." "," "\200B," "-" "\200B-" "_" "\200B_" "?" "\200B?" "#" "\200B#" "%" "\200B%" "=" "\200B=" "&" "\200B&" "+" "\200B+" ":" "\200B:" "\200B/\200B/" "//\200B" "\200B:\200B:" "\200B::"; }
+    prince-text-replace: "/" "\200B/" "~" "\200B~" "." "\200B." "," "\200B," "-" "\200B-" "_" "\200B_" "?" "\200B?" "#" "\200B#" "%" "\200B%" "=" "\200B=" "&" "\200B&" "+" "\200B+" ":" "\200B:" "\200B/\200B/" "//\200B" "\200B:\200B:" "\200B::"; }
   html body * {
     prince-text-replace: "—" "—\200B"; }
   .quire-contributor .title {
@@ -9687,7 +9687,7 @@ html {
     .quire-contents-list.grid .page-item .card {
       background-color: #EEF2F3;
       page-break-inside: avoid;
-      height: 2.57812in;
+      height: 2.57813in;
       min-height: inherit; }
       .quire-contents-list.grid .page-item .card .card-content {
         color: #000000;
