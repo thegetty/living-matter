@@ -17,10 +17,10 @@ The Getty Conservation Institute (GCI) works internationally to advance conserva
 
 This publication was created using Quire™, a multiformat publishing tool owned by the J. Paul Getty Trust.
 
-The free online edition of this publication is available at <span class="url-string">[getty.edu/publications/living-matter/](https://getty.edu/publications/living-matter/)</span> and includes videos and zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
+The free online edition of this publication is available at <span class="url-string">[getty.edu&#8203;/publications/living-matter/](https://getty.edu/publications/living-matter/)</span> and includes videos and zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
 
 © 2022 J. Paul Getty Trust<br />
-Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
+Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen ©&nbsp;2022 J. Paul Getty Trust. All other text © the authors.
 
 ![cc-by-nc](/img/cc-by-nc--black.png)
 
