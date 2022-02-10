@@ -128,7 +128,11 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Adrián Villar Rojas (Argentinian, b. 1980), *The Theater of Disappearance*, 2017 (detail). The Bass Museum of Art, Miami Beach, Florida. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA<br />
+Front cover: Adrián Villar Rojas (Argentinian, b. 1980). *The Theater of Disappearance (XIII)*, 2015–18 (detail). Organic, inorganic, human and machine-made matter including Chroma key paint (blue), freezer, plaster, metal, cement, traffic cone, charcoal, sneaker, Homo Neanderthalensis skull replica (La Chapelle-aux-Saints 1), North Atlantic swordfish (*Xiphias gladius*), Dungeness crab (*Metacarcinus magister*), American eel (*Anguilla rostrata*), seashells, green onion, beets, cake, cabbage, seaweed, dried wheat stems, lavender and pink wavyleaf sea lavender (*Limonium sinuatum*), Florist Silver Dollar (*Eucalyptus pulverulenta “Baby Blue”*), Raven Gladiolus, Bulrush
+(*Typha latifolia*), Green Hanging Amaranthus and Pincushion Protea Tiara
+(*Leucospermum*). All collected in Kalba, Los Angeles, Mexico City, Miami, New Jersey, and Turin. 150 x 84 x 96 in. The Bass Museum of Art, Miami Beach, Florida. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA
+
+Back cover: Gabriel de la Mara (Mexican, b. 1968). Eggshell pieces for potential use in the series *CaC03*, 2013–ongoing (fig. 22.10, detail). Courtesy the artist and Proyectos Monclova
 
 ## The Getty Conservation Institute
 
