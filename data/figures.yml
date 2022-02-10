@@ -1030,7 +1030,7 @@ figure_list:
   - id:  "fig-17-6"
     src: "figures/fig-17-6-heremans.jpg"
     label: "Figure 17.6"
-    caption: "Decision tree for restoration treatments of packages."
+    caption: "Decision tree for restoration treatments of packages. See detail views in figures 17.7 and 17.8."
     credit: "Katrien Blanchaert + Rebecca Heremans, © S.M.A.K."
 
   - id:  "fig-17-7"
