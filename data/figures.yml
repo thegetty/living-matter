@@ -1060,7 +1060,7 @@ figure_list:
   - id:  "fig-18-2"
     src: "figures/fig-18-2-lilliegren.jpg"
     media_type: vimeo
-    media_id: 592950662
+    media_id: 592950662/292edbfb3d
     label: "Figure 18.2"
     caption: "*Fantasma*, Moderna Museet, Stockholm, 2015."
     credit: "Stefan Wrenfelt / Moderna Museet"
@@ -1194,7 +1194,7 @@ figure_list:
   - id:  "fig-20-7"
     src: "figures/fig-20-7-parisi.jpg"
     media_type: vimeo
-    media_id: 592954957
+    media_id: 592954957/6b7516fbed
     label: "Figure 20.7"
     caption: "Esposito demonstrates the correct method of selecting and distributing onion peels in her Rome studio, May 22, 2019. Video, color, sound, 1:44 min."
     credit: "Courtesy the authors, with permission of the artist"
@@ -1220,7 +1220,7 @@ figure_list:
   - id:  "fig-21-3"
     src: "figures/fig-21-3-pavic.jpg"
     media_type: vimeo
-    media_id: 592945326
+    media_id: 592945326/13d80ae4e1
     label: "Figure 21.3"
     caption: "Testing the consolidated sample in comparison to a sample with no consolidant."
     credit: "Museum of Contemporary Art, Zagreb"
@@ -1234,7 +1234,7 @@ figure_list:
   - id:  "fig-21-5"
     src: "figures/fig-21-5-pavic.jpg"
     media_type: vimeo
-    media_id: 592948810
+    media_id: 592948810/c62783c8d6
     label: "Figure 21.5"
     caption: "Consolidation with Paraloid B-72, 2010."
     credit: "Museum of Contemporary Art, Zagreb"

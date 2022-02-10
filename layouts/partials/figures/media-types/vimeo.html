@@ -4,6 +4,8 @@
   img RATHER THAN HAVING IT AS IT'S OWN SEPARATE LINK WHICH WAS CAUSING EACH
   IMAGE TO BE DUPLICATED IN THE FIGURE MODAL
 
+  IT ALSO UPDATES THE VIMEO EMBED CODE SO THAT A 2-PART .mediaId CAN BE PROPERLY HANDLED
+
 */}}
 {{- if or (eq .Site.Params.epub true) (eq .Site.Params.pdf true) -}}
   {{- $fallbackDict := dict "Site" .Site "alt" .alt "id" .id "mediaType" .mediaType "src" .src "label" .label "modalLink" "" -}}
@@ -15,12 +17,14 @@
 
 {{- else -}}
 
+  {{ $mediaIdEmbed := replace .mediaId "/" "?h=" }}
+
   <div
     class="quire-figure__media-wrapper{{ if .aspectRatio }}--{{ .aspectRatio }}{{ else }}--widescreen{{ end }}"
   >
     <iframe
       class="quire-figure__media"
-      src="https://player.vimeo.com/video/{{ .mediaId }}"
+      src="https://player.vimeo.com/video/{{ $mediaIdEmbed }}"
       frameborder="0"
       allow="autoplay; fullscreen"
       allowfullscreen
