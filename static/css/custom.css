@@ -232,6 +232,10 @@
   .content figure:not(:first-child) figure {
     border-width: 0;
     padding-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  .content figure:not(:first-child) figure:last-child {
+    margin-bottom: 0;
   }
   .content figure.quire-figure.pdf-two-column {
     column-span: all;
@@ -240,6 +244,10 @@
   .content figure.quire-figure.pdf-no-top-border {
     border-top-width: 0;
     padding-top: 0;
+  }
+  /* A hack to make sure a particular image didn't float to prior page */
+  .content figure.quire-figure.pdf-8rem-bottom-margin {
+    margin-bottom: 8rem !important;
   }
    /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure.pdf-float-top {
@@ -394,6 +402,12 @@
   }
   #contributors .quire-contributor__name {
     font-size: .875rem;
+  }
+
+  /* Were otherwise coming out too large and misaligned */
+  .quire-page__content .container .content ul li::before {
+    font-size: 7pt;
+    margin-left: -1.5em;
   }
 
   /* Accounts for pdf output of cover and first blank page. Numbering
