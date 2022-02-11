@@ -227,7 +227,6 @@
   .content figure:not(:first-child) {
     margin-top: 0;
     margin-bottom: 1.5rem;
-    border-top: 1px solid #808080;
     padding-top: 1.5rem;
   }
   .content figure:not(:first-child) figure {
@@ -238,19 +237,27 @@
     column-span: all;
     margin-top: 1.5rem;
   }
+  .content figure.quire-figure.pdf-no-top-border {
+    border-top-width: 0;
+    padding-top: 0;
+  }
    /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure.pdf-float-top {
     -prince-float: top;
-    -prince-margin-alt: 0;
+    margin-top: 0;
     margin-bottom: 1.5rem;
   }
   .content figure.quire-figure.pdf-float-bottom {
     -prince-float: bottom;
-    -prince-margin-alt: 0;
+    margin-top: 1.5rem;
     margin-bottom: 0;
   }
   .content figure.quire-figure.pdf-page-break-after {
     page-break-after: always;
+  }
+  .content figure.quire-figure.pdf-column-break-after {
+    break-after: always;
+    column-break-after: always;
   }
   .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper img,
   .content figure.quire-figure.pdf-80-percent-width .q-figure__wrapper figcaption {
@@ -273,6 +280,12 @@
   .content figure.quire-figure.pdf-60-percent-width .q-figure__wrapper img,
   .content figure.quire-figure.pdf-60-percent-width .q-figure__wrapper figcaption {
     max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content figure.quire-figure.pdf-50-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-50-percent-width .q-figure__wrapper figcaption {
+    max-width: 50%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -357,6 +370,12 @@
 ============================================================================= */
 
 @media print {
+
+  /* Keeps the copyright notice from breaking onto new page by itself */
+  #snapshots-02 .quire-page__content .container .content .backmatter.page-copyright-notice {
+    margin-top: 2rem !important;
+  }
+
   #bibliography .quire-page__content,
   #contributors .quire-page__content,
   #participants .quire-page__content {
@@ -382,6 +401,13 @@
     hack on the cover seems to do the trick */
   .quire-page--frontmatter.quire-cover {
     counter-reset: page -1;
+  }
+
+  /*
+    In instances in the PDF where there is only a little bit of text on the last page of chapter, the desired output is to have that text fill just one of the two columns and not break across it. This can be acheived by adding `class: pdf-single-column-last-page` to the page YAML of the specific pages where this is an issue
+  */
+  .quire-essay.quire-page--pdf-single-column-last-page .quire-page__content {
+    column-fill: auto;
   }
 
   /* Stop bibliographic items from breaking across columns */
