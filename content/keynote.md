@@ -127,7 +127,7 @@ In the way that the Phrygian cap used by freed slaves in ancient Rome became a s
 
 {{< q-figure id="fig-0-12" >}}
 
-{{< q-figure id="fig-0-13" class="pdf-page-break-after" >}}
+{{< q-figure id="fig-0-13" class="pdf-no-top-border pdf-page-break-after" >}}
 
 In *Los teatros de Saturno*, the spaces at kurimanzutto are modified to house the mutants and the rest of the show. This includes an exhibition in the second story of the gallery in the form of a “3D fanzine” that features a considerable amount of the information about production and direction generated in the London project with its curator, Sophie O’Brien, who also comes to Mexico to work as another station on the team. This second story will thus be entirely devoted to serving as a kind of archive or record of *Today We Reboot the Planet*, with hundreds of emails, notes, sketches, maps, drawings, lists, and other assorted papers. In general, such things are either kept or discarded, but they are rarely exhibited, at least not in this way, namely as an artist’s subsequent project, highlighting the organic nature of the chain, the residual energy that passes from one project to another. It is one more way of forestalling death, of recovering the dense life that goes well beyond the possibilities of the visible. What can’t be trapped is clamoring to emerge and incorporate itself.
 
