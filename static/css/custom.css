@@ -259,6 +259,12 @@
   .content figure.quire-figure.pdf-8rem-bottom-margin {
     margin-bottom: 8rem !important;
   }
+  .content figure.quire-figure.pdf-4rem-bottom-margin {
+    margin-bottom: 4rem !important;
+  }
+  .content figure.quire-figure.pdf-no-bottom-margin {
+    margin-bottom: 0 !important;
+  }
    /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure.pdf-float-top {
     -prince-float: top;
