@@ -283,6 +283,10 @@
     break-after: always;
     column-break-after: always;
   }
+  .content .pdf-column-break-before {
+    break-before: always;
+    column-break-before: always;
+  }
   .content figure.quire-figure.pdf-90-percent-width .q-figure__wrapper img,
   .content figure.quire-figure.pdf-90-percent-width .q-figure__wrapper figcaption {
     max-width: 90%;
@@ -406,6 +410,34 @@
 ============================================================================= */
 
 @media print {
+
+  /* Add alternate method for defining running heads in PrinceXML's PDF output so that italic formatting is preserved, works along with custom version of partials/pdf-info.html template */
+  @page:left {
+    @bottom-right {
+      content: flow(sectiontitle);
+    }
+  }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
+  .pdf-page-title {
+    flow: static(pagetitle);
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 8pt;
+    color: #000000;
+  }
+  .pdf-page-section {
+    flow: static(sectiontitle);
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 7.5pt;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    text-align: right;
+    font-size: 7.5pt;
+  }
 
   /* Keeps the copyright notice from breaking onto new page by itself */
   #snapshots-02 .quire-page__content .container .content .backmatter.page-copyright-notice {

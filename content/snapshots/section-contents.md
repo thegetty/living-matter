@@ -2,6 +2,7 @@
 label: Part One
 title: Living Matter in Contemporary Art
 subtitle: Snapshots
+short_title: Snapshots
 type: contents
 class: abstract
 slug: .
