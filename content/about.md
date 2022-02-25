@@ -48,11 +48,11 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF (X MB)](/downloads/output.pdf)
-  - [EPUB (X MB)](/downloads/output.epub)
-  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
-  - [Paperback](#)
-
+  - [PDF (12.6 MB)](/downloads/RivencRoth_LivingMatter.pdf)
+  - [EPUB (71.6 MB)](/downloads/RivencRoth_LivingMatter.epub)
+  - [Kindle/MOBI (168.5 MB)](/downloads/RivencRoth_LivingMatter.mobi)
+  - [Paperback](https://shop.getty.edu/products/living-matter-the-preservation-of-biological-materials-in-contemporary-art-978-1606066874)
+    
 ## Copyright
 
 This publication was created using Quire™, a multiformat publishing tool owned by the J. Paul Getty Trust.

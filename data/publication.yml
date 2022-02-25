@@ -80,20 +80,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (12.6 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/RivencRoth_LivingMatter.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (71.6 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/RivencRoth_LivingMatter.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (168.5 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/RivencRoth_LivingMatter.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/living-matter-the-preservation-of-biological-materials-in-contemporary-art-978-1606066874
   - type: footer-link
     name: About
     link_relation: about
