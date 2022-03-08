@@ -52,13 +52,13 @@ Any revisions or corrections made to this publication after the first edition da
   - [EPUB (71.6 MB)](/downloads/RivencRoth_LivingMatter.epub)
   - [Kindle/MOBI (168.5 MB)](/downloads/RivencRoth_LivingMatter.mobi)
   - [Paperback](https://shop.getty.edu/products/living-matter-the-preservation-of-biological-materials-in-contemporary-art-978-1606066874)
-    
+
 ## Copyright
 
 This publication was created using Quire™, a multiformat publishing tool owned by the J. Paul Getty Trust.
 
 © 2022 J. Paul Getty Trust<br />
-Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
+Text by Marcia Reed, Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
@@ -130,10 +130,10 @@ Library of Congress Cataloging-in-Publication Data
 
 Front cover: Adrián Villar Rojas (Argentinian, b. 1980), from the series *The Theater of Disappearance (XIII)*, 2015–18 (detail). Organic, inorganic, and human- and machine-made matter, 381 × 312.4 × 243.8 cm. Collection of The Bass Museum of Art, Miami Beach, Florida. © Adrián Villar Rojas. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA
 
-## The Getty Conservation Institute
+## Getty Conservation Institute
 
-Timothy P. Whalen, John E. and Louise Bryson Director<br />
-Jeanne Marie Teutonico, Associate Director, Strategic Initiatives and Publications<br />
+Timothy P. Whalen, *John E. and Louise Bryson Director*<br />
+Jeanne Marie Teutonico, *Associate Director, Strategic Initiatives and Publications*<br />
 
 The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 

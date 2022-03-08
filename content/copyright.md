@@ -9,9 +9,9 @@ image:
 
 {{< q-class "backmatter" >}}
 
-The Getty Conservation Institute<br />
-Timothy P. Whalen, John E. and Louise Bryson Director<br />
-Jeanne Marie Teutonico, Associate Director, Strategic Initiatives and Publications
+Getty Conservation Institute<br />
+Timothy P. Whalen, *John E. and Louise Bryson Director*<br />
+Jeanne Marie Teutonico, *Associate Director, Strategic Initiatives and Publications*
 
 The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
 
@@ -20,7 +20,7 @@ This publication was created using Quire™, a multiformat publishing tool owned
 The free online edition of this publication is available at <span class="url-string">[getty.edu&#8203;/publications/living-matter/](https://getty.edu/publications/living-matter/)</span> and includes videos and zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
 
 © 2022 J. Paul Getty Trust<br />
-Text by Rachel Rivenc, Kendra Roth, and Timothy P. Whalen ©&nbsp;2022 J. Paul Getty Trust. All other text © the authors.
+Text by Marcia Reed, Rachel Rivenc, Kendra Roth, and Timothy P. Whalen ©&nbsp;2022 J. Paul Getty Trust. All other text © the authors.
 
 ![cc-by-nc](/img/cc-by-nc--black.png)
 
