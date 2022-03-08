@@ -6,4 +6,4 @@
 
 */}}
 {{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
-{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}{{ with .Site.Data.publication.reading_line }} ({{ . }}){{ end }}
+{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}{{ with .Site.Data.publication.reading_line }}, {{ . }}{{ end }}
