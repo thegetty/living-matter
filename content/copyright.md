@@ -88,9 +88,7 @@ Back cover: Gabriel de la Mora (Mexican, b. 1968), eggshell pieces for potential
 
 {{< q-class "sponsor-logos" >}}
 
-![sponsor](/img/sponsor-logo-1.jpg)
-
-![sponsor](/img/sponsor-logo-2.jpg)
+![sponsors](/img/sponsor-logos.jpg)
 
 {{< /q-class >}}
 

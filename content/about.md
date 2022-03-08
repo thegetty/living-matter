@@ -16,9 +16,7 @@ A conference organized by the Getty Conservation Institute (GCI), Museo Universi
 
 {{< q-class "sponsor-logos" >}}
 
-![sponsor](/img/sponsor-logo-1.jpg)
-
-![sponsor](/img/sponsor-logo-2.jpg)
+![sponsors](/img/sponsor-logos.jpg)
 
 {{< /q-class >}}
 
