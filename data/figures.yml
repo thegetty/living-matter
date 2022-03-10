@@ -259,7 +259,7 @@ figure_list:
     src: "figures/fig-2-1-coronado.jpg"
     label: "Figure 2.1"
     caption: "Joseph Beuys (German, 1921–1986), *Zwei Fräulein mit leuchtendem brot* (Two Girls with Bright Bread), 1966. Chocolate painted with oil on imprinted card and paper in box, approx. 75 × 21 × 1.2 cm. Private collection."
-    credit: "Photo: © Lempertz 1845"
+    credit: "© 2021 Artists Rights Society Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: © Lempertz"
 
   - id:  "fig-2-2"
     src: "figures/fig-2-2-coronado.jpg"
@@ -277,7 +277,7 @@ figure_list:
     src: "figures/fig-2-4-coronado.jpg"
     label: "Figure 2.4"
     caption: "Sonja Alhäuser (German, b. 1969), *Braunes Bad V* (Brown Bath V), 2009/2015. Stainless steel tub, chocolate, temperature control function, and artist action, tub: 60 × 160 × 80 cm. Installation view, *Black Box*, Lehmbruck Museum, Duisburg, Germany, 2015."
-    credit: "Photo: Alex Heide, Braunschweig, @sonja-alhaeuser.de (ARS/GETTY)"
+    credit: "© 2021 Artists Rights Society Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Alex Heide, Braunschweig, @sonja-alhaeuser.de"
 
   - id:  "fig-2-5"
     src: "figures/fig-2-5-coronado.jpg"
@@ -295,7 +295,7 @@ figure_list:
     src: "figures/fig-2-7-coronado.jpg"
     label: "Figure 2.7"
     caption: "Joseph Beuys (German, 1921–1986), *Capri Battery*, 1985. Light bulb with plug socket and lemon, 8 × 11 × 6 cm. Broad Museum Foundation."
-    credit: "Photo: ARS/GETTY"
+    credit: "© 2021 Artists Rights Society Society (ARS), New York / VG Bild-Kunst, Bonn"
 
   - id:  "fig-2-8"
     src: "figures/fig-2-8-coronado.jpg"
@@ -1117,43 +1117,43 @@ figure_list:
     src: "figures/fig-19-1-carreras.jpg"
     label: "Figure 19.1"
     caption: "Víctor Grippo (Argentinian, 1936–2002), *Analogía I* (Analogy I), 1970–71. Potatoes, painted wood, electrical connectors, voltmeter, and text, 47.4 × 153 × 10 cm. Museo Nacional de Bellas Artes, Buenos Aires."
-    credit: "Photo: © Museo Nacional de Bellas Artes. Origen: Donación Antorchas"
+    credit: "Photo: © Museo Nacional de Bellas Artes. Source: Donación Fundación Antorchas"
 
   - id:  "fig-19-2"
     src: "figures/fig-19-2-carreras.jpg"
     label: "Figure 19.2"
     caption: "Detail of the potatoes’ deterioration; they leave stains on the wood and smell bad."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-19-3"
     src: "figures/fig-19-3-carreras.jpg"
     label: "Figure 19.3"
     caption: "Detail of the rotten potatoes; they begin to sprout depending on their quality and environmental conditions."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-19-4"
     src: "figures/fig-19-4-carreras.jpg"
     label: "Figure 19.4"
     caption: "Cleaning the potatoes with a dry cloth is important for their material conservation."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-19-5"
     src: "figures/fig-19-5-carreras.jpg"
     label: "Figure 19.5"
     caption: "Swapping out new potatoes for deteriorated ones; in the process of inserting the new potatoes, one must take care not to break the connector soldering."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-19-6"
     src: "figures/fig-19-6-carreras.jpg"
     label: "Figure 19.6"
     caption: "The potatoes are generally changed two or three times per month."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-19-7"
     src: "figures/fig-19-7-carreras.jpg"
     label: "Figure 19.7"
     caption: "Potatoes may be retained even if they have visible sprouting, as long as they have not leaked liquid to stain the wood or cause a bad smell. Experience over time has shown the limits of tolerance."
-    credit:
+    credit: "Photo: Courtesy the Museo Nacional de Bellas Artes"
 
   - id:  "fig-20-1"
     src: "figures/fig-20-1-parisi.jpg"
