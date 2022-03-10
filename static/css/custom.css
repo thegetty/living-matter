@@ -1,3 +1,30 @@
+/* TEMP "UNCORRECTED PROOF" BANNER */
+@media screen {
+  #container::before,
+  #container::after {
+    color: white;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  #container::before {
+    content: "UNCORRECTED";
+    background-color: red;
+    bottom: -115px;
+    right: -115px;
+  }
+  #container::after {
+    content: "PROOF";
+    bottom: -130px;
+    right: -130px;
+  }
+}
+
 /* COVER
 /* ABOUT & COPYRIGHT PAGE
 /* FIGURE & TABLES
@@ -131,18 +158,10 @@
 }
 
 .quire-page__content .container .content .sponsor-logos {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 1.5rem;
-  margin-top: 1.5rem;
-  width: 50%;
+  margin-bottom: 2rem;
+  width: 75%;
 }
 @media screen and (max-width:700px) {
-  .quire-page__content .container .content .sponsor-logos {
-    width: 75%;
-  }
-}
-@media screen and (max-width:500px) {
   .quire-page__content .container .content .sponsor-logos {
     width: 100%;
   }
@@ -171,15 +190,8 @@
     column-break-before: always;
   }
   #copyright .sponsor-logos {
-    display: block;
     width: 100%;
-    padding-top: 1.5rem;
-    border-top: 1px solid #000;
-  }
-  #copyright .sponsor-logos p {
-    width: 35%;
-    float: left;
-    margin-right: 5%;
+    margin-top: 2rem;
   }
   #copyright .sponsor-logos img {
     height: auto;
@@ -551,6 +563,12 @@
   .quire-contents-list .page-item a::after,
   .quire-contents-list .page-item.frontmatter-page > a::after {
     margin-right: -5%;
+  }
+}
+
+@media print {
+  .quire-contents-list .section-item.frontmatter-page > a::after {
+    font-style: normal;
   }
 }
 
