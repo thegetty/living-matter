@@ -567,7 +567,7 @@
 }
 
 @media print {
-  .quire-contents-list .section-item.frontmatter-page > a::after {
+  .quire-contents-list .page-item.frontmatter-page > a::after {
     font-style: normal;
   }
 }

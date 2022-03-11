@@ -1,7 +1,8 @@
 ---
 weight: 5
 title: Preface
-type: page
+type: essay
+class: pdf-single-column-last-page
 contributor:
   - id: rrivenc
   - id: kroth
