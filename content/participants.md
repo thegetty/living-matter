@@ -90,7 +90,7 @@ Sol Henaro, Curator of Documentary Collections, Museo Universitario Arte Contemp
 
 Rebecca Heremans, Paper Conservator, S.M.A.K., Belgium
 
-Claudio Hernandez, Head of Conservation, Museo Universitario Arte Contemporáneo, Mexico
+Claudio Hernández, Head of Conservation, Museo Universitario Arte Contemporáneo, Mexico
 
 Silvia Hernández Villegas, Conservator, Programs, Instituto Nacional de Bellas Artes y Literatura, Mexico
 

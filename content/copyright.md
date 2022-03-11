@@ -82,7 +82,7 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Adrián Villar Rojas (Argentinian, b. 1980), from the series *The Theater of Disappearance (XIII)*, 2015–18 (detail). Organic, inorganic, and human- and machine-made matter, 381 × 312.4 × 243.8 cm. Collection of The Bass Museum of Art, Miami Beach, Florida. © Adrián Villar Rojas. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA
+Front cover: Adrián Villar Rojas (Argentinian, b. 1980), from the series *The Theater of Disappearance (XIII)*, 2015–18 (detail). Organic, inorganic, and human- and machine-made matter, 381 × 312.4 × 243.8 cm. Collection of The Bass. © Adrián Villar Rojas. Installation view, Geffen Contemporary at MOCA, Los Angeles, 2017. Studio Michel Zabé, courtesy the artist, Marian Goodman Gallery, New York / Paris / London; kurimanzutto, Mexico City; and The Geffen Contemporary at MOCA
 
 Back cover: Gabriel de la Mora (Mexican, b. 1968), eggshell pieces for potential use in the series *CaC03*, 2013–ongoing (fig. 22.10, detail). Courtesy the artist and Proyectos Monclova
 
