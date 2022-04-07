@@ -6,13 +6,13 @@ type: page
 
 <div class="backmatter">
 
-This reflects titles and affiliations at the time of the symposium “Living Matter: The Preservation of Biological Materials Used in Contemporary Art / La Materia Viva: Conservación de materiales orgánicos en el arte contemporáneo,” held in Mexico City June 3, 4, and 5, 2019.
+This reflects titles and affiliations at the time of the symposium “Living Matter: The Preservation of Biological Materials in Contemporary Art / La Materia Viva: Conservación de materiales orgánicos en el arte contemporáneo,” held in Mexico City on June 3, 4, and 5, 2019.
 
 Coline Ardouin, Conservator, Museo Universitario Arte Contemporáneo, Mexico
 
 Mariana Arenas, Assistant Registrar, Museo Universitario Arte Contemporáneo, Mexico
 
-Ana Lauara Avelar, Biologist, Escuela Nacional de Conservación, Restauración y Museografía “Manuel del Castillo Negrete,” Mexico
+Ana Laura Avelar, Biologist, Escuela Nacional de Conservación, Restauración y Museografía “Manuel del Castillo Negrete,” Mexico
 
 Ivana Bačić, Chemist, Ministry of the Interior, Croatia
 
@@ -90,7 +90,7 @@ Sol Henaro, Curator of Documentary Collections, Museo Universitario Arte Contemp
 
 Rebecca Heremans, Paper Conservator, S.M.A.K., Belgium
 
-Claudio Hernandez, Head of Conservation, Museo Universitario Arte Contemporáneo, Mexico
+Claudio Hernández, Head of Conservation, Museo Universitario Arte Contemporáneo, Mexico
 
 Silvia Hernández Villegas, Conservator, Programs, Instituto Nacional de Bellas Artes y Literatura, Mexico
 
@@ -118,7 +118,7 @@ Ana Belen Lezana Iberry, Registrar and Logistics, Colección Isabel y Agustin Co
 
 Thérèse Lilliegren, Conservator, Moderna Museet, Sweden
 
-Rosario Llamas-Pacheco, Professor-Researcher, Universitat Politècnica de València, Spain
+Rosario Llamas Pacheco, Professor-Researcher, Universitat Politècnica de València, Spain
 
 Mariana López, Assistant Registrar, Museo Jumex, Mexico
 
