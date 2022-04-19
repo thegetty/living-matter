@@ -1,4 +1,4 @@
-/* TEMP "UNCORRECTED PROOF" BANNER */
+/* TEMP "PRESS PREVIEW" BANNER */
 @media screen {
   #container::before,
   #container::after {
@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   #container::before {
-    content: "UNCORRECTED";
+    content: "PRESS";
     background-color: red;
     bottom: -115px;
     right: -115px;
   }
   #container::after {
-    content: "PROOF";
+    content: "PREVIEW";
     bottom: -130px;
     right: -130px;
   }
