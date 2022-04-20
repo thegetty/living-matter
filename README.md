@@ -1,25 +1,48 @@
-## Quire
+This is the repository for *Living Matter: The Preservation of Biological Materials in Contemporary Art*, edited by Rachel Rivenc and Kendra Roth. This digital book was first published May 24, 2022, by the Getty Conservation Institute. It is available online at [https://www.getty.edu/publications/living-matter/](https://www.getty.edu/publications/living-matter/) and may be downloaded free of charge in multiple formats.
 
-This publication was created using Quire™, a multiplatform publishing tool owned by the J. Paul Getty Trust. If you are new to Quire and would like learn more please visit our [documentation](https://quire.getty.edu). For a free license to use Quire, complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScKOJEq9ivhwizmdazjuhxBII-s-5SUsnerWmyF8VteeeRBhA/viewform).
+## About the Book
 
-## Quire Starter README.md
+Eggshells, flowers, onion peels, sponge cake, dried bread, breast milk—these are just a few of the biological materials that some contemporary artists have used to make art. But how can works made from such perishable ingredients be preserved? And what ethical and conceptual dilemmas might be posed by doing so? Because they are prone to rapid decay, even complete disappearance, biological materials pose a range of unique conservation challenges. This groundbreaking book probes the moral and practical challenges associated with displaying, collecting, and preserving these unique works of art. Theoretical considerations are complemented by a range of specific case studies, thereby affording a comprehensive and richly detailed overview of current thinking and practices on this topic.
 
-This is placeholder text for Quire's default starter README.md; it is automatically generated when running `quire new` along with the content of this default starter project. We invite you to update this README.md with information relevant to the project you are working on. Learn more about what a README.md is and how to create an effective one for your project in the [GitHub docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+With contributions by conservators, scholars, curators, and artists, *Living Matter* is the first publication to address broadly these provocative issues, exploring the role of biological materials in the creative process and presenting a wide variety of possible approaches to their preservation.
 
-For more information on updating the content of your publication please see below. 
+## Using this Repository
 
-- The `content` directory holds all the main text content of the publication in a standard Markdown format.
+This is one in series of multiformat publications using [Quire](http://quire.getty.edu)™, Getty’s new publishing framework. Quire is currently in beta, with the goal of it being released as free and open source software in the future. In the meantime, users are encouraged to request access at http://bit.ly/quire-signup. This repository can also be run locally to build the online site (but not the PDF or ebook formats) with [Hugo](https://gohugo.io/), the [static site generator](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/) at the core of Quire.
 
-- Customizations to the default theme will appear in the `layout` directory if one is present, as well as in the `static/css/custom.css` and `static/js/custom.js` files.
+We are dedicated to maintaining this publication for years to come at the permanent URL, [https://www.getty.edu/publications/living-matter/](https://www.getty.edu/publications/living-matter/), and in its various formats and incarnations. For any updates to the book, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the book’s many formats.
 
-- The `data` directory holds information on the publication, as well as any figure images, bibliographic references, and objects; all in a YAML format.
+The primary content pieces of the book can be found in the `data` and `content` directories. The master branch represents the current, published edition at all times, and the revisions branch, when present, will show changes currently under consideration. We invite you to submit suggestions or corrections via pull request on the revisions branch, by posting an issue, or by emailing us at [pubsinfo@getty.edu](mailto:pubsinfo@getty.edu).
 
-- Figures are held in the `static/img` directory, typically in JPG, PNG, GIF or SVG formats.
+## Development Notes
 
-Please visit the [_Get Started_](https://quire.getty.edu/documentation/getting-started/) section of our documentation to learn more. 
+This project was last built with the following software versions:
 
-### License
+- Quire 0.20.2
+- Node 14.18.1 / npm 6.14.15
+- Hugo 0.82.1
+- PrinceXML 14.2
+- Pandoc 2.17.1.1
 
-Quire Copyright © 2021, J Paul Getty Trust.
+While version 0.20.2 of the core Quire Default Theme was used, a number of customizations were made:
 
+- Improved search for diacritics
+- Copyright statements added to the end of each essay
+- Custom cover design to match previous GCI Proceedings volumes
 
+Within the theme itself, changes were made to the `source/css/variables.scss` and `source/css/print.scss` files. Outside of the theme, customizations can be found in the project’s `layouts` directory, and in `static/css/custom.css`.
+
+### Images Submodule
+
+Many of figure images for *Living Matter* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/living-matter-images/, which is linked to this main publication repository as a submodule in `static/img/figures/`. When cloning this repo for further development, you’ll permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
+
+```
+git clone --recursive https://github.com/thegetty/living-matter.git
+```
+
+## License
+
+© 2022 J. Paul Getty Trust<br />
+Text by Marcia Reed, Rachel Rivenc, Kendra Roth, and Timothy P. Whalen © 2022 J. Paul Getty Trust. All other text © the authors.
+
+The text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
