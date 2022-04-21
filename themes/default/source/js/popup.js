@@ -229,11 +229,15 @@ export default function(gallerySelector, mapArr) {
           if (id.indexOf("deepzoom") !== -1) {
             setTimeout(() => {
               let url = $(`#${id}`).attr("src");
-              let image = new Image();
-              image.src = url;
-              image.onload = function() {
-                deepzoom = new DeepZoom(id, mapArr);
-              };
+              if (url) {
+                let image = new Image();
+                image.src = url;
+                image.onload = function() {
+                  deepzoom = new DeepZoom(id, mapArr);
+                };
+              } else {
+                deepzoom = null;
+              }
             }, waitForDOMUpdate);
           }
           if (id.indexOf("iiif") !== -1) {
