@@ -593,46 +593,53 @@ figure_list:
     label: "Figure 8.1"
     caption: "Spraying nests with pesticides."
     credit: "Photo: National Gallery of Zimbabwe"
+    alt: "A man standing between two gigantic chicken nests while spraying them down with pesticides "
 
   - id: "fig-8-2a"
     src: "figures/fig-8-2a-chiwara.jpg"
     label: "Figure 8.2a"
     caption: "Test this!"
+    alt: "Two mean covering one of the gigantic chicken nests with a black polyethylene fumigation sheet"
     # caption and credit info in shortcode
 
   - id: "fig-8-2b"
     src: "figures/fig-8-2b-chiwara.jpg"
     label: "Figure 8.2b"
+    alt: "A chicken nest that is nicely covered by the black polyethylene fumigation sheet"
     # caption and credit info in shortcode
 
   - id: "fig-8-3a"
     src: "figures/fig-8-3a-chiwara.jpg"
     label: "Figure 8.3a"
+    alt: "Three orange racks with hanging mushroom production polyethylene bags wih a wooden fence running across in front of it"
     # caption and credit info in shortcode
 
   - id: "fig-8-3b"
     src: "figures/fig-8-3b-chiwara.jpg"
     label: "Figure 8.3b"
-    # caption and credit info in shortcode
+    alt: "A closer view to the hanging mushroom production polyethylene bags"     # caption and credit info in shortcode
 
   - id: "fig-8-4a"
     src: "figures/fig-8-4a-chiwara.jpg"
     label: "Figure 8.4a"
-    # caption and credit info in shortcode
+    alt: "A elevated view of men working and standing on a scaffolding while adjusting one of the gigantic chicken nests"
 
   - id: "fig-8-4b"
     src: "figures/fig-8-4b-chiwara.jpg"
     label: "Figure 8.4b"
+    alt: "A elevated view of the installation that resemebles a farmhouse with the mushroom production on the left and three gigantic chicken nest hanging from wires"
     # caption and credit info in shortcode
 
   - id: "fig-8-4c"
     src: "figures/fig-8-4c-chiwara.jpg"
     label: "Figure 8.4c"
+    alt: "Chickens eating and roaming around three red chicken hut-like hatches"
     # caption and credit info in shortcode
 
   - id: "fig-8-5a"
     src: "figures/fig-8-5a-chiwara.jpg"
     label: "Figure 8.5a"
+    alt: "A right side view of the three red chicken hut-like hatches "
     # caption and credit info in shortcode
 
   - id: "fig-8-5b"
