@@ -586,7 +586,7 @@ figure_list:
     label: "Figure 7.9"
     caption: "Scar and tattoo on the artist’s body."
     credit: "Photo: Oriol Tarridas, with permission from the artist and CIFO, Miami"
-    alt: "Back tattoo with caligraphy lettering that says Condecoracion Martiel Carlos Ed. 1/1 2014"
+    alt: "Back tattoo with calligraphy lettering that says Condecoracion Martiel Carlos Ed. 1/1 2014"
 
   - id:  "fig-8-1"
     src: "figures/fig-8-1-chiwara.jpg"
@@ -611,7 +611,7 @@ figure_list:
   - id: "fig-8-3a"
     src: "figures/fig-8-3a-chiwara.jpg"
     label: "Figure 8.3a"
-    alt: "Three orange racks with hanging mushroom production polyethylene bags wih a wooden fence running across in front of it"
+    alt: "Three orange racks with hanging mushroom production polyethylene bags with a wooden fence running across in front of it"
     # caption and credit info in shortcode
 
   - id: "fig-8-3b"
@@ -633,18 +633,18 @@ figure_list:
   - id: "fig-8-4c"
     src: "figures/fig-8-4c-chiwara.jpg"
     label: "Figure 8.4c"
-    alt: "Chickens eating and roaming around three red chicken hut-like hatches"
     # caption and credit info in shortcode
 
   - id: "fig-8-5a"
     src: "figures/fig-8-5a-chiwara.jpg"
     label: "Figure 8.5a"
-    alt: "A right side view of the three red chicken hut-like hatches "
+    alt: "Chickens eating and roaming around three red chicken hut-like hatches"
     # caption and credit info in shortcode
 
   - id: "fig-8-5b"
     src: "figures/fig-8-5b-chiwara.jpg"
     label: "Figure 8.5b"
+    alt: "A right side view of the three red chicken hut-like hatches"
     # caption and credit info in shortcode
 
   - id:  "fig-9-1"
@@ -708,14 +708,14 @@ figure_list:
     label: "Figure 10.1"
     caption: "Santiago Rebolledo (Colombian, 1951–2020), *Christo* (Christ), 1981. Mixed media (wood, leather, ink, and paper), 104 × 84 cm. Centro Nacional de Conservación y Registro del Patrimonio Artístico Mueble (CENCROPAM) del Instituto Nacional de Bellas Artes y Literatura (INBAL)."
     credit: "Photo: STROMC-ENCRyM, INAH"
-    alt: "A wooden figure resembling the crucifixion ontop of circular blood stain pages"
+    alt: "A wooden figure resembling the crucifixion ontop of circular blood stained pages"
 
   - id:  "fig-10-2"
     src: "figures/fig-10-2-mata-delgado.jpg"
     label: "Figure 10.2"
     caption: "Interview with artist Noemí Ramírez."
     credit: "Photo: STROMC-ENCRyM, INAH"
-    alt: "Two women holding a converstion in front of a orange 3-D media art piece"
+    alt: "Two women holding a converstion in front of an orange 3-D media art piece"
 
   - id:  "fig-10-3"
     src: "figures/fig-10-3-mata-delgado.jpg"
@@ -757,7 +757,7 @@ figure_list:
     label: "Figure 10.8"
     caption: "General view of the packing box that was part of *Lavatio Corporis*."
     credit: "Photo: STROMC-ENCRyM, INAH"
-    alt: "A black box with bright magenta sticker on the left and white bold lettering that writes Mexico in the right corner and Semefo, Lavatio Corporis in the middle"
+    alt: "A black box with bright magenta sticker on the left and white bold lettering that says Mexico in the right corner and Semefo, Lavatio Corporis in the middle"
 
   - id:  "fig-10-9"
     src: "figures/fig-10-9-mata-delgado.jpg"
@@ -778,7 +778,7 @@ figure_list:
     label: "Figure 11.2"
     caption: "Marcel Duchamp (French, 1887–1968), design possibly by Mary Reynolds (American, 1891–1950), ca. 1939. Cellulose acetate  case containing Lewis Carroll, *La canne du destin*, trans. André Bay; Marcel Duchamp, *Rrose Sélavy*; Franz Kafka, *Le chasseur Gracchus*, trans. Henri Parisot; and Gisèle Prassinos, *Sondue*, with added butterflies, feathers, a seahorse, and drawings on the chemise attributed to André Masson (French, 1896–1987), closed: 17 × 12 × 2.5 cm; object: 18.7 × 12.3 × 4.7 cm. GRI 95-B2292."
     credit:
-    alt: "A book with thick blue edges with a spine of an antique book, displaying a 3-D seahore and 4 insects ontop of a cover with drawings"
+    alt: "A book with thick blue edges with a spine of an antique book, displaying a 3-D seahore and 4 insects on top of a cover with drawings"
 
   - id:  "fig-11-3"
     src: "figures/fig-11-3-reed.jpg"
@@ -792,21 +792,21 @@ figure_list:
     label: "Figure 11.4"
     caption: "Dieter Roth (Swiss, 1930–1998), *Bok 3c: Wiederkonstruktion des Buches aus dem Verlag Forlag Ed* (Reconstruction of the Book from the Verlag Forlag Ed.), 1961/1971. Cardboard, caraway seed roll, and paint, open (cover): 23.2 × 40.3 × 4.1 cm; closed (book): 22.9 × 17.1 × 3.8 cm. Reykjavik: H. Mayer. GRI 93-B18994."
     credit: "Photo: © Dieter Roth Estate, courtesy Hauser & Wirth"
-    alt: "A book sculpture with a blue back cover and a red front cover with deteriorating bagels of their oppostie color attached in front"
+    alt: "A book sculpture with a blue back cover and a red front cover with deteriorating bagels of their opposite color attached in front"
 
   - id:  "fig-11-5"
     src: "figures/fig-11-5-reed.jpg"
     label: "Figure 11.5"
     caption: "Case displaying artist’s books by Dieter Roth. Installation view, *Artists and Their Books / Books and Their Artists*, Getty Research Institute, Los Angeles, 2018."
     credit: "Photo: © Dieter Roth Estate, courtesy Hauser & Wirth"
-    alt: "A glass case showcasing serval medium-size and large size book sculptures"
+    alt: "A glass case showcasing several medium-size and large size book sculptures"
 
   - id:  "fig-11-6"
     src: "figures/fig-11-6-reed.jpg"
     label: "Figure 11.6"
     caption: "Dieter Roth (Swiss, 1930–1998), two copies of *Taschenzimmer* (Pocket-Room), 1969/1972. Cardboard, banana slices (one moldy, one not moldy), and rubber stamps, inner sheet: 10 × 7 cm. Remscheid: Vice-Versand. GRI 94-F202."
     credit: "Photo: © Dieter Roth Estate, courtesy Hauser & Wirth"
-    alt: "A small yellow worn out carboard box from it is early years to a older verison of the yellow worn out cardboard box"
+    alt: "A small yellow worn out carboard box from it is early years to an older version of the yellow worn out cardboard box"
 
   - id:  "fig-11-7"
     src: "figures/fig-11-7-reed.jpg"
@@ -827,7 +827,7 @@ figure_list:
     label: "Figure 11.9"
     caption: "Degraded sardine can from conservation document housed with Benjamin Patterson’s *Hooked*. GRI 1408-672."
     credit:
-    alt: "A yellow sardine can, with soggy deteriorating mold coming from it's right side"
+    alt: "A yellow sardine can, with soggy deteriorating mold coming from its right side"
 
   - id:  "fig-12-1"
     src: "figures/fig-12-1-phillips.jpg"
@@ -848,7 +848,7 @@ figure_list:
     label: "Figure 12.3"
     caption: "Ron Benner (Canadian, b. 1949), *Anthro-Apologies (and the trees grew inwards – for Manuel Scorza)*, 1979–80. Gelatin silver prints, photo-oil colors, newspapers, *mantas* (Peruvian shawls), fresh and dried fruits, vegetables, flowers, seeds, nuts, metal, and wood, 300 × 300 × 214 cm. Art Gallery of Ontario, AGO 94/299."
     credit: "Photo: Art Gallery of Ontario, © Ron Benner"
-    alt: "Two gigantic black and white photo of hands pasted on the wall, with food on top of tapestry and newspapers scattered in front of the photograph. "
+    alt: "Two gigantic black and white photos of hands pasted on the wall, with food on top of tapestry and newspapers scattered in front of the photograph. "
 
   - id:  "fig-12-4"
     src: "figures/fig-12-4-phillips.jpg"
@@ -862,19 +862,19 @@ figure_list:
     label: "Figure 12.5"
     caption: "Simon Starling (British, b. 1967), *Infestation Piece (Musselled Moore)*, 2006–8. Steel replica of Henry Moore’s *Warrior with Shield* (1953–54) and Eastern European zebra mussels, 155 × 73 × 71 cm. Art Gallery of Ontario, AGO 2011/273."
     credit: "Photo: © Simon Starling, courtesy Casey Kaplan, New York"
-    alt: "A  limbless figure scupture with a soft edge rectangle in the upper chest, cover with orange rust dots and zebra mussels"
+    alt: "A limbless figure sculpture with a soft edge rectangle in the upper chest, cover with orange rust dots and zebra mussels"
 
   - id:  "fig-12-6"
     src: "figures/fig-12-6-phillips.jpg"
     label: "Figure 12.6"
     caption: "Adrián Villar Rojas (Argentinian, b. 1980), *Today We Reboot the Planet*, 2013. Organic, inorganic, human-made, and machine-made matter, including unfired clay, cement, handmade bricks, metal, and glass, all collected in London and Rosario, Argentina, 360 × 195 × 330 cm. Art Gallery of Ontario, AGO 2016/38."
     credit: "Photo: Art Gallery of Ontario, © Adrián Villar Rojas, courtesy the artist and Marian Goodman Gallery"
-    alt: "A metal rack filled with cement and clay scluptures"
+    alt: "A metal rack filled with cement and clay sculptures"
 
   - id:  "fig-12-7"
     src: "figures/fig-12-7-phillips.jpg"
     label: "Figure 12.7"
-    alt: "A concept map demostrating the different ways people can take on conserving art pieces that have living oraganisms"
+    alt: "A concept map demonstrating the different ways people can take on conserving art pieces that have living oragisms"
 
   - id:  "fig-13-1"
     src: "figures/fig-13-1-walthew.jpg"
@@ -888,7 +888,7 @@ figure_list:
     label: "Figure 13.2"
     caption: "Caleb Harper (American, b. 1982), Hildreth England (American, b. 1978), Open Agriculture Initiative (American, active 2015–20), and MIT Media Lab (American, founded 1985), *Personal Food Computer v.3.0*, 2018–ongoing. PVC, polycarbonate, LEDs, electronics, and sensors, each unit 30.5 × 30.5 × 30.5 cm."
     credit: "Photo: Matt Flynn for Cooper Hewitt, Smithsonian Design Museum"
-    alt: "A white room with dim purple lights with a T.V mounted on the entrance displaying the white cube garden chambers found throughoout the room"
+    alt: "A white room with dim purple lights with a T.V mounted on the entrance displaying the white cube garden chambers found througout the room"
 
   - id:  "fig-13-3"
     src: "figures/fig-13-3-walthew.jpg"
@@ -902,7 +902,7 @@ figure_list:
     label: "Figure 13.4"
     caption: "Teresa van Dongen (Dutch, b. 1988), *Electric Life*, 2018. Steel, aluminum, glass, and liquid with electroactive bacteria, 137 × 90.8 × 78.5 cm."
     credit: "Photo: Matt Flynn for Cooper Hewitt, Smithsonian Design Museum"
-    alt: "A metal scuplture with three legs with a container in the middle that attachs to three circular lights "
+    alt: "A metal sculpture with three legs with a container in the middle that attaches to three circular lights "
 
 
   - id:  "fig-13-5"
@@ -910,7 +910,7 @@ figure_list:
     label: "Figure 13.5"
     caption: "Oron Catts (Australian, b. Finland, 1967), Ionat Zurr (Australian, b. United Kingdom, 1970), and the Tissue Culture & Art Project (Australian, founded 1996), *BioMess*, 2018–ongoing. Incubator, hybridoma cells, and natural history specimens in exhibition cases, dimensions variable."
     credit: "Photo: Matt Flynn for Cooper Hewitt, Smithsonian Design Museum"
-    alt: "A gallery with black exhibition cases that are displaying different electrionics and natural species"
+    alt: "A gallery with black exhibition cases that are displaying different electronics and natural species"
 
   - id:  "fig-13-6"
     src: "figures/fig-13-6-walthew.jpg"
