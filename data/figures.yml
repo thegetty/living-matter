@@ -617,7 +617,7 @@ figure_list:
   - id: "fig-8-3b"
     src: "figures/fig-8-3b-chiwara.jpg"
     label: "Figure 8.3b"
-    alt: "A closer view to the hanging mushroom production polyethylene bags"     # caption and credit info in shortcode
+    alt: "A close-up view of three mushrooms production polyethylene bag hanging from an orange rack"     # caption and credit info in shortcode
 
   - id: "fig-8-4a"
     src: "figures/fig-8-4a-chiwara.jpg"
@@ -1016,6 +1016,7 @@ figure_list:
     label: "Figure 15.1"
     caption: "Anna Maria Maiolino (Brazilian, b. 1942), *Aqui Estão* (Here They Are), 1999, pictured here in 1999. 750 rolls made using five different wood types: cedar, *freijó* (jenny wood), yellow heart, mahogany, and *jatobá* (courbaril or purpleheart). Museu do Açude, Rio de Janiero."
     credit: "Photo: Vicente de Mello, courtesy Castro Maya Museums"
+    alt:
 
   - id:  "fig-15-2"
     src: "figures/fig-15-2-ayla.jpg"
