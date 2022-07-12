@@ -1016,25 +1016,28 @@ figure_list:
     label: "Figure 15.1"
     caption: "Anna Maria Maiolino (Brazilian, b. 1942), *Aqui Estão* (Here They Are), 1999, pictured here in 1999. 750 rolls made using five different wood types: cedar, *freijó* (jenny wood), yellow heart, mahogany, and *jatobá* (courbaril or purpleheart). Museu do Açude, Rio de Janiero."
     credit: "Photo: Vicente de Mello, courtesy Castro Maya Museums"
-    alt:
+    alt: "Yellow and orange rolls attached to tree trunk within forest, amidst colorful greenery and plants"
 
   - id:  "fig-15-2"
     src: "figures/fig-15-2-ayla.jpg"
     label: "Figure 15.2"
     caption: "Anna Maria Maiolino working on a lathe, 1999."
     credit: "Photo: Vicente de Mello, courtesy Castro Maya Museums"
+    alt: "View of workshop from doorway; artist under table inspects rolls while man above looks on"
 
   - id:  "fig-15-3"
     src: "figures/fig-15-3-ayla.jpg"
     label: "Figure 15.3"
     caption: "Anna Maria Maiolino hanging the wood rolls to dry, 1999."
     credit: "Photo: Vicente de Mello, courtesy Castro Maya Museums"
+    alt: "Artist kneeling in corner of sunlit room and suspending rows of wooden rolls from clotheslines"
 
   - id:  "fig-15-4"
     src: "figures/fig-15-4-ayla.jpg"
     label: "Figure 15.4"
     caption: "Anna Maria Maiolino attaching the wood rolls to the tree, 1999."
     credit: "Photo: Vicente de Mello, courtesy Castro Maya Museums"
+    alt: "Artist in the forest placing the large wood rolls around a towering trunk from the bottom-up"
 
   - id:  "fig-16-1"
     src: "figures/fig-16-1-hernandez.jpg"
