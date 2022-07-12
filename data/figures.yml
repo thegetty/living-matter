@@ -1044,24 +1044,28 @@ figure_list:
     label: "Figure 16.1"
     caption: "Students of the Escuela de Restauración carrying out diagnoses at MUAC, September 2017."
     credit: "Photo: Claudio Hernández"
+    alt: "Students in lab coats measure, take notes on, and roll up, a poster adorned with a large red semicircle"
 
   - id:  "fig-16-2"
     src: "figures/fig-16-2-hernandez.jpg"
     label: "Figure 16.2"
     caption: "Marta Palau Bosch (Spanish, b. 1934), *Mis caminos son terrestres XVII* (My Paths Are Earthly XVII), 1985. Low-warp henequen and totomoxtle (corn), dyed, two parts, 165 × 385 cm overall. Museo Universitario Arte Contemporáneo, UNAM, Mexico City."
     credit: "Photo: Registration photo courtesy Seminario Taller de Restauración de Arte Moderno y Contemporáneo"
+    alt: "Two densely-textured greyish-blue hangings with fringed edges; right hanging has three depressed lines along surface"
 
   - id:  "fig-16-3"
     src: "figures/fig-16-3-hernandez.jpg"
     label: "Figure 16.3"
     caption: "Teresa Margolles (Mexican, b. 1963), *Encobijados* (The Covered Ones), 2006. Mass-produced blankets used to wrap the bodies of victims of organized crime, metal T-shaped pipes, seven parts, 94 × 116 cm each. Museo Universitario Arte Contemporáneo, UNAM, Mexico City."
     credit: "Photo: Irene Barajas, courtesy MUAC"
+    alt:"Three-quarter view of row of patterned red, blue, and plaid blankets standing upright in rectangular formations "
 
   - id:  "fig-16-4"
     src: "figures/fig-16-4-hernandez.jpg"
     label: "Figure 16.4"
     caption: "Detail of *Encobijados*."
     credit: "Photo: Claudio Hernández"
+    alt: "Zoomed-in gloved finger pointing at green plant-matter fragments on plaid blue and grey fuzzy blanket"
 
   - id:  "fig-17-1"
     src: "figures/fig-17-1-heremans.jpg"
