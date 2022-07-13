@@ -1072,38 +1072,45 @@ figure_list:
     label: "Figure 17.1"
     caption: "Joseph Beuys (German, 1921–1986), *Wirtschaftswerte*, 1980, as it appeared in 2014. Mixed media, 330 × 400 × 266 cm. S.M.A.K., Ghent, Belgium."
     credit: "Photo: Dirk Pauwels, © S.M.A.K."
+    alt: "Metal shelves holding wooden objects; plaster block in front, surrounded by framed paintings in corner of room"
 
   - id:  "fig-17-2"
     src: "figures/fig-17-2-heremans.jpg"
     label: "Figure 17.2"
     caption: "Inscription detail of *Wirtschaftswerte*."
     credit: "Photo: © Gerhard Steidl + Klaus Staeck, from *Joseph Beuys – Das Wirtschaftswertprinzip* (Göttingen, Germany: Steidl Verlag/Edition Staeck, 1997)"
+    alt: "Brown paper bag with red Xs overwritten with blue and red text reading ‘Gute Ware Reiche Auswahl’"
 
   - id:  "fig-17-3"
     src: "figures/fig-17-3-heremans.jpg"
     label: "Figure 17.3"
     caption: "Joseph Beuys applies butter to the plaster block for the exhibition *Kunst in Europa na ’68*, Vereniging voor het Museum voor Hedendaagse Kunst, Ghent, 1980."
     credit: "Photo: © Gerhard Steidl + Klaus Staeck, from *Joseph Beuys – Das Wirtschaftwertprinzip* (Göttingen, Germany: Steidl Verlag/Edition Staeck, 1997)"
+    alt: "Artist crouching in narrow space to apply butter with a paintbrush, clutching tissue in the other hand"
 
   - id: "fig-17-4a"
     src: "figures/fig-17-4a-heremans.jpg"
     label: "Figure 17.4a"
     # caption and credit info in shortcode
+    alt: "Overhead view of package with tearing paper extruding as it fades into the background"
 
   - id: "fig-17-4b"
     src: "figures/fig-17-4b-heremans.jpg"
     label: "Figure 17.4b"
     # caption and credit info in shortcode
+    alt: "Wood submerged in ‘romi margarine’ cup full of styrafoam balls and orange discolorations with lid to the side"
 
   - id: "fig-17-5a"
     src: "figures/fig-17-5a-heremans.jpg"
     label: "Figure 17.5a"
     # caption and credit info in shortcode
+    alt: "Reddish-brown rolled-up 1-Kilo paper bag with faded stamp and printed words; in front is a metal ruler"
 
   - id: "fig-17-5b"
     src: "figures/fig-17-5b-heremans.jpg"
     label: "Figure 17.5b"
     # caption and credit info in shortcode
+    alt: "Brownish-green discolored pouch with ‘Krini Turlu Tursu’ label at the top and metal ruler below"
 
   - id:  "fig-17-6"
     src: "figures/fig-17-6-heremans.jpg"
