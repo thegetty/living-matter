@@ -1320,12 +1320,14 @@ figure_list:
     label: "Figure 21.1"
     caption: "Dragoljub Raša Todosijević (b. 1945, Belgrade), *Nailed Bread*, 1973. Bread, wood, and nails, 26 × 35 × 14.5 cm. Museum of Contemporary Art, Zagreb, inv. no 1810."
     credit: "Photo: Jovan Kliska"
+    alt: "Three long black nails stuck equidistantly into crumbling bread placed upon wooden slab (atop plinth)"
 
   - id:  "fig-21-2"
     src: "figures/fig-21-2-pavic.jpg"
     label: "Figure 21.2"
     caption: "*Nailed Bread* on display next to Philip Corner's *Piano Bed* (1999) at the Museum of Contemporary Art, Zagreb, 2010."
     credit: "Photo: Goran Vranić"
+    alt: "Lit bread installation in a room with framed paintings, next to installation of large haystack spilling out of piano"
 
   - id:  "fig-21-3"
     src: "figures/fig-21-3-pavic.jpg"
@@ -1334,12 +1336,14 @@ figure_list:
     label: "Figure 21.3"
     caption: "Testing the consolidated sample in comparison to a sample with no consolidant."
     credit: "Video: Museum of Contemporary Art, Zagreb"
+    alt: "Video of artist testing bread samples by poking with needle, and dropping onto floor to check breakage"
 
   - id:  "fig-21-4"
     src: "figures/fig-21-4-pavic.jpg"
     label: "Figure 21.4"
     caption: "*Nailed Bread* during the first conservation treatment in 2010."
     credit: "Photo: Mirta Pavić"
+    alt: "Crumbling bread on slab with nails drilled in; two removed bread chunks in front of slab"
 
   - id:  "fig-21-5"
     src: "figures/fig-21-5-pavic.jpg"
@@ -1348,18 +1352,21 @@ figure_list:
     label: "Figure 21.5"
     caption: "Consolidation with Paraloid B-72, 2010."
     credit: "Video: Museum of Contemporary Art, Zagreb"
+    alt: "Video of bread being carefully reassembled, with removed chunks reattached using liquid in a syringe"
 
   - id: "fig-21-6"
     src: "figures/fig-21-6-pavic.jpg"
     label: "Figure 21.6"
     caption: "Samples consolidated with four different consolidants."
     credit: "Photo: Mirta Pavić"
+    alt: "Organized samples of ‘Paraloid B-72’, ‘Mowilith 50’, ‘Aquazol 500’, and ‘Aquazol 200’ with labels next to bread chunks and polymer resins"
 
   - id: "fig-21-7"
     src: "figures/fig-21-7-pavic.jpg"
     label: "Figure 21.7"
     caption: "Sample preparation—the microtome cross sections."
     credit: "Photo: Harald Fitzek"
+    alt: "Bread cross-sections with labels on tray; diagram shows ‘Sample Paraloid B72 middle’ in wooden block with holes next to ‘embedded crossection’ in similar block"
 
   - id:  "fig-21-8"
     src: "figures/fig-21-8-pavic.jpg"
