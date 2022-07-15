@@ -1058,7 +1058,7 @@ figure_list:
     label: "Figure 16.3"
     caption: "Teresa Margolles (Mexican, b. 1963), *Encobijados* (The Covered Ones), 2006. Mass-produced blankets used to wrap the bodies of victims of organized crime, metal T-shaped pipes, seven parts, 94 × 116 cm each. Museo Universitario Arte Contemporáneo, UNAM, Mexico City."
     credit: "Photo: Irene Barajas, courtesy MUAC"
-    alt:"Three-quarter view of row of patterned red, blue, and plaid blankets standing upright in rectangular formations "
+    alt: "Three-quarter view of row of patterned red, blue, and plaid blankets standing upright in rectangular formations "
 
   - id:  "fig-16-4"
     src: "figures/fig-16-4-hernandez.jpg"
